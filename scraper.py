@@ -104,7 +104,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    BASE_URL = "https://bookwalker.in.th/categories/3/?order=rank&np=1"
+    BASE_URL = "https://bookwalker.in.th/categories/3/?order=release&np=1&qpri_min=1&qpri_max=400"
     
     try:
         books_data = scrape_all_books(BASE_URL)
