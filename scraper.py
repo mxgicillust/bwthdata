@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def scrape_page(page_url, session):
     try:
-        response = session.get(page_url, timeout=10)
+        response = session.get(page_url, timeout=100)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         books = []
