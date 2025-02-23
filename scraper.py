@@ -145,7 +145,7 @@ if __name__ == "__main__":
     
     try:
         books_data = scrape_all_books(BASE_URL)
-        save_to_json(books_data, 'data.json')
+        save_to_json(books_data, 'data2.json')
         print(f"Scraping completed. Total books scraped: {len(books_data)}")
     except Exception as e:
         print(f"An error occurred during scraping: {e}")
