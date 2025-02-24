@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def scrape_page(page_url, session):
     try:
-        response = session.get(page_url, timeout=60*60)
+        response = session.get(page_url, timeout=60*60*12)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         books = []
@@ -69,6 +69,10 @@ def scrape_all_pages(base_url):
     page_num = 1
     all_books = []
     with requests.Session() as session:
+        # Add User-Agent to mimic a browser
+        session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        })
         while True:
             page_url = f"{base_url}&page={page_num}"
             print(f"Scraping page: {page_url}")
@@ -89,6 +93,9 @@ def scrape_all_books(base_url):
     detailed_books = []
     
     with ThreadPoolExecutor(max_workers=5) as executor, requests.Session() as session:
+        session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        })
         futures = [executor.submit(scrape_book_details, book, session) for book in books]
         
         for future in as_completed(futures):
