@@ -14,8 +14,10 @@ def scrape_page(page_url, session):
         
         for book_element in book_elements:
             try:
-                book_url = book_element['href']
                 book_title = book_element.text.strip()
+                if book_title.startswith("Short Story Set"):
+                    continue
+                book_url = book_element['href']
                 books.append({'title': book_title, 'url': book_url})
             except Exception as e:
                 print(f"Error parsing book element: {e}")
@@ -25,48 +27,43 @@ def scrape_page(page_url, session):
         return []
 
 def scrape_book_details(book, session):
-    """Scrapes details of a single book."""
-    try:
-        time.sleep(0.5)
-        
-        response = session.get(book['url'], timeout=10)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        script_tag = soup.find('script', type='application/ld+json')
-        
-        book['data'] = {}
-        
-        if script_tag:
-            try:
-                book_info = json.loads(script_tag.string)
-                book['data'] = {
-                    'isbn': book_info.get('isbn', 'N/A'),
-                    'image': book_info.get('image', 'N/A'),
-                    'description': book_info.get('description', 'N/A')
-                }
-            except (json.JSONDecodeError, TypeError) as e:
-                print(f"Error parsing JSON for {book['url']}: {e}")
+    """Scrapes details of a single book with retry on failure."""
+    while True:
+        try:
+            time.sleep(0.5)
+            response = session.get(book['url'], timeout=10)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'html.parser')
+            script_tag = soup.find('script', type='application/ld+json')
+            
+            book['data'] = {}
+            
+            if script_tag:
+                try:
+                    book_info = json.loads(script_tag.string)
+                    book['data'] = {
+                        'isbn': book_info.get('isbn', 'N/A'),
+                        'image': book_info.get('image', 'N/A'),
+                        'description': book_info.get('description', 'N/A')
+                    }
+                except (json.JSONDecodeError, TypeError) as e:
+                    print(f"Error parsing JSON for {book['url']}: {e}")
+                    book['data'] = {
+                        'isbn': 'N/A',
+                        'image': 'N/A',
+                        'description': 'N/A'
+                    }
+            else:
                 book['data'] = {
                     'isbn': 'N/A',
                     'image': 'N/A',
                     'description': 'N/A'
                 }
-        else:
-            book['data'] = {
-                'isbn': 'N/A',
-                'image': 'N/A',
-                'description': 'N/A'
-            }
-        
-        return book
-    except requests.exceptions.RequestException as e:
-        print(f"Error scraping book details for {book['url']}: {e}")
-        book['data'] = {
-            'isbn': 'N/A',
-            'image': 'N/A',
-            'description': 'N/A'
-        }
-        return book
+            
+            return book
+        except requests.exceptions.RequestException as e:
+            print(f"Error scraping book details for {book['url']}: {e}. Retrying in 5 minutes...")
+            time.sleep(5 * 60)  # Wait 5 minutes before retrying
 
 def scrape_all_pages(base_url):
     page_num = 1
@@ -104,7 +101,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    BASE_URL = "https://bookwalker.in.th/categories/3/?order=release&np=1&qpri_min=1&qpri_max=400"
+    BASE_URL = "https://bookwalker.in.th/categories/3/?order=release&np=1" 
     
     try:
         books_data = scrape_all_books(BASE_URL)
