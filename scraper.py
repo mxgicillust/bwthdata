@@ -15,7 +15,7 @@ def scrape_page(page_url, session):
         for book_element in book_elements:
             try:
                 book_title = book_element.text.strip()
-                if book_title.startswith("Short Story Set"):
+                if book_title.startswith("Short Story Set") or book_title.startswith("[ยกชุด]"):
                     continue
                 book_url = book_element['href']
                 books.append({'title': book_title, 'url': book_url})
