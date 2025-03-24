@@ -137,7 +137,7 @@ def fetch():
                 "uuid": item.get("uuid"),
                 "productId": item.get("productId"),
                 "synopsis": item.get("productExplanationDetails"),
-                "coverFileName": item.get("coverFileName"),
+                "coverUrl": item.get("coverFileName"),
                 "publisherId": item.get("publisherId"),
                 "publisherName": item.get("publisherName"),
                 "purchasedCount": item.get("purchasedCount"),
