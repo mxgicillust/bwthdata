@@ -147,7 +147,12 @@ def fetch():
                 "purchasedCount": item.get("purchasedCount"),
             })
         
-        with open("data_v2.json", "w", encoding="utf-8") as f:
+        file_path = "data_v2.json"
+        if not os.path.exists(file_path):
+            with open(file_path, "w", encoding="utf-8") as f:
+                json.dump([], f, ensure_ascii=False, indent=4)
+        
+        with open(file_path, "w", encoding="utf-8") as f:
             json.dump(extracted_data, f, ensure_ascii=False, indent=4)
         
         return extracted_data
