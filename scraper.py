@@ -147,7 +147,7 @@ def fetch():
                 "purchasedCount": item.get("purchasedCount"),
             })
         
-        with open("data2.json", "w", encoding="utf-8") as f:
+        with open("data_v2.json", "w", encoding="utf-8") as f:
             json.dump(extracted_data, f, ensure_ascii=False, indent=4)
         
         return extracted_data
