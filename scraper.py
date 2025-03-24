@@ -120,6 +120,7 @@
 
 import requests
 import json
+import os
 
 def fetch():
     url = "https://bookwalker.in.th/api/categories/3/?p=1&p_size=10000&sort_by=release_date"
