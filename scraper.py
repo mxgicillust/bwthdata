@@ -130,6 +130,10 @@ def fetch():
         extracted_data = []
         
         for item in data:
+            product_name = item.get("productName", "")
+            if product_name.startswith("[Short Story Set]") or product_name.startswith("[ยกชุด]"):
+                continue
+
             extracted_data.append({
                 "title": item.get("productName"),
                 "seriesName": item.get("seriesName"),
@@ -137,7 +141,7 @@ def fetch():
                 "uuid": item.get("uuid"),
                 "productId": item.get("productId"),
                 "synopsis": item.get("productExplanationDetails"),
-                "coverUrl": item.get("coverFileName"),
+                "coverFileName": item.get("coverFileName"),
                 "publisherId": item.get("publisherId"),
                 "publisherName": item.get("publisherName"),
                 "purchasedCount": item.get("purchasedCount"),
@@ -152,5 +156,4 @@ def fetch():
         return []
 
 if __name__ == "__main__":
-    productions = fetch()
-
+    fetch()
