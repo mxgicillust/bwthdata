@@ -1,3 +1,90 @@
+import requests
+import json
+import os
+from collections import defaultdict
+
+def clean_title_kana(title):
+    cleaned = title.replace("(ฉบับนิยาย)", "")
+    cleaned = cleaned.replace("เล่ม 1", "")
+    cleaned = cleaned.replace("เล่ม", "")
+    cleaned = cleaned.lower();
+    cleaned = "".join(cleaned.split())
+    return cleaned
+
+def replace_prefix(text, old_prefix, new_prefix):
+    if text.startswith(old_prefix):
+        return new_prefix + text[len(old_prefix):]
+    return text
+
+# Series Mapping
+locked_names = {
+    "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ": "ไซเลนต์วิตช์",
+"ผู้ดูแลเด็กสาว, ผมกลายเป็นผู้ดูแลแบบลับ ๆ ของคุณหนู (ที่ไม่มีความสามารถในการดำรงชีพ) ที่แสนเพียบพร้อมของโรงเรียนมัธยมอันทรงเกียรติที่เต็มไปด้วยดอกฟ้า": "ผู้ดูแลเด็กสาว",
+}
+
+def fetch():
+    url = "https://bookwalker.in.th/api/categories/3/?p=1&p_size=10000&sort_by=release_date"
+    response = requests.get(url)
+
+    if response.status_code != 200:
+        print(f"Failed to fetch data: {response.status_code}")
+        return []
+
+    data = response.json().get("data", [])
+    grouped_data = defaultdict(lambda: {
+        "seriesName": "",
+        "seriesId": "",
+        "publisherId": "",
+        "publisherName": "",
+        "books": []
+    })
+
+    skip_prefixes = ("[Short Story Set]", "[ยกชุด]")
+
+    for item in data:
+        product_name = item.get("productName", "")
+        if product_name.startswith(skip_prefixes):
+            continue
+
+        series_id = item.get("seriesId")
+        if not series_id:
+            continue
+
+        original_series_name = item.get("seriesName", "")
+        locked_series_name = locked_names.get(original_series_name, original_series_name)
+
+        grouped_data[series_id]["seriesName"] = locked_series_name
+        grouped_data[series_id]["seriesId"] = series_id
+        grouped_data[series_id]["publisherId"] = item.get("publisherId")
+        grouped_data[series_id]["publisherName"] = item.get("publisherName")
+
+        cleaned_original_series_name = "".join(original_series_name.lower().split())
+        cleaned_locked_series_name = "".join(locked_series_name.lower().split())
+
+        cleaned_title_kana = clean_title_kana(product_name)
+
+        title_kana = replace_prefix(cleaned_title_kana, cleaned_original_series_name, cleaned_locked_series_name)
+
+        grouped_data[series_id]["books"].append({
+            "title": product_name,
+            "titleKana": title_kana,
+            "uuid": item.get("uuid"),
+            "productId": item.get("productId"),
+            "synopsis": item.get("productExplanationDetails"),
+            "coverFileName": item.get("coverFileName"),
+            "purchasedCount": item.get("purchasedCount"),
+        })
+
+    result = list(grouped_data.values())
+
+    with open("data_v3.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
+
+    return result
+
+if __name__ == "__main__":
+    fetch()
+        
 # import requests
 # from bs4 import BeautifulSoup
 # import json
@@ -164,90 +251,5 @@
 # if __name__ == "__main__":
 #     fetch()
 
-import requests
-import json
-import os
-from collections import defaultdict
 
-def clean_title_kana(title):
-    cleaned = title.replace("(ฉบับนิยาย)", "")
-    cleaned = cleaned.replace("เล่ม 1", "")
-    cleaned = cleaned.replace("เล่ม", "")
-    cleaned = cleaned.lower();
-    cleaned = "".join(cleaned.split())
-    return cleaned
-
-def replace_prefix(text, old_prefix, new_prefix):
-    if text.startswith(old_prefix):
-        return new_prefix + text[len(old_prefix):]
-    return text
-
-# Series Mapping
-locked_names = {
-    "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ": "ไซเลนต์วิตช์",
-"ผู้ดูแลเด็กสาว, ผมกลายเป็นผู้ดูแลแบบลับ ๆ ของคุณหนู (ที่ไม่มีความสามารถในการดำรงชีพ) ที่แสนเพียบพร้อมของโรงเรียนมัธยมอันทรงเกียรติที่เต็มไปด้วยดอกฟ้า": "ผู้ดูแลเด็กสาว",
-}
-
-def fetch():
-    url = "https://bookwalker.in.th/api/categories/3/?p=1&p_size=10000&sort_by=release_date"
-    response = requests.get(url)
-
-    if response.status_code != 200:
-        print(f"Failed to fetch data: {response.status_code}")
-        return []
-
-    data = response.json().get("data", [])
-    grouped_data = defaultdict(lambda: {
-        "seriesName": "",
-        "seriesId": "",
-        "publisherId": "",
-        "publisherName": "",
-        "books": []
-    })
-
-    skip_prefixes = ("[Short Story Set]", "[ยกชุด]")
-
-    for item in data:
-        product_name = item.get("productName", "")
-        if product_name.startswith(skip_prefixes):
-            continue
-
-        series_id = item.get("seriesId")
-        if not series_id:
-            continue
-
-        original_series_name = item.get("seriesName", "")
-        locked_series_name = locked_names.get(original_series_name, original_series_name)
-
-        grouped_data[series_id]["seriesName"] = locked_series_name
-        grouped_data[series_id]["seriesId"] = series_id
-        grouped_data[series_id]["publisherId"] = item.get("publisherId")
-        grouped_data[series_id]["publisherName"] = item.get("publisherName")
-
-        cleaned_original_series_name = "".join(original_series_name.split())
-        cleaned_locked_series_name = "".join(locked_series_name.split())
-
-        cleaned_title_kana = clean_title_kana(product_name)
-
-        title_kana = replace_prefix(cleaned_title_kana, cleaned_original_series_name, cleaned_locked_series_name)
-
-        grouped_data[series_id]["books"].append({
-            "title": product_name,
-            "titleKana": title_kana,
-            "uuid": item.get("uuid"),
-            "productId": item.get("productId"),
-            "synopsis": item.get("productExplanationDetails"),
-            "coverFileName": item.get("coverFileName"),
-            "purchasedCount": item.get("purchasedCount"),
-        })
-
-    result = list(grouped_data.values())
-
-    with open("data_v3.json", "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=4)
-
-    return result
-
-if __name__ == "__main__":
-    fetch()
 
