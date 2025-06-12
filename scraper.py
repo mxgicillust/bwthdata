@@ -58,8 +58,8 @@ def fetch():
         grouped_data[series_id]["publisherId"] = item.get("publisherId")
         grouped_data[series_id]["publisherName"] = item.get("publisherName")
 
-        cleaned_original_series_name = "".join(original_series_name.lower().split())
-        cleaned_locked_series_name = "".join(locked_series_name.lower().split())
+        cleaned_original_series_name = "".join(original_series_name.split())
+        cleaned_locked_series_name = "".join(locked_series_name.split())
 
         cleaned_title_kana = clean_title_kana(product_name)
 
