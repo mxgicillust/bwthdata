@@ -171,6 +171,7 @@ from collections import defaultdict
 
 def clean_title_kana(title):
     cleaned = title.replace("(ฉบับนิยาย)", "")
+    cleaned = cleaned.replace("เล่ม 1", "")
     cleaned = cleaned.replace("เล่ม", "")
     cleaned = "".join(cleaned.split())  # remove all whitespace
     return cleaned
