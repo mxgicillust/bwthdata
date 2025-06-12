@@ -173,7 +173,8 @@ def clean_title_kana(title):
     cleaned = title.replace("(ฉบับนิยาย)", "")
     cleaned = cleaned.replace("เล่ม 1", "")
     cleaned = cleaned.replace("เล่ม", "")
-    cleaned = "".join(cleaned.split())  # remove all whitespace
+    cleaned = cleaned.lower();
+    cleaned = "".join(cleaned.split())
     return cleaned
 
 def replace_prefix(text, old_prefix, new_prefix):
