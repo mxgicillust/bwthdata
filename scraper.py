@@ -5,7 +5,7 @@ from collections import defaultdict
 
 def clean_title_kana(title):
     cleaned = title.replace("(ฉบับนิยาย)", "")
-    cleaned = cleaned.replace("เล่ม 1", "")
+    cleaned = cleaned.replace("(นิยาย)", "")
     cleaned = cleaned.replace("เล่ม", "")
     cleaned = cleaned.lower();
     cleaned = "".join(cleaned.split())
@@ -77,7 +77,7 @@ def fetch():
 
     result = list(grouped_data.values())
 
-    with open("data_v3.json", "w", encoding="utf-8") as f:
+    with open("data.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
 
     return result
