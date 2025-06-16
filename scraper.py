@@ -7,6 +7,7 @@ def clean_title_kana(title):
     cleaned = title.replace("(ฉบับนิยาย)", "")
     cleaned = cleaned.replace("(นิยาย)", "")
     cleaned = cleaned.replace("เล่ม", "")
+    cleaned = cleaned.replace("ํา", "ำ")
     cleaned = cleaned.lower();
     cleaned = "".join(cleaned.split())
     return cleaned
