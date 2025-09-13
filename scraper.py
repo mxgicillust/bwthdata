@@ -72,9 +72,10 @@ def fetch():
         cleaned_original_series_name = "".join(original_series_name.split())
         cleaned_locked_series_name = "".join(locked_series_name.split())
 
-        cleaned_title_kana = clean_title_kana(product_name)
+        normalized_original_series_name = normalize_series_name(original_series_name)
+        cleaned_normalized_original = "".join(normalized_original_series_name.split())
 
-        title_kana = replace_prefix(cleaned_title_kana, cleaned_original_series_name, cleaned_locked_series_name)
+        title_kana = replace_prefix(cleaned_title_kana, cleaned_normalized_original, cleaned_locked_series_name)
 
         grouped_data[series_id]["books"].append({
             "title": product_name,
@@ -261,6 +262,7 @@ if __name__ == "__main__":
 
 # if __name__ == "__main__":
 #     fetch()
+
 
 
 
