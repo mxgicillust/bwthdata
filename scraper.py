@@ -17,6 +17,9 @@ def replace_prefix(text, old_prefix, new_prefix):
         return new_prefix + text[len(old_prefix):]
     return text
 
+def normalize_series_name(name: str) -> str:
+    return name.replace("(ฉบับนิยาย)", "").replace("(นิยาย)", "").strip()
+
 # Series Mapping
 locked_names = {
     "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ": "ไซเลนต์วิตช์",
@@ -58,7 +61,8 @@ def fetch():
             continue
 
         original_series_name = item.get("seriesName", "")
-        locked_series_name = locked_names.get(original_series_name, original_series_name)
+        normalized_name = normalize_series_name(original_series_name)
+        locked_series_name = locked_names.get(normalized_name, normalized_name)
 
         grouped_data[series_id]["seriesName"] = locked_series_name
         grouped_data[series_id]["seriesId"] = series_id
@@ -257,6 +261,7 @@ if __name__ == "__main__":
 
 # if __name__ == "__main__":
 #     fetch()
+
 
 
 
