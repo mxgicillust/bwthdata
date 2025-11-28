@@ -52,7 +52,7 @@ def fetch():
     skip_prefixes = ("[Short Story Set]", "[ยกชุด]")
 
     for item in data:
-        product_name = item.get("productName", "")
+        product_name = item.get("name", "")
         if product_name.startswith(skip_prefixes):
             continue
 
@@ -262,6 +262,7 @@ if __name__ == "__main__":
 
 # if __name__ == "__main__":
 #     fetch()
+
 
 
 
