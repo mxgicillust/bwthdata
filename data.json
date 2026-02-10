@@ -1,5 +1,112 @@
 [
     {
+        "seriesName": "นายโดดเดี่ยวพิชิตต่างโลก",
+        "seriesId": 407113,
+        "publisherId": 2529,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 11 บาทหลวงคนนั้นเป็นศัตรูของพระเจ้า",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก11บาทหลวงคนนั้นเป็นศัตรูของพระเจ้า",
+                "uuid": "5213963c-65fa-4806-95e7-dee1d8fd6d3b",
+                "productId": 3174540,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9e536c81ac7043b3ae24033d94ec354b.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 10 เหล่าสัตว์ป่าแห่งลัทธิเลเวลนิยม",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก10เหล่าสัตว์ป่าแห่งลัทธิเลเวลนิยม",
+                "uuid": "880bdda5-a182-40d1-a2b6-7e464cc81bfa",
+                "productId": 2835243,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9542b00e0ff14ddab84422cf8d5d8fd1.jpg",
+                "purchasedCount": 34
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 9 การโจมตีสังหารของซิสเตอร์ผู้บริสุทธิ์",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก9การโจมตีสังหารของซิสเตอร์ผู้บริสุทธิ์",
+                "uuid": "f39843db-c562-427e-8853-6181ef27d5fd",
+                "productId": 2538646,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d307f9834b1c4f1f9f6651ff693c98f1.jpg",
+                "purchasedCount": 56
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 8 วันหยุดชายแดนในสายลมฤดูร้อน",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก8วันหยุดชายแดนในสายลมฤดูร้อน",
+                "uuid": "eead3ffa-84ef-4bdb-ab36-9c263ac3f21b",
+                "productId": 2410800,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7060a469fcc949e5b8f39ed857449d27.jpg",
+                "purchasedCount": 72
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 7 แล้วนักเต้นก็กลับจากยมโลก",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก7แล้วนักเต้นก็กลับจากยมโลก",
+                "uuid": "eb60e3c8-12e7-4b0d-a61a-046ad5352894",
+                "productId": 2214373,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6b17d26964844fc78be17ced7f82fec6.jpg",
+                "purchasedCount": 76
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 6 การกอบกู้เมืองหลวงของร้านขายของฝาก สาขาเด็กบ้านกำพร้า",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก6การกอบกู้เมืองหลวงของร้านขายของฝากสาขาเด็กบ้านกำพร้า",
+                "uuid": "af275f55-f5ed-40f9-b587-ef00f138dcff",
+                "productId": 1990487,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f616246f5635406f8795e3ef2c95f817.jpg",
+                "purchasedCount": 74
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 5 ผู้เหนือล้ำกับยมทูตและคนอ่อนแอที่สุด",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก5ผู้เหนือล้ำกับยมทูตและคนอ่อนแอที่สุด",
+                "uuid": "3ee62a5c-1a1f-4e16-b8e1-df203fe1c2d7",
+                "productId": 1686957,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6424436.jpg",
+                "purchasedCount": 82
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 4 องค์หญิงเอ๋ยจงปลิดปลิวในดันเจี้ยนปลอม",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก4องค์หญิงเอ๋ยจงปลิดปลิวในดันเจี้ยนปลอม",
+                "uuid": "8a7a7116-3e57-4229-9c71-f7c31d8054ae",
+                "productId": 1627077,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6205826.jpg",
+                "purchasedCount": 100
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 3 เวทมนตร์โยกย้ายเพื่อสาวน้อยขี้แย",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก3เวทมนตร์โยกย้ายเพื่อสาวน้อยขี้แย",
+                "uuid": "ea1ca4f1-0784-45ab-b08f-1a33e6ea8bd6",
+                "productId": 1627076,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6205824.jpg",
+                "purchasedCount": 100
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 2 จักรพรรดิดันเจี้ยนยอดเก่งก็โดดเดี่ยว",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก2จักรพรรดิดันเจี้ยนยอดเก่งก็โดดเดี่ยว",
+                "uuid": "6f67dd8d-4813-4df2-84c1-690cec98d104",
+                "productId": 1627075,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6205822.jpg",
+                "purchasedCount": 114
+            },
+            {
+                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 1 สกิลโกงขายหมดแล้ว",
+                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก1สกิลโกงขายหมดแล้ว",
+                "uuid": "002c9477-004d-4657-83ca-f6604c0584bd",
+                "productId": 1627073,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6205818.jpg",
+                "purchasedCount": 118
+            }
+        ]
+    },
+    {
         "seriesName": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria",
         "seriesId": 577016,
         "publisherId": 2529,
@@ -689,7 +796,7 @@
                 "productId": 3095870,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1bbb2b5260124b4391181978b79965e3.jpg",
-                "purchasedCount": 140
+                "purchasedCount": 144
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 11",
@@ -698,7 +805,7 @@
                 "productId": 2833069,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6efa1f47c4404dfe9d751ceb0fbb5c6e.jpg",
-                "purchasedCount": 174
+                "purchasedCount": 176
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 10",
@@ -707,7 +814,7 @@
                 "productId": 2686867,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_bd1cb9cc75154997bda9479ab9309e4d.jpg",
-                "purchasedCount": 186
+                "purchasedCount": 188
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 9.5",
@@ -716,7 +823,7 @@
                 "productId": 2353543,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d287e3d290bf4d41bc9d812f39756d3a.jpg",
-                "purchasedCount": 248
+                "purchasedCount": 250
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 9",
@@ -725,7 +832,7 @@
                 "productId": 2046669,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_5a38bdb2e1444938aa42f7bf6de69d45.jpg",
-                "purchasedCount": 348
+                "purchasedCount": 350
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 8",
@@ -734,7 +841,7 @@
                 "productId": 1920539,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7248266.jpg",
-                "purchasedCount": 296
+                "purchasedCount": 298
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 7",
@@ -743,7 +850,7 @@
                 "productId": 1722784,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6547758.jpg",
-                "purchasedCount": 294
+                "purchasedCount": 296
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 6",
@@ -752,7 +859,7 @@
                 "productId": 1658528,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6314920.jpg",
-                "purchasedCount": 316
+                "purchasedCount": 318
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 5",
@@ -761,7 +868,7 @@
                 "productId": 1627766,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588604.jpg",
-                "purchasedCount": 220
+                "purchasedCount": 222
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 4.5",
@@ -770,7 +877,7 @@
                 "productId": 1627729,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588602.jpg",
-                "purchasedCount": 196
+                "purchasedCount": 198
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 4",
@@ -779,7 +886,7 @@
                 "productId": 1627728,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588608.jpg",
-                "purchasedCount": 178
+                "purchasedCount": 180
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 2",
@@ -1601,7 +1708,7 @@
                 "productId": 3035580,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f4d124941e9a4e4b9e593c5c164c5541.jpg",
-                "purchasedCount": 282
+                "purchasedCount": 284
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เบื้องหลัง",
@@ -2214,7 +2321,7 @@
                 "productId": 2998528,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_9fe30cd8c6dd44c7bb73a8060abe2df8.jpg",
-                "purchasedCount": 14
+                "purchasedCount": 16
             },
             {
                 "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 01",
@@ -2625,7 +2732,7 @@
                 "productId": 2567671,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3b8e1759576240e3adfb8d4ccdb1658c.jpg",
-                "purchasedCount": 9
+                "purchasedCount": 10
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 16",
@@ -5394,7 +5501,7 @@
                 "productId": 2510758,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6515468bbb9e4b1da43a2075d7bd42e3.jpg",
-                "purchasedCount": 30
+                "purchasedCount": 32
             }
         ]
     },
@@ -5447,104 +5554,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4d23ba7f85804a818d6f1d3b1e2ac2f4.jpg",
                 "purchasedCount": 170
-            }
-        ]
-    },
-    {
-        "seriesName": "นายโดดเดี่ยวพิชิตต่างโลก",
-        "seriesId": 407113,
-        "publisherId": 2529,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 10 เหล่าสัตว์ป่าแห่งลัทธิเลเวลนิยม",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก10เหล่าสัตว์ป่าแห่งลัทธิเลเวลนิยม",
-                "uuid": "880bdda5-a182-40d1-a2b6-7e464cc81bfa",
-                "productId": 2835243,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9542b00e0ff14ddab84422cf8d5d8fd1.jpg",
-                "purchasedCount": 34
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 9 การโจมตีสังหารของซิสเตอร์ผู้บริสุทธิ์",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก9การโจมตีสังหารของซิสเตอร์ผู้บริสุทธิ์",
-                "uuid": "f39843db-c562-427e-8853-6181ef27d5fd",
-                "productId": 2538646,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d307f9834b1c4f1f9f6651ff693c98f1.jpg",
-                "purchasedCount": 56
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 8 วันหยุดชายแดนในสายลมฤดูร้อน",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก8วันหยุดชายแดนในสายลมฤดูร้อน",
-                "uuid": "eead3ffa-84ef-4bdb-ab36-9c263ac3f21b",
-                "productId": 2410800,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7060a469fcc949e5b8f39ed857449d27.jpg",
-                "purchasedCount": 72
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 7 แล้วนักเต้นก็กลับจากยมโลก",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก7แล้วนักเต้นก็กลับจากยมโลก",
-                "uuid": "eb60e3c8-12e7-4b0d-a61a-046ad5352894",
-                "productId": 2214373,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6b17d26964844fc78be17ced7f82fec6.jpg",
-                "purchasedCount": 76
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 6 การกอบกู้เมืองหลวงของร้านขายของฝาก สาขาเด็กบ้านกำพร้า",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก6การกอบกู้เมืองหลวงของร้านขายของฝากสาขาเด็กบ้านกำพร้า",
-                "uuid": "af275f55-f5ed-40f9-b587-ef00f138dcff",
-                "productId": 1990487,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f616246f5635406f8795e3ef2c95f817.jpg",
-                "purchasedCount": 74
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 5 ผู้เหนือล้ำกับยมทูตและคนอ่อนแอที่สุด",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก5ผู้เหนือล้ำกับยมทูตและคนอ่อนแอที่สุด",
-                "uuid": "3ee62a5c-1a1f-4e16-b8e1-df203fe1c2d7",
-                "productId": 1686957,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6424436.jpg",
-                "purchasedCount": 82
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 4 องค์หญิงเอ๋ยจงปลิดปลิวในดันเจี้ยนปลอม",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก4องค์หญิงเอ๋ยจงปลิดปลิวในดันเจี้ยนปลอม",
-                "uuid": "8a7a7116-3e57-4229-9c71-f7c31d8054ae",
-                "productId": 1627077,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6205826.jpg",
-                "purchasedCount": 100
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 3 เวทมนตร์โยกย้ายเพื่อสาวน้อยขี้แย",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก3เวทมนตร์โยกย้ายเพื่อสาวน้อยขี้แย",
-                "uuid": "ea1ca4f1-0784-45ab-b08f-1a33e6ea8bd6",
-                "productId": 1627076,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6205824.jpg",
-                "purchasedCount": 100
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 2 จักรพรรดิดันเจี้ยนยอดเก่งก็โดดเดี่ยว",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก2จักรพรรดิดันเจี้ยนยอดเก่งก็โดดเดี่ยว",
-                "uuid": "6f67dd8d-4813-4df2-84c1-690cec98d104",
-                "productId": 1627075,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6205822.jpg",
-                "purchasedCount": 114
-            },
-            {
-                "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 1 สกิลโกงขายหมดแล้ว",
-                "titleKana": "นายโดดเดี่ยวพิชิตต่างโลก1สกิลโกงขายหมดแล้ว",
-                "uuid": "002c9477-004d-4657-83ca-f6604c0584bd",
-                "productId": 1627073,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6205818.jpg",
-                "purchasedCount": 118
             }
         ]
     },
@@ -16911,7 +16920,7 @@
                 "productId": 1661468,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_867eeaad66c445febf0f2a91e9171559.jpg",
-                "purchasedCount": 19
+                "purchasedCount": 20
             }
         ]
     },
