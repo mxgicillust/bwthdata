@@ -1,5 +1,379 @@
 [
     {
+        "seriesName": "ห้องเรียนจารชน",
+        "seriesId": 408239,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ห้องเรียนจารชน เล่ม 13",
+                "titleKana": "ห้องเรียนจารชน13",
+                "uuid": "113b3e42-634b-4980-af5c-9df34a4537ca",
+                "productId": 3177856,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ba4d202c506e4be28d2ba092a75195b0.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 12",
+                "titleKana": "ห้องเรียนจารชน12",
+                "uuid": "94eb377e-a4db-4774-89f2-53fc6eaa427b",
+                "productId": 2942127,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_320f5eae92204e39ae0964c32a7b4c4e.jpg",
+                "purchasedCount": 23
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 11",
+                "titleKana": "ห้องเรียนจารชน11",
+                "uuid": "c89f15af-6923-4f5d-980f-8b57d9fdb989",
+                "productId": 2628566,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_cfd807aabe664dcaa021f4da5b394060.jpg",
+                "purchasedCount": 44
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 10",
+                "titleKana": "ห้องเรียนจารชน10",
+                "uuid": "ad18519c-38b9-45f7-baef-493493148e33",
+                "productId": 2355060,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_661ec63acf6d430c810e3e10b4da5792.jpg",
+                "purchasedCount": 42
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 9",
+                "titleKana": "ห้องเรียนจารชน9",
+                "uuid": "f9629344-4a09-4240-8366-29bbf38d0733",
+                "productId": 2009825,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_06dc4b5efc584b3a8337927be5a649a1.jpg",
+                "purchasedCount": 58
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 8",
+                "titleKana": "ห้องเรียนจารชน8",
+                "uuid": "8bd01aeb-b1be-40f8-a0f3-0357a779b8c2",
+                "productId": 1838937,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6965180.jpg",
+                "purchasedCount": 76
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 3",
+                "titleKana": "ห้องเรียนจารชน3",
+                "uuid": "adaf8b83-f4ed-4004-9fc2-6a0cce8d196f",
+                "productId": 1642168,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6700454.jpg",
+                "purchasedCount": 54
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 2",
+                "titleKana": "ห้องเรียนจารชน2",
+                "uuid": "8e9cf412-e448-40f4-912a-9fcc1b5de04f",
+                "productId": 1642167,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6700456.jpg",
+                "purchasedCount": 48
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 1",
+                "titleKana": "ห้องเรียนจารชน1",
+                "uuid": "294f91a6-4854-4e90-85c2-982bcecbc14d",
+                "productId": 1642165,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6700444.jpg",
+                "purchasedCount": 54
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 6",
+                "titleKana": "ห้องเรียนจารชน6",
+                "uuid": "cc8cb109-6c38-412c-99f4-bf14e5038df3",
+                "productId": 1627895,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6700448.jpg",
+                "purchasedCount": 68
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 7",
+                "titleKana": "ห้องเรียนจารชน7",
+                "uuid": "d3cd51ff-1432-4557-b87f-ae4b36f51c3d",
+                "productId": 1627894,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6700442.jpg",
+                "purchasedCount": 78
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 5",
+                "titleKana": "ห้องเรียนจารชน5",
+                "uuid": "59551bef-5cf4-4dba-be57-3bbc822eb9e7",
+                "productId": 1627683,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6700452.jpg",
+                "purchasedCount": 66
+            },
+            {
+                "title": "ห้องเรียนจารชน เล่ม 4",
+                "titleKana": "ห้องเรียนจารชน4",
+                "uuid": "bd114b76-26ea-4c84-a923-1acd0549933e",
+                "productId": 1627644,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6700446.jpg",
+                "purchasedCount": 60
+            }
+        ]
+    },
+    {
+        "seriesName": "แง้มหัวใจยัยน้องสาวจำเป็น",
+        "seriesId": 408282,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 13",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น13",
+                "uuid": "e89eb822-eb38-4d46-94c6-e854d210cc7f",
+                "productId": 3177854,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_8996774346c44cd391b7a391f08ec3f3.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 12",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น12",
+                "uuid": "c0fa1ba3-3ad4-4fcc-9efd-f15c4820c6bb",
+                "productId": 2992905,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_677a805051c0444588e09d93e3cd6e44.jpg",
+                "purchasedCount": 50
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 11",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น11",
+                "uuid": "2a5e8795-7776-43ca-9d4b-9be71aa224c5",
+                "productId": 2879915,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ec6a049b3a3549948eeab67f08a0514f.jpg",
+                "purchasedCount": 66
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 10",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น10",
+                "uuid": "073b13c4-af5b-47e6-a4f1-c65258df2ef5",
+                "productId": 2726002,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_be00129276e84178b925b45bbbcec301.jpg",
+                "purchasedCount": 84
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 9",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น9",
+                "uuid": "62955b6e-fb85-4d1e-9508-cf00ba856459",
+                "productId": 2351287,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_181aec7f5edb4b3d8a7ff2e62f8b86b4.jpg",
+                "purchasedCount": 196
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 8",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น8",
+                "uuid": "f5339b7b-7672-4d9e-8d85-4bc97e3eae89",
+                "productId": 2087190,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ef067275cddb44598eb016fcf793e245.jpg",
+                "purchasedCount": 226
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 7",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น7",
+                "uuid": "126026b9-4945-4047-bbd3-ae0a4d133768",
+                "productId": 1923821,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7256202.jpg",
+                "purchasedCount": 258
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 6",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น6",
+                "uuid": "633c0b7a-1c05-415b-bbb6-74246b4cc6b6",
+                "productId": 1807975,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6850514.jpg",
+                "purchasedCount": 282
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 5",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น5",
+                "uuid": "d50456fb-2f34-4cf6-99e2-fa56ae7a78cf",
+                "productId": 1691418,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6436178.jpg",
+                "purchasedCount": 562
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 3",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น3",
+                "uuid": "4a6573c5-92e1-408a-b8f0-c445be2265c0",
+                "productId": 1627754,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6588612.jpg",
+                "purchasedCount": 408
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 4",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น4",
+                "uuid": "5456c9a3-6cf1-408e-84a1-ec515a024f59",
+                "productId": 1627737,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6598974.jpg",
+                "purchasedCount": 442
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 2",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น2",
+                "uuid": "1973134b-1da6-406f-b255-02d0faf21223",
+                "productId": 1627481,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6588606.jpg",
+                "purchasedCount": 412
+            },
+            {
+                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 1",
+                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น1",
+                "uuid": "c2ee8cba-934f-4820-9fbe-fa4617827d37",
+                "productId": 1627480,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6206896.jpg",
+                "purchasedCount": 450
+            }
+        ]
+    },
+    {
+        "seriesName": "ลิขิตชะตาเกมท้าตาย",
+        "seriesId": 538207,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ลิขิตชะตาเกมท้าตาย เล่ม 2",
+                "titleKana": "ลิขิตชะตาเกมท้าตาย2",
+                "uuid": "55b23013-7dc7-413c-a2c4-2c3924b46b75",
+                "productId": 3177847,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_e7681faf83df4de88c170b9f5dcf1c16.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ลิขิตชะตาเกมท้าตาย เล่ม 1",
+                "titleKana": "ลิขิตชะตาเกมท้าตาย1",
+                "uuid": "9f977ada-4e7f-4d0f-9ecc-9aca3a2cd7cb",
+                "productId": 2835217,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d6dcf0e0a43b4ffc86276154eaa1c49f.jpg",
+                "purchasedCount": 60
+            }
+        ]
+    },
+    {
+        "seriesName": "ไซเลนต์วิตช์",
+        "seriesId": 408297,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 9",
+                "titleKana": "ไซเลนต์วิตช์9",
+                "uuid": "0a029a0d-220d-4f41-a54b-805235e9f787",
+                "productId": 3177845,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_72b0eb866f744c1697be2a0c94e2bc7a.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 8",
+                "titleKana": "ไซเลนต์วิตช์8",
+                "uuid": "bcd01ae2-103a-4e57-8e2c-1164c95e00df",
+                "productId": 2883194,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_53cc5f69495540a8808a51d1f6246b3c.jpg",
+                "purchasedCount": 312
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 7",
+                "titleKana": "ไซเลนต์วิตช์7",
+                "uuid": "bbd476d2-8c90-481d-9c02-22b5de5a5e5e",
+                "productId": 2727998,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_dd67bdd12a3c4f76bae7d00cdd49f4f2.jpg",
+                "purchasedCount": 288
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 6",
+                "titleKana": "ไซเลนต์วิตช์6",
+                "uuid": "1d5ab19c-83d5-4376-83d3-e9e292397d11",
+                "productId": 2353542,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ea45264227ce43f18ee235aad4bc7e61.jpg",
+                "purchasedCount": 310
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 5",
+                "titleKana": "ไซเลนต์วิตช์5",
+                "uuid": "01fc4b92-2afb-4e75-b2a6-5cd50d82dabc",
+                "productId": 2079579,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_2d91520ab93b489b8334c11452bacd3a.jpg",
+                "purchasedCount": 334
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 4 -after- แฟ้มคดีของแม่มดแห่งความเงียบ",
+                "titleKana": "ไซเลนต์วิตช์4-after-แฟ้มคดีของแม่มดแห่งความเงียบ",
+                "uuid": "60d45e45-78d5-4247-9836-827e02060ed1",
+                "productId": 1923828,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7256218.jpg",
+                "purchasedCount": 262
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 4",
+                "titleKana": "ไซเลนต์วิตช์4",
+                "uuid": "287cf189-313d-42d4-800f-5b9bd4259a93",
+                "productId": 1716733,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6529728.jpg",
+                "purchasedCount": 460
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 2",
+                "titleKana": "ไซเลนต์วิตช์2",
+                "uuid": "f1995060-09b2-48f4-ac1a-feff490ce84e",
+                "productId": 1627797,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6541422.jpg",
+                "purchasedCount": 348
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 3",
+                "titleKana": "ไซเลนต์วิตช์3",
+                "uuid": "59a1f5b1-6108-4f8b-b2b9-da7f150f3d0d",
+                "productId": 1627762,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6541424.jpg",
+                "purchasedCount": 380
+            },
+            {
+                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 1",
+                "titleKana": "ไซเลนต์วิตช์1",
+                "uuid": "4f9b9fa4-cccd-4eaa-98c0-8be534bcaa5e",
+                "productId": 1627544,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6541420.jpg",
+                "purchasedCount": 448
+            }
+        ]
+    },
+    {
         "seriesName": "นายโดดเดี่ยวพิชิตต่างโลก",
         "seriesId": 407113,
         "publisherId": 2529,
@@ -12,7 +386,7 @@
                 "productId": 3174540,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_9e536c81ac7043b3ae24033d94ec354b.jpg",
-                "purchasedCount": 0
+                "purchasedCount": 2
             },
             {
                 "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 10 เหล่าสัตว์ป่าแห่งลัทธิเลเวลนิยม",
@@ -530,7 +904,7 @@
                 "productId": 2879918,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b62fe89011ea46bc93e9b66e255fcf13.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 62
             },
             {
                 "title": "สัมพันธ์ลับสัปดาห์ละครั้ง ～ช่วงเวลาห้าพันเยนของสองเรา～ เล่ม 1",
@@ -539,7 +913,7 @@
                 "productId": 2840135,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b95a433b75dc4128a13e1660352c7684.jpg",
-                "purchasedCount": 98
+                "purchasedCount": 100
             }
         ]
     },
@@ -930,7 +1304,7 @@
                 "productId": 3095862,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_faaf9bac4adb45d0838dd53b2a9f4584.jpg",
-                "purchasedCount": 140
+                "purchasedCount": 142
             },
             {
                 "title": "ราชินีนักล่าค่าประสบการณ์ เล่ม 3",
@@ -1243,7 +1617,7 @@
                 "productId": 1779066,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6747172.jpg",
-                "purchasedCount": 378
+                "purchasedCount": 380
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 4",
@@ -1306,7 +1680,7 @@
                 "productId": 1627635,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207206.jpg",
-                "purchasedCount": 468
+                "purchasedCount": 472
             }
         ]
     },
@@ -3077,7 +3451,7 @@
                 "productId": 2995539,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_89e8a18797814b549ebe7c038613d6c1.jpg",
-                "purchasedCount": 24
+                "purchasedCount": 26
             },
             {
                 "title": "เฟท/สเตรนจ์ เฟค (FATE/STRANGE FAKE) เล่ม 8",
@@ -3086,7 +3460,7 @@
                 "productId": 2699934,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4cc3ce863b464f208729adc4892c4cea.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             },
             {
                 "title": "เฟท/สเตรนจ์ เฟค (FATE/STRANGE FAKE) เล่ม 7",
@@ -3403,122 +3777,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207290.jpg",
                 "purchasedCount": 132
-            }
-        ]
-    },
-    {
-        "seriesName": "แง้มหัวใจยัยน้องสาวจำเป็น",
-        "seriesId": 408282,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 12",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น12",
-                "uuid": "c0fa1ba3-3ad4-4fcc-9efd-f15c4820c6bb",
-                "productId": 2992905,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_677a805051c0444588e09d93e3cd6e44.jpg",
-                "purchasedCount": 50
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 11",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น11",
-                "uuid": "2a5e8795-7776-43ca-9d4b-9be71aa224c5",
-                "productId": 2879915,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ec6a049b3a3549948eeab67f08a0514f.jpg",
-                "purchasedCount": 66
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 10",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น10",
-                "uuid": "073b13c4-af5b-47e6-a4f1-c65258df2ef5",
-                "productId": 2726002,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_be00129276e84178b925b45bbbcec301.jpg",
-                "purchasedCount": 84
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 9",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น9",
-                "uuid": "62955b6e-fb85-4d1e-9508-cf00ba856459",
-                "productId": 2351287,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_181aec7f5edb4b3d8a7ff2e62f8b86b4.jpg",
-                "purchasedCount": 196
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 8",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น8",
-                "uuid": "f5339b7b-7672-4d9e-8d85-4bc97e3eae89",
-                "productId": 2087190,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ef067275cddb44598eb016fcf793e245.jpg",
-                "purchasedCount": 226
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 7",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น7",
-                "uuid": "126026b9-4945-4047-bbd3-ae0a4d133768",
-                "productId": 1923821,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7256202.jpg",
-                "purchasedCount": 258
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 6",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น6",
-                "uuid": "633c0b7a-1c05-415b-bbb6-74246b4cc6b6",
-                "productId": 1807975,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6850514.jpg",
-                "purchasedCount": 282
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 5",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น5",
-                "uuid": "d50456fb-2f34-4cf6-99e2-fa56ae7a78cf",
-                "productId": 1691418,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6436178.jpg",
-                "purchasedCount": 562
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 3",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น3",
-                "uuid": "4a6573c5-92e1-408a-b8f0-c445be2265c0",
-                "productId": 1627754,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6588612.jpg",
-                "purchasedCount": 408
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 4",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น4",
-                "uuid": "5456c9a3-6cf1-408e-84a1-ec515a024f59",
-                "productId": 1627737,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6598974.jpg",
-                "purchasedCount": 442
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 2",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น2",
-                "uuid": "1973134b-1da6-406f-b255-02d0faf21223",
-                "productId": 1627481,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6588606.jpg",
-                "purchasedCount": 412
-            },
-            {
-                "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 1",
-                "titleKana": "แง้มหัวใจยัยน้องสาวจำเป็น1",
-                "uuid": "c2ee8cba-934f-4820-9fbe-fa4617827d37",
-                "productId": 1627480,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6206896.jpg",
-                "purchasedCount": 450
             }
         ]
     },
@@ -4730,122 +4988,6 @@
         ]
     },
     {
-        "seriesName": "ห้องเรียนจารชน",
-        "seriesId": 408239,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ห้องเรียนจารชน เล่ม 12",
-                "titleKana": "ห้องเรียนจารชน12",
-                "uuid": "94eb377e-a4db-4774-89f2-53fc6eaa427b",
-                "productId": 2942127,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_320f5eae92204e39ae0964c32a7b4c4e.jpg",
-                "purchasedCount": 23
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 11",
-                "titleKana": "ห้องเรียนจารชน11",
-                "uuid": "c89f15af-6923-4f5d-980f-8b57d9fdb989",
-                "productId": 2628566,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_cfd807aabe664dcaa021f4da5b394060.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 10",
-                "titleKana": "ห้องเรียนจารชน10",
-                "uuid": "ad18519c-38b9-45f7-baef-493493148e33",
-                "productId": 2355060,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_661ec63acf6d430c810e3e10b4da5792.jpg",
-                "purchasedCount": 42
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 9",
-                "titleKana": "ห้องเรียนจารชน9",
-                "uuid": "f9629344-4a09-4240-8366-29bbf38d0733",
-                "productId": 2009825,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_06dc4b5efc584b3a8337927be5a649a1.jpg",
-                "purchasedCount": 58
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 8",
-                "titleKana": "ห้องเรียนจารชน8",
-                "uuid": "8bd01aeb-b1be-40f8-a0f3-0357a779b8c2",
-                "productId": 1838937,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6965180.jpg",
-                "purchasedCount": 76
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 3",
-                "titleKana": "ห้องเรียนจารชน3",
-                "uuid": "adaf8b83-f4ed-4004-9fc2-6a0cce8d196f",
-                "productId": 1642168,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6700454.jpg",
-                "purchasedCount": 54
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 2",
-                "titleKana": "ห้องเรียนจารชน2",
-                "uuid": "8e9cf412-e448-40f4-912a-9fcc1b5de04f",
-                "productId": 1642167,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6700456.jpg",
-                "purchasedCount": 48
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 1",
-                "titleKana": "ห้องเรียนจารชน1",
-                "uuid": "294f91a6-4854-4e90-85c2-982bcecbc14d",
-                "productId": 1642165,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6700444.jpg",
-                "purchasedCount": 54
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 6",
-                "titleKana": "ห้องเรียนจารชน6",
-                "uuid": "cc8cb109-6c38-412c-99f4-bf14e5038df3",
-                "productId": 1627895,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6700448.jpg",
-                "purchasedCount": 68
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 7",
-                "titleKana": "ห้องเรียนจารชน7",
-                "uuid": "d3cd51ff-1432-4557-b87f-ae4b36f51c3d",
-                "productId": 1627894,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6700442.jpg",
-                "purchasedCount": 78
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 5",
-                "titleKana": "ห้องเรียนจารชน5",
-                "uuid": "59551bef-5cf4-4dba-be57-3bbc822eb9e7",
-                "productId": 1627683,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6700452.jpg",
-                "purchasedCount": 66
-            },
-            {
-                "title": "ห้องเรียนจารชน เล่ม 4",
-                "titleKana": "ห้องเรียนจารชน4",
-                "uuid": "bd114b76-26ea-4c84-a923-1acd0549933e",
-                "productId": 1627644,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6700446.jpg",
-                "purchasedCount": 60
-            }
-        ]
-    },
-    {
         "seriesName": "คณะประพันธกรจรจัด",
         "seriesId": 408147,
         "publisherId": 2546,
@@ -4867,7 +5009,7 @@
                 "productId": 2584833,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8f8c2f6e18da4fa9b8c7f16c19097243.jpg",
-                "purchasedCount": 14
+                "purchasedCount": 16
             },
             {
                 "title": "คณะประพันธกรจรจัด ตอน ดาไซและชูยะวัย 15 ปี",
@@ -5251,95 +5393,6 @@
         ]
     },
     {
-        "seriesName": "ไซเลนต์วิตช์",
-        "seriesId": 408297,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 8",
-                "titleKana": "ไซเลนต์วิตช์8",
-                "uuid": "bcd01ae2-103a-4e57-8e2c-1164c95e00df",
-                "productId": 2883194,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_53cc5f69495540a8808a51d1f6246b3c.jpg",
-                "purchasedCount": 312
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 7",
-                "titleKana": "ไซเลนต์วิตช์7",
-                "uuid": "bbd476d2-8c90-481d-9c02-22b5de5a5e5e",
-                "productId": 2727998,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_dd67bdd12a3c4f76bae7d00cdd49f4f2.jpg",
-                "purchasedCount": 288
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 6",
-                "titleKana": "ไซเลนต์วิตช์6",
-                "uuid": "1d5ab19c-83d5-4376-83d3-e9e292397d11",
-                "productId": 2353542,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ea45264227ce43f18ee235aad4bc7e61.jpg",
-                "purchasedCount": 310
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 5",
-                "titleKana": "ไซเลนต์วิตช์5",
-                "uuid": "01fc4b92-2afb-4e75-b2a6-5cd50d82dabc",
-                "productId": 2079579,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_2d91520ab93b489b8334c11452bacd3a.jpg",
-                "purchasedCount": 334
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 4 -after- แฟ้มคดีของแม่มดแห่งความเงียบ",
-                "titleKana": "ไซเลนต์วิตช์4-after-แฟ้มคดีของแม่มดแห่งความเงียบ",
-                "uuid": "60d45e45-78d5-4247-9836-827e02060ed1",
-                "productId": 1923828,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7256218.jpg",
-                "purchasedCount": 262
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 4",
-                "titleKana": "ไซเลนต์วิตช์4",
-                "uuid": "287cf189-313d-42d4-800f-5b9bd4259a93",
-                "productId": 1716733,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6529728.jpg",
-                "purchasedCount": 460
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 2",
-                "titleKana": "ไซเลนต์วิตช์2",
-                "uuid": "f1995060-09b2-48f4-ac1a-feff490ce84e",
-                "productId": 1627797,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6541422.jpg",
-                "purchasedCount": 348
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 3",
-                "titleKana": "ไซเลนต์วิตช์3",
-                "uuid": "59a1f5b1-6108-4f8b-b2b9-da7f150f3d0d",
-                "productId": 1627762,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6541424.jpg",
-                "purchasedCount": 380
-            },
-            {
-                "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 1",
-                "titleKana": "ไซเลนต์วิตช์1",
-                "uuid": "4f9b9fa4-cccd-4eaa-98c0-8be534bcaa5e",
-                "productId": 1627544,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6541420.jpg",
-                "purchasedCount": 448
-            }
-        ]
-    },
-    {
         "seriesName": "คำสารภาพของมิโมซา",
         "seriesId": 501569,
         "publisherId": 2529,
@@ -5642,23 +5695,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8556c83098694506a79c4cabd3e4ba04.jpg",
                 "purchasedCount": 1
-            }
-        ]
-    },
-    {
-        "seriesName": "ลิขิตชะตาเกมท้าตาย",
-        "seriesId": 538207,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ลิขิตชะตาเกมท้าตาย เล่ม 1",
-                "titleKana": "ลิขิตชะตาเกมท้าตาย1",
-                "uuid": "9f977ada-4e7f-4d0f-9ecc-9aca3a2cd7cb",
-                "productId": 2835217,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d6dcf0e0a43b4ffc86276154eaa1c49f.jpg",
-                "purchasedCount": 58
             }
         ]
     },
@@ -6136,7 +6172,7 @@
                 "productId": 1643493,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6259926.jpg",
-                "purchasedCount": 268
+                "purchasedCount": 270
             }
         ]
     },
@@ -8617,7 +8653,7 @@
                 "productId": 2417612,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c83455b1edda417d9bd37a2e4d3e7373.jpg",
-                "purchasedCount": 571
+                "purchasedCount": 572
             }
         ]
     },
@@ -12695,7 +12731,7 @@
                 "productId": 2128598,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_0309510a54c64d02ba587cee9c61e80b.jpg",
-                "purchasedCount": 74
+                "purchasedCount": 76
             },
             {
                 "title": "มหาพิภพลีอาเดล เล่ม 6",
@@ -12704,7 +12740,7 @@
                 "productId": 1968834,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f36d120e1a21498fafb8f173020109e1.jpg",
-                "purchasedCount": 66
+                "purchasedCount": 68
             },
             {
                 "title": "มหาพิภพลีอาเดล เล่ม 5",
@@ -12713,7 +12749,7 @@
                 "productId": 1761764,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6754852.jpg",
-                "purchasedCount": 58
+                "purchasedCount": 60
             },
             {
                 "title": "มหาพิภพลีอาเดล เล่ม 3",
@@ -12722,7 +12758,7 @@
                 "productId": 1627849,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207640.jpg",
-                "purchasedCount": 52
+                "purchasedCount": 54
             },
             {
                 "title": "มหาพิภพลีอาเดล เล่ม 4",
@@ -12731,7 +12767,7 @@
                 "productId": 1627831,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207604.jpg",
-                "purchasedCount": 62
+                "purchasedCount": 64
             },
             {
                 "title": "มหาพิภพลีอาเดล เล่ม 1",
@@ -12740,7 +12776,7 @@
                 "productId": 1627672,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6351634.jpg",
-                "purchasedCount": 54
+                "purchasedCount": 56
             },
             {
                 "title": "มหาพิภพลีอาเดล เล่ม 2",
@@ -12749,7 +12785,7 @@
                 "productId": 1627583,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207102.jpg",
-                "purchasedCount": 56
+                "purchasedCount": 58
             }
         ]
     },
@@ -16911,7 +16947,7 @@
                 "productId": 1661505,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7925e25b778647cc92ebff29787c2dad.jpg",
-                "purchasedCount": 19
+                "purchasedCount": 20
             },
             {
                 "title": "น้องสาวเพื่อนตัวร้ายกับนายจืดจาง เล่ม 2",
