@@ -1,5 +1,156 @@
 [
     {
+        "seriesName": "86 -เอทตี้ซิกซ์-",
+        "seriesId": 408117,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 14",
+                "titleKana": "86-เอทตี้ซิกซ์-14",
+                "uuid": "c790d11d-f453-41a6-b991-e0d1ce671542",
+                "productId": 3185091,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6ddaab373b2149d690042f22fac63071.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 13",
+                "titleKana": "86-เอทตี้ซิกซ์-13",
+                "uuid": "b135a90b-e40d-4e31-b127-a550c79e8ccf",
+                "productId": 2355067,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_a726ac84003e4ecf93e5c50ba438a5b1.jpg",
+                "purchasedCount": 195
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 12",
+                "titleKana": "86-เอทตี้ซิกซ์-12",
+                "uuid": "bda789b0-7216-4e68-b7a3-b7347ed2bb1b",
+                "productId": 1837567,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6959596.jpg",
+                "purchasedCount": 297
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 11",
+                "titleKana": "86-เอทตี้ซิกซ์-11",
+                "uuid": "77e4f986-5557-4bb9-9d4f-2f6dc2f6419a",
+                "productId": 1643489,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6259918.jpg",
+                "purchasedCount": 243
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 6",
+                "titleKana": "86-เอทตี้ซิกซ์-6",
+                "uuid": "d501d77d-1795-462a-8202-65cd273b5eb9",
+                "productId": 1637744,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237456.jpg",
+                "purchasedCount": 288
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 3",
+                "titleKana": "86-เอทตี้ซิกซ์-3",
+                "uuid": "fc2dad2a-3cc0-46b0-bbd6-9c1ee310efb5",
+                "productId": 1637736,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237448.jpg",
+                "purchasedCount": 177
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 4",
+                "titleKana": "86-เอทตี้ซิกซ์-4",
+                "uuid": "a80ab1bb-e325-4897-bfd2-88257c30e211",
+                "productId": 1637733,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237422.jpg",
+                "purchasedCount": 462
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 1",
+                "titleKana": "86-เอทตี้ซิกซ์-1",
+                "uuid": "e12c3ea3-ebe7-4d41-af12-6cee6a54bd72",
+                "productId": 1637726,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6588598.jpg",
+                "purchasedCount": 216
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 5",
+                "titleKana": "86-เอทตี้ซิกซ์-5",
+                "uuid": "091bbfd0-b319-47b9-9353-25aef731f597",
+                "productId": 1637724,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237436.jpg",
+                "purchasedCount": 303
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 2",
+                "titleKana": "86-เอทตี้ซิกซ์-2",
+                "uuid": "a60702a8-ce37-4ed3-ab95-b6988fb54aea",
+                "productId": 1637723,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237418.jpg",
+                "purchasedCount": 189
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 9",
+                "titleKana": "86-เอทตี้ซิกซ์-9",
+                "uuid": "a9f3f52a-24c5-45c9-807d-112281053be7",
+                "productId": 1627703,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207336.jpg",
+                "purchasedCount": 249
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 10",
+                "titleKana": "86-เอทตี้ซิกซ์-10",
+                "uuid": "0e06a7b1-743d-4060-af11-f9dec9d0afe7",
+                "productId": 1627700,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207346.jpg",
+                "purchasedCount": 240
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 8",
+                "titleKana": "86-เอทตี้ซิกซ์-8",
+                "uuid": "bea4e82c-3aea-47bf-90da-e8e4e5107c96",
+                "productId": 1627688,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207318.jpg",
+                "purchasedCount": 261
+            },
+            {
+                "title": "86 -เอทตี้ซิกซ์- เล่ม 7",
+                "titleKana": "86-เอทตี้ซิกซ์-7",
+                "uuid": "aad7511b-54cf-4ae9-8631-cce0e39a08d7",
+                "productId": 1627409,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6206752.jpg",
+                "purchasedCount": 312
+            }
+        ]
+    },
+    {
+        "seriesName": "ชิโนะกับเร็น Future",
+        "seriesId": 579990,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ชิโนะกับเร็น Future เล่ม 1",
+                "titleKana": "ชิโนะกับเร็นfuture1",
+                "uuid": "e83e2aaf-222a-4895-85f0-c653c6c61c91",
+                "productId": 3185087,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_0128648aa92d4a458ac6ccdf09844603.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
         "seriesName": "ยามซากุระร่วงโรย the novel",
         "seriesId": 579479,
         "publisherId": 2546,
@@ -12,7 +163,7 @@
                 "productId": 3179226,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b3740523026644699d4e7b0adb97f623.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 8
             }
         ]
     },
@@ -29,7 +180,7 @@
                 "productId": 3179221,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ccc5ceb17e5540cc88277fa6bfc07552.jpg",
-                "purchasedCount": 68
+                "purchasedCount": 70
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 12",
@@ -172,7 +323,7 @@
                 "productId": 3179220,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ea56c9c46c414db182b37b849f588053.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             },
             {
                 "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 7",
@@ -528,7 +679,7 @@
                 "productId": 3177845,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_72b0eb866f744c1697be2a0c94e2bc7a.jpg",
-                "purchasedCount": 132
+                "purchasedCount": 150
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 8",
@@ -984,7 +1135,7 @@
                 "productId": 3160510,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7c7f5d36511e410a92cc464c8a660fc9.jpg",
-                "purchasedCount": 2
+                "purchasedCount": 4
             },
             {
                 "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 10",
@@ -1170,7 +1321,7 @@
                 "productId": 3135384,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_0a7b7d539e27473ebeb92e6ace2eae6f.jpg",
-                "purchasedCount": 30
+                "purchasedCount": 32
             },
             {
                 "title": "สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก เล่ม 14",
@@ -1687,7 +1838,7 @@
                 "productId": 2936347,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3b0aed7534604ffe9619699057cb6b11.jpg",
-                "purchasedCount": 188
+                "purchasedCount": 190
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 11",
@@ -1768,7 +1919,7 @@
                 "productId": 1627883,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207708.jpg",
-                "purchasedCount": 384
+                "purchasedCount": 386
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 6",
@@ -1803,7 +1954,7 @@
                 "productId": 3091012,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ef39b6bd5d764d4fb77c99450de919ec.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 12
             }
         ]
     },
@@ -1829,7 +1980,7 @@
                 "productId": 2739794,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_581f1ee759374651a83c550408be3bfa.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 20
             },
             {
                 "title": "เกมมรณะนี้ฉันมีความมืดเป็นสิ่งปลอบโยน เล่ม 1",
@@ -1979,7 +2130,7 @@
                 "productId": 2781411,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f270aa84c0ff4bc298c1f440c228d96f.jpg",
-                "purchasedCount": 104
+                "purchasedCount": 106
             },
             {
                 "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 5",
@@ -1988,7 +2139,7 @@
                 "productId": 2490805,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_651d5975ef384ef499d9333ad69b083b.jpg",
-                "purchasedCount": 128
+                "purchasedCount": 130
             },
             {
                 "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 4",
@@ -1997,7 +2148,7 @@
                 "productId": 2210188,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d5449e1d3259427fbc4f44ce6826ab53.jpg",
-                "purchasedCount": 146
+                "purchasedCount": 148
             },
             {
                 "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 3",
@@ -2006,7 +2157,7 @@
                 "productId": 1968829,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8169dbfaec754746ab8cafb9497f2489.jpg",
-                "purchasedCount": 186
+                "purchasedCount": 188
             },
             {
                 "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 2",
@@ -2162,7 +2313,7 @@
                 "productId": 3038213,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_329053d0fc634adb8ac40d9d290f1b38.jpg",
-                "purchasedCount": 5
+                "purchasedCount": 6
             },
             {
                 "title": "หน้าร้อนที่ฮิคารุจากไป (ฉบับนิยาย) เล่ม 1",
@@ -2171,7 +2322,7 @@
                 "productId": 2250599,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2240962131914257a7ca31b208c448c4.jpg",
-                "purchasedCount": 24
+                "purchasedCount": 25
             }
         ]
     },
@@ -2188,7 +2339,7 @@
                 "productId": 3035580,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f4d124941e9a4e4b9e593c5c164c5541.jpg",
-                "purchasedCount": 286
+                "purchasedCount": 290
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เบื้องหลัง",
@@ -3336,7 +3487,7 @@
                 "productId": 2995525,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_9de829015f6345ecb8049d2a5a8fb256.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 12
             },
             {
                 "title": "ไอดอลสาวสุดปังกับผมแต่งงานกันในเกมออนไลน์ เล่ม 3",
@@ -4422,7 +4573,7 @@
                 "productId": 2964823,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ce3b54d5bed04f029491e2dd69eecb72.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             },
             {
                 "title": "ผมที่โคตรเซนส์ดี ไม่มีทางเมินความเขินนิดเขินหน่อยของสาวน้อยคูลเดเระอย่างเธอได้หรอกนะ (ฉบับนิยาย) เล่ม 2",
@@ -4431,7 +4582,7 @@
                 "productId": 2891841,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_12d319c1dcdc4919b889a0a0b4178ac0.jpg",
-                "purchasedCount": 44
+                "purchasedCount": 46
             },
             {
                 "title": "ผมที่โคตรเซนส์ดี ไม่มีทางเมินความเขินนิดเขินหน่อยของสาวน้อยคูลเดเระอย่างเธอได้หรอกนะ (ฉบับนิยาย) เล่ม 1",
@@ -4440,7 +4591,7 @@
                 "productId": 2641676,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d9d161718c2440559d4648d5ce66e89f.jpg",
-                "purchasedCount": 64
+                "purchasedCount": 66
             }
         ]
     },
@@ -4457,7 +4608,7 @@
                 "productId": 2964822,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c979f8bec68c4e3b8dd6c6208160f846.jpg",
-                "purchasedCount": 76
+                "purchasedCount": 78
             },
             {
                 "title": "ผมโดนสาวยันเดเระที่หลบซ่อนอยู่ในดันเจี้ยนฆ่าทิ้งซ้ำแล้วซ้ำเล่า (ฉบับนิยาย) เล่ม 1",
@@ -4466,7 +4617,7 @@
                 "productId": 2641678,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_fa5811d35c3d40059e44bc63a4dbb492.jpg",
-                "purchasedCount": 96
+                "purchasedCount": 98
             }
         ]
     },
@@ -5291,7 +5442,7 @@
                 "productId": 2897214,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_970c6076d28c4b6983fdb42d5ac9cd75.jpg",
-                "purchasedCount": 33
+                "purchasedCount": 36
             }
         ]
     },
@@ -6542,7 +6693,7 @@
                 "productId": 2701877,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_679657b6591347ee9d6e49b5eb2e0f54.jpg",
-                "purchasedCount": 68
+                "purchasedCount": 70
             },
             {
                 "title": "หลังช่วยเด็กหลงทาง สาวสวยข้างบ้านก็แวะมาเที่ยว เล่ม 1",
@@ -6551,7 +6702,7 @@
                 "productId": 2410808,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_17c80d315bd145c8827d7512ef54fa6a.jpg",
-                "purchasedCount": 116
+                "purchasedCount": 118
             }
         ]
     },
@@ -8688,7 +8839,7 @@
                 "productId": 2417612,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c83455b1edda417d9bd37a2e4d3e7373.jpg",
-                "purchasedCount": 573
+                "purchasedCount": 574
             }
         ]
     },
@@ -10588,131 +10739,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_84e5fe589e7d42359d1613ba63d3e9de.jpg",
                 "purchasedCount": 6
-            }
-        ]
-    },
-    {
-        "seriesName": "86 -เอทตี้ซิกซ์-",
-        "seriesId": 408117,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 13",
-                "titleKana": "86-เอทตี้ซิกซ์-13",
-                "uuid": "b135a90b-e40d-4e31-b127-a550c79e8ccf",
-                "productId": 2355067,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_a726ac84003e4ecf93e5c50ba438a5b1.jpg",
-                "purchasedCount": 192
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 12",
-                "titleKana": "86-เอทตี้ซิกซ์-12",
-                "uuid": "bda789b0-7216-4e68-b7a3-b7347ed2bb1b",
-                "productId": 1837567,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6959596.jpg",
-                "purchasedCount": 297
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 11",
-                "titleKana": "86-เอทตี้ซิกซ์-11",
-                "uuid": "77e4f986-5557-4bb9-9d4f-2f6dc2f6419a",
-                "productId": 1643489,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6259918.jpg",
-                "purchasedCount": 243
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 6",
-                "titleKana": "86-เอทตี้ซิกซ์-6",
-                "uuid": "d501d77d-1795-462a-8202-65cd273b5eb9",
-                "productId": 1637744,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237456.jpg",
-                "purchasedCount": 288
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 3",
-                "titleKana": "86-เอทตี้ซิกซ์-3",
-                "uuid": "fc2dad2a-3cc0-46b0-bbd6-9c1ee310efb5",
-                "productId": 1637736,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237448.jpg",
-                "purchasedCount": 177
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 4",
-                "titleKana": "86-เอทตี้ซิกซ์-4",
-                "uuid": "a80ab1bb-e325-4897-bfd2-88257c30e211",
-                "productId": 1637733,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237422.jpg",
-                "purchasedCount": 459
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 1",
-                "titleKana": "86-เอทตี้ซิกซ์-1",
-                "uuid": "e12c3ea3-ebe7-4d41-af12-6cee6a54bd72",
-                "productId": 1637726,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6588598.jpg",
-                "purchasedCount": 216
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 5",
-                "titleKana": "86-เอทตี้ซิกซ์-5",
-                "uuid": "091bbfd0-b319-47b9-9353-25aef731f597",
-                "productId": 1637724,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237436.jpg",
-                "purchasedCount": 303
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 2",
-                "titleKana": "86-เอทตี้ซิกซ์-2",
-                "uuid": "a60702a8-ce37-4ed3-ab95-b6988fb54aea",
-                "productId": 1637723,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237418.jpg",
-                "purchasedCount": 189
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 9",
-                "titleKana": "86-เอทตี้ซิกซ์-9",
-                "uuid": "a9f3f52a-24c5-45c9-807d-112281053be7",
-                "productId": 1627703,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207336.jpg",
-                "purchasedCount": 249
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 10",
-                "titleKana": "86-เอทตี้ซิกซ์-10",
-                "uuid": "0e06a7b1-743d-4060-af11-f9dec9d0afe7",
-                "productId": 1627700,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207346.jpg",
-                "purchasedCount": 240
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 8",
-                "titleKana": "86-เอทตี้ซิกซ์-8",
-                "uuid": "bea4e82c-3aea-47bf-90da-e8e4e5107c96",
-                "productId": 1627688,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207318.jpg",
-                "purchasedCount": 261
-            },
-            {
-                "title": "86 -เอทตี้ซิกซ์- เล่ม 7",
-                "titleKana": "86-เอทตี้ซิกซ์-7",
-                "uuid": "aad7511b-54cf-4ae9-8631-cce0e39a08d7",
-                "productId": 1627409,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6206752.jpg",
-                "purchasedCount": 312
             }
         ]
     },
@@ -14520,7 +14546,7 @@
                 "productId": 1914093,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7312826.jpg",
-                "purchasedCount": 24
+                "purchasedCount": 26
             },
             {
                 "title": "DUNGEON BUSTERS ดันเจี้ยนบัสเตอร์ส เล่ม 3",
@@ -14529,7 +14555,7 @@
                 "productId": 1701041,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6472508.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             },
             {
                 "title": "DUNGEON BUSTERS ดันเจี้ยนบัสเตอร์ส เล่ม 2",
@@ -15073,7 +15099,7 @@
                 "productId": 1827894,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6923272.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 8
             },
             {
                 "title": "ตัวป่วนชั้นเซียน มาตบเกรียนถึงต่างโลก เล่ม 8",
@@ -18073,7 +18099,7 @@
                 "productId": 1652744,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309562.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             },
             {
                 "title": "เอ็กซ์ตัสออนไลน์ เล่ม 1 จอมมารผู้ไม่ยอมให้เคลียร์เกม",
@@ -18082,7 +18108,7 @@
                 "productId": 1652742,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309586.jpg",
-                "purchasedCount": 26
+                "purchasedCount": 28
             },
             {
                 "title": "เอ็กซ์ตัสออนไลน์ เล่ม 2 ใครจะรอ Santa-X ไหวกัน",
@@ -18091,7 +18117,7 @@
                 "productId": 1652741,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309568.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             }
         ]
     },
