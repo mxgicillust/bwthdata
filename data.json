@@ -1,5 +1,289 @@
 [
     {
+        "seriesName": "เลดี้ฟิวส์ขาดสาบานชำระแค้น ～จะเอาคืนบ้านเกิดด้วยตำราเวทให้ย่อยยับ～",
+        "seriesId": 580977,
+        "publisherId": 2779,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "เลดี้ฟิวส์ขาดสาบานชำระแค้น ～จะเอาคืนบ้านเกิดด้วยตำราเวทให้ย่อยยับ～ (ฉบับนิยาย) เล่ม 1",
+                "titleKana": "เลดี้ฟิวส์ขาดสาบานชำระแค้น～จะเอาคืนบ้านเกิดด้วยตำราเวทให้ย่อยยับ～1",
+                "uuid": "3a1cbff5-be7e-4be9-b914-8c92d54b3244",
+                "productId": 3195618,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_18962c33d3d54156b816ac453445c1d3.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม?",
+        "seriesId": 491161,
+        "publisherId": 2545,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 5",
+                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?5",
+                "uuid": "b28f0a1e-484a-4ff0-b659-c557b972dbf4",
+                "productId": 3195525,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_280e3a960a444348a278a8d64ec0ce01.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 4",
+                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?4",
+                "uuid": "fcbc953c-7daf-4cb6-8ab2-04f4c2138911",
+                "productId": 2945028,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_a597c92c6cb94c0db1fc5b2faa4de75c.jpg",
+                "purchasedCount": 98
+            },
+            {
+                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 3",
+                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?3",
+                "uuid": "4e835936-ab38-4e52-be56-c937b0fb0529",
+                "productId": 2945027,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_df9ce0f39f294701977fac0b4a6b3da6.jpg",
+                "purchasedCount": 104
+            },
+            {
+                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 2",
+                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?2",
+                "uuid": "0af14b2e-1976-4a05-9c3f-479485f1ca63",
+                "productId": 2641677,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_91913845e093470ebe422984bef30411.jpg",
+                "purchasedCount": 140
+            },
+            {
+                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 1",
+                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?1",
+                "uuid": "0aa9f8fd-8af2-4964-ae44-813903b67bc4",
+                "productId": 2373138,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4967fd83232645389ac79c60c42d2cd6.jpg",
+                "purchasedCount": 260
+            }
+        ]
+    },
+    {
+        "seriesName": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช",
+        "seriesId": 412755,
+        "publisherId": 2545,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 18",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช18",
+                "uuid": "f277c116-8a1f-408a-b9ed-f88e24ed3569",
+                "productId": 3195523,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_028e8730774d48de940086e942059007.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 17",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช17",
+                "uuid": "d04e0380-32aa-4385-a360-a8b6ec91d88f",
+                "productId": 2964825,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c828d89f8ead43f2acc8868688a04bb8.jpg",
+                "purchasedCount": 36
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 16",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช16",
+                "uuid": "a31ea0be-c37b-4536-b153-8bd7d8b3b962",
+                "productId": 2945045,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_41ab2a851fb741ffa16269c1254daca5.jpg",
+                "purchasedCount": 39
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 15",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช15",
+                "uuid": "036bacf6-6f48-4d80-a7f3-0c2760fda652",
+                "productId": 2641681,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_57b6d6ce23b142e79042367cd8eb8993.jpg",
+                "purchasedCount": 38
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 14",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช14",
+                "uuid": "7f62c2fd-843f-4637-a83f-2ff9b2fc8c3d",
+                "productId": 2389160,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d03853d1d3a64052a281c90594d88a06.jpg",
+                "purchasedCount": 52
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 13",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช13",
+                "uuid": "12191819-75b9-4006-be49-93f4d3533422",
+                "productId": 2367065,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_36349a410a3b42c1befe9337ff964851.jpg",
+                "purchasedCount": 46
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 12",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช12",
+                "uuid": "54f1f199-c47d-49c2-a2dc-462f5311bc6a",
+                "productId": 1869156,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076784.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 8",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช8",
+                "uuid": "be412524-ce63-474b-9c94-b39da1f4e5f4",
+                "productId": 1699058,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085102.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 6",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช6",
+                "uuid": "a609928a-6217-4a1f-957e-4799a6a8b885",
+                "productId": 1699057,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085088.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 5",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช5",
+                "uuid": "678885b7-4199-4cff-9aeb-2929de63ef2c",
+                "productId": 1699056,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085082.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 2",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช2",
+                "uuid": "bc1db9ee-6e91-4ae3-be04-d7e02d25501b",
+                "productId": 1699055,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085098.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 9",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช9",
+                "uuid": "27e302bd-2aaa-4fb2-851c-8e95431e8ee1",
+                "productId": 1699044,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085084.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 7",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช7",
+                "uuid": "f0402ed9-ea4a-4d51-8ee2-ec8d1034d5df",
+                "productId": 1699042,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085092.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 10",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช10",
+                "uuid": "357ec910-f9ca-4da9-8db9-4b65c06f114b",
+                "productId": 1699038,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085104.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 1",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช1",
+                "uuid": "83c555e3-c2bd-40b8-adb0-a2716121dac9",
+                "productId": 1699015,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6464512.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 4",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช4",
+                "uuid": "ed289503-e196-44f0-a497-3b8432c18d7c",
+                "productId": 1699014,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085110.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 3",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช3",
+                "uuid": "8f2b45de-3f6a-47eb-b827-b42fc9212740",
+                "productId": 1699010,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7085114.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 11",
+                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช11",
+                "uuid": "7d099ecd-c91b-4b9f-a073-65c03fd69e3e",
+                "productId": 1661461,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_354d3d0bd2904f7c85a5a9cfe1f71f63.jpg",
+                "purchasedCount": 15
+            }
+        ]
+    },
+    {
+        "seriesName": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?",
+        "seriesId": 491159,
+        "publisherId": 2545,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 4",
+                "titleKana": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?4",
+                "uuid": "15af2065-f14e-4857-accc-d4e808014b99",
+                "productId": 3195519,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_26edaec7bef84b2795a6122718b689e7.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 3",
+                "titleKana": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?3",
+                "uuid": "0e42b608-693e-4d81-9c13-18fae16db92f",
+                "productId": 2891838,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_af176757331646cab9b81a24cb9ca7a5.jpg",
+                "purchasedCount": 214
+            },
+            {
+                "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 2",
+                "titleKana": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?2",
+                "uuid": "b8302323-3ea3-4feb-8f3e-5fa27cd14cfa",
+                "productId": 2641666,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_1a944868063b4428895a12a7c40c8868.jpg",
+                "purchasedCount": 300
+            },
+            {
+                "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 1",
+                "titleKana": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?1",
+                "uuid": "c10d5d10-2d56-4ad1-9849-7b96221044b8",
+                "productId": 2373139,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_afa9fb4b62ac4189a6af93cee12094b2.jpg",
+                "purchasedCount": 506
+            }
+        ]
+    },
+    {
         "seriesName": "86 -เอทตี้ซิกซ์-",
         "seriesId": 408117,
         "publisherId": 2546,
@@ -12,7 +296,7 @@
                 "productId": 3185091,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6ddaab373b2149d690042f22fac63071.jpg",
-                "purchasedCount": 39
+                "purchasedCount": 42
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 13",
@@ -39,7 +323,7 @@
                 "productId": 1643489,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6259918.jpg",
-                "purchasedCount": 243
+                "purchasedCount": 246
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 6",
@@ -180,7 +464,7 @@
                 "productId": 3179221,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ccc5ceb17e5540cc88277fa6bfc07552.jpg",
-                "purchasedCount": 88
+                "purchasedCount": 92
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 12",
@@ -528,7 +812,7 @@
                 "productId": 3177854,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8996774346c44cd391b7a391f08ec3f3.jpg",
-                "purchasedCount": 20
+                "purchasedCount": 22
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 12",
@@ -679,7 +963,7 @@
                 "productId": 3177845,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_72b0eb866f744c1697be2a0c94e2bc7a.jpg",
-                "purchasedCount": 190
+                "purchasedCount": 192
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 8",
@@ -1224,7 +1508,7 @@
                 "productId": 2968308,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_eca01bd3666a4d6cbeab84387975dbbb.jpg",
-                "purchasedCount": 198
+                "purchasedCount": 200
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 4",
@@ -3744,7 +4028,7 @@
                 "productId": 1638080,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6238128.jpg",
-                "purchasedCount": 50
+                "purchasedCount": 52
             },
             {
                 "title": "เฟท/สเตรนจ์ เฟค (FATE/STRANGE FAKE) เล่ม 5",
@@ -3762,7 +4046,7 @@
                 "productId": 1638060,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6238088.jpg",
-                "purchasedCount": 72
+                "purchasedCount": 74
             },
             {
                 "title": "เฟท/สเตรนจ์ เฟค (FATE/STRANGE FAKE) เล่ม 6",
@@ -4400,167 +4684,6 @@
         ]
     },
     {
-        "seriesName": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช",
-        "seriesId": 412755,
-        "publisherId": 2545,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 17",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช17",
-                "uuid": "d04e0380-32aa-4385-a360-a8b6ec91d88f",
-                "productId": 2964825,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c828d89f8ead43f2acc8868688a04bb8.jpg",
-                "purchasedCount": 36
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 16",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช16",
-                "uuid": "a31ea0be-c37b-4536-b153-8bd7d8b3b962",
-                "productId": 2945045,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_41ab2a851fb741ffa16269c1254daca5.jpg",
-                "purchasedCount": 39
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 15",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช15",
-                "uuid": "036bacf6-6f48-4d80-a7f3-0c2760fda652",
-                "productId": 2641681,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_57b6d6ce23b142e79042367cd8eb8993.jpg",
-                "purchasedCount": 38
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 14",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช14",
-                "uuid": "7f62c2fd-843f-4637-a83f-2ff9b2fc8c3d",
-                "productId": 2389160,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d03853d1d3a64052a281c90594d88a06.jpg",
-                "purchasedCount": 52
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 13",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช13",
-                "uuid": "12191819-75b9-4006-be49-93f4d3533422",
-                "productId": 2367065,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_36349a410a3b42c1befe9337ff964851.jpg",
-                "purchasedCount": 46
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 12",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช12",
-                "uuid": "54f1f199-c47d-49c2-a2dc-462f5311bc6a",
-                "productId": 1869156,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076784.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 8",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช8",
-                "uuid": "be412524-ce63-474b-9c94-b39da1f4e5f4",
-                "productId": 1699058,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085102.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 6",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช6",
-                "uuid": "a609928a-6217-4a1f-957e-4799a6a8b885",
-                "productId": 1699057,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085088.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 5",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช5",
-                "uuid": "678885b7-4199-4cff-9aeb-2929de63ef2c",
-                "productId": 1699056,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085082.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 2",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช2",
-                "uuid": "bc1db9ee-6e91-4ae3-be04-d7e02d25501b",
-                "productId": 1699055,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085098.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 9",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช9",
-                "uuid": "27e302bd-2aaa-4fb2-851c-8e95431e8ee1",
-                "productId": 1699044,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085084.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 7",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช7",
-                "uuid": "f0402ed9-ea4a-4d51-8ee2-ec8d1034d5df",
-                "productId": 1699042,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085092.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 10",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช10",
-                "uuid": "357ec910-f9ca-4da9-8db9-4b65c06f114b",
-                "productId": 1699038,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085104.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 1",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช1",
-                "uuid": "83c555e3-c2bd-40b8-adb0-a2716121dac9",
-                "productId": 1699015,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6464512.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 4",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช4",
-                "uuid": "ed289503-e196-44f0-a497-3b8432c18d7c",
-                "productId": 1699014,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085110.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 3",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช3",
-                "uuid": "8f2b45de-3f6a-47eb-b827-b42fc9212740",
-                "productId": 1699010,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7085114.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 11",
-                "titleKana": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช11",
-                "uuid": "7d099ecd-c91b-4b9f-a073-65c03fd69e3e",
-                "productId": 1661461,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_354d3d0bd2904f7c85a5a9cfe1f71f63.jpg",
-                "purchasedCount": 15
-            }
-        ]
-    },
-    {
         "seriesName": "ผมที่โคตรเซนส์ดี ไม่มีทางเมินความเขินนิดเขินหน่อยของสาวน้อยคูลเดเระอย่างเธอได้หรอกนะ",
         "seriesId": 518233,
         "publisherId": 2545,
@@ -5094,50 +5217,6 @@
         ]
     },
     {
-        "seriesName": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม?",
-        "seriesId": 491161,
-        "publisherId": 2545,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 4",
-                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?4",
-                "uuid": "fcbc953c-7daf-4cb6-8ab2-04f4c2138911",
-                "productId": 2945028,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_a597c92c6cb94c0db1fc5b2faa4de75c.jpg",
-                "purchasedCount": 98
-            },
-            {
-                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 3",
-                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?3",
-                "uuid": "4e835936-ab38-4e52-be56-c937b0fb0529",
-                "productId": 2945027,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_df9ce0f39f294701977fac0b4a6b3da6.jpg",
-                "purchasedCount": 104
-            },
-            {
-                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 2",
-                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?2",
-                "uuid": "0af14b2e-1976-4a05-9c3f-479485f1ca63",
-                "productId": 2641677,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_91913845e093470ebe422984bef30411.jpg",
-                "purchasedCount": 140
-            },
-            {
-                "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 1",
-                "titleKana": "เป็น[แฟน]กับฝาแฝดทั้งสองคนเลยไหม?1",
-                "uuid": "0aa9f8fd-8af2-4964-ae44-813903b67bc4",
-                "productId": 2373138,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4967fd83232645389ac79c60c42d2cd6.jpg",
-                "purchasedCount": 260
-            }
-        ]
-    },
-    {
         "seriesName": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว",
         "seriesId": 408288,
         "publisherId": 2546,
@@ -5504,41 +5583,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_163df59662924bfcbe44e5d1125b83dd.jpg",
                 "purchasedCount": 94
-            }
-        ]
-    },
-    {
-        "seriesName": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?",
-        "seriesId": 491159,
-        "publisherId": 2545,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 3",
-                "titleKana": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?3",
-                "uuid": "0e42b608-693e-4d81-9c13-18fae16db92f",
-                "productId": 2891838,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_af176757331646cab9b81a24cb9ca7a5.jpg",
-                "purchasedCount": 214
-            },
-            {
-                "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 2",
-                "titleKana": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?2",
-                "uuid": "b8302323-3ea3-4feb-8f3e-5fa27cd14cfa",
-                "productId": 2641666,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_1a944868063b4428895a12a7c40c8868.jpg",
-                "purchasedCount": 300
-            },
-            {
-                "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 1",
-                "titleKana": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง?1",
-                "uuid": "c10d5d10-2d56-4ad1-9849-7b96221044b8",
-                "productId": 2373139,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_afa9fb4b62ac4189a6af93cee12094b2.jpg",
-                "purchasedCount": 506
             }
         ]
     },
@@ -6340,7 +6384,7 @@
                 "productId": 1914088,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7227020.jpg",
-                "purchasedCount": 354
+                "purchasedCount": 356
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 2",
@@ -6349,7 +6393,7 @@
                 "productId": 1802903,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6834362.jpg",
-                "purchasedCount": 358
+                "purchasedCount": 360
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 1",
@@ -8750,7 +8794,7 @@
                 "productId": 2453422,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_9c03f247695c4919b13cab54b893371e.jpg",
-                "purchasedCount": 196
+                "purchasedCount": 198
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 7",
@@ -8759,7 +8803,7 @@
                 "productId": 2084490,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_e88b54e482354b3cbdbe856ffca6f049.jpg",
-                "purchasedCount": 244
+                "purchasedCount": 248
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 6",
@@ -8768,7 +8812,7 @@
                 "productId": 1889164,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7149884.jpg",
-                "purchasedCount": 248
+                "purchasedCount": 250
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 5",
@@ -8777,7 +8821,7 @@
                 "productId": 1699063,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6600506.jpg",
-                "purchasedCount": 250
+                "purchasedCount": 252
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 3",
@@ -8786,7 +8830,7 @@
                 "productId": 1627714,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207370.jpg",
-                "purchasedCount": 182
+                "purchasedCount": 184
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 4",
@@ -8795,7 +8839,7 @@
                 "productId": 1627698,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207338.jpg",
-                "purchasedCount": 200
+                "purchasedCount": 202
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 2",
@@ -8804,7 +8848,7 @@
                 "productId": 1627692,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207344.jpg",
-                "purchasedCount": 166
+                "purchasedCount": 168
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 1",
@@ -17661,7 +17705,7 @@
                 "productId": 1637732,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237434.jpg",
-                "purchasedCount": 17
+                "purchasedCount": 18
             },
             {
                 "title": "Evangelion ANIMA เล่ม 4",
