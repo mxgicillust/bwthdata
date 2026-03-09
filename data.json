@@ -47,7 +47,7 @@
                 "productId": 2945027,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_df9ce0f39f294701977fac0b4a6b3da6.jpg",
-                "purchasedCount": 108
+                "purchasedCount": 110
             },
             {
                 "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 2",
@@ -296,7 +296,7 @@
                 "productId": 3185091,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6ddaab373b2149d690042f22fac63071.jpg",
-                "purchasedCount": 78
+                "purchasedCount": 81
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 13",
@@ -464,7 +464,7 @@
                 "productId": 3179221,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ccc5ceb17e5540cc88277fa6bfc07552.jpg",
-                "purchasedCount": 98
+                "purchasedCount": 100
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 12",
@@ -884,7 +884,7 @@
                 "productId": 1691418,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6436178.jpg",
-                "purchasedCount": 562
+                "purchasedCount": 564
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 3",
@@ -893,7 +893,7 @@
                 "productId": 1627754,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588612.jpg",
-                "purchasedCount": 408
+                "purchasedCount": 410
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 4",
@@ -902,7 +902,7 @@
                 "productId": 1627737,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6598974.jpg",
-                "purchasedCount": 444
+                "purchasedCount": 446
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 2",
@@ -911,7 +911,7 @@
                 "productId": 1627481,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588606.jpg",
-                "purchasedCount": 412
+                "purchasedCount": 414
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 1",
@@ -4141,7 +4141,7 @@
                 "productId": 2442681,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_190849c824a24aedae1427489f2f3092.jpg",
-                "purchasedCount": 29
+                "purchasedCount": 30
             }
         ]
     },
@@ -8812,7 +8812,7 @@
                 "productId": 1889164,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7149884.jpg",
-                "purchasedCount": 250
+                "purchasedCount": 252
             },
             {
                 "title": "HELL MODE อยากเล่นโหด ขอโหมดนรก เล่ม 5",
@@ -19810,41 +19810,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6206812.jpg",
                 "purchasedCount": 32
-            }
-        ]
-    },
-    {
-        "seriesName": "การปฏิวัติของสาวน้อยหนอนหนังสือ",
-        "seriesId": 408139,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "การปฏิวัติของสาวน้อยหนอนหนังสือ เล่ม 2",
-                "titleKana": "การปฏิวัติของสาวน้อยหนอนหนังสือ2",
-                "uuid": "219ee3d9-0822-47ac-8754-415baa4f2b57",
-                "productId": 1627499,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6206934.jpg",
-                "purchasedCount": 18
-            },
-            {
-                "title": "การปฏิวัติของสาวน้อยหนอนหนังสือ เล่ม 3",
-                "titleKana": "การปฏิวัติของสาวน้อยหนอนหนังสือ3",
-                "uuid": "ca1b3774-ad41-4813-8e6a-dc3a19a7d9a4",
-                "productId": 1627428,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6206792.jpg",
-                "purchasedCount": 18
-            },
-            {
-                "title": "การปฏิวัติของสาวน้อยหนอนหนังสือ เล่ม 1",
-                "titleKana": "การปฏิวัติของสาวน้อยหนอนหนังสือ1",
-                "uuid": "6b95df88-e94d-4f1b-a410-fd74657c7570",
-                "productId": 1627411,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6206778.jpg",
-                "purchasedCount": 28
             }
         ]
     },
