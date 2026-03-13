@@ -1,5 +1,219 @@
 [
     {
+        "seriesName": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้",
+        "seriesId": 410120,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 8",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้8",
+                "uuid": "fc9f96cc-cd10-468c-89c3-3d323d70bf47",
+                "productId": 3225795,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_a2fe072bb7cf4beb9291de08599f2ab9.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 7",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้7",
+                "uuid": "4dfd92d0-37a8-48bb-a092-15452976f6c2",
+                "productId": 3090279,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4d1c5e0434e348c6be2c432d03ca6c64.jpg",
+                "purchasedCount": 70
+            },
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 6",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้6",
+                "uuid": "c56eaa43-d2f0-4173-adfc-1c7559764ced",
+                "productId": 2781411,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f270aa84c0ff4bc298c1f440c228d96f.jpg",
+                "purchasedCount": 106
+            },
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 5",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้5",
+                "uuid": "0ca7ed1c-5243-40f7-9fb4-2b9a04c21a48",
+                "productId": 2490805,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_651d5975ef384ef499d9333ad69b083b.jpg",
+                "purchasedCount": 132
+            },
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 4",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้4",
+                "uuid": "47c2db92-ef1c-4f63-8eaf-39e37a3ba1a6",
+                "productId": 2210188,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d5449e1d3259427fbc4f44ce6826ab53.jpg",
+                "purchasedCount": 150
+            },
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 3",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้3",
+                "uuid": "f6562fef-2e99-4c69-a89c-8e10c15349b7",
+                "productId": 1968829,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_8169dbfaec754746ab8cafb9497f2489.jpg",
+                "purchasedCount": 190
+            },
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 2",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้2",
+                "uuid": "6d6c4801-208f-4f1e-ac0b-a21384065593",
+                "productId": 1755972,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6754854.jpg",
+                "purchasedCount": 212
+            },
+            {
+                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 1",
+                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้1",
+                "uuid": "6238ad81-e3e7-42ca-b072-7531a68f075e",
+                "productId": 1643500,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6259940.jpg",
+                "purchasedCount": 274
+            }
+        ]
+    },
+    {
+        "seriesName": "สืบคดีปริศนา หมอยาตำรับโคมแดง",
+        "seriesId": 408230,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 14",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง14",
+                "uuid": "f0cc5a93-ba89-478a-a2fd-c743713d19d3",
+                "productId": 3225793,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f620bce2ed6b4c918609f86a1edd101c.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 13",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง13",
+                "uuid": "a392474c-2916-40f2-87e5-f1e146445baa",
+                "productId": 3095859,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ebd2ddd947e24b91a106b76e80afcea9.jpg",
+                "purchasedCount": 144
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 12",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง12",
+                "uuid": "86a8efbb-229a-4d54-ab88-8afe7de875d1",
+                "productId": 2936347,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3b0aed7534604ffe9619699057cb6b11.jpg",
+                "purchasedCount": 200
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 11",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง11",
+                "uuid": "08c16f7f-02f9-4f09-890b-690fde0e7186",
+                "productId": 2672173,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_94d645f4bfaf49f5a653c4cbb1d66fc1.jpg",
+                "purchasedCount": 254
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 10",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง10",
+                "uuid": "0ed1ed6e-d7ec-4d51-b75b-bd25783adae3",
+                "productId": 2355070,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_15b0dd135fb8466aa50c6a526b76af31.jpg",
+                "purchasedCount": 320
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 9",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง9",
+                "uuid": "907d4abd-3a26-4084-a515-ce50e68fa5ad",
+                "productId": 1920570,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7248328.jpg",
+                "purchasedCount": 416
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 8",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง8",
+                "uuid": "347211c0-29fa-4179-8fef-52b75e70032e",
+                "productId": 1779066,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6747172.jpg",
+                "purchasedCount": 384
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 4",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง4",
+                "uuid": "42482a13-b4a8-4af7-84ac-d7448cd8ce8c",
+                "productId": 1642211,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6717094.jpg",
+                "purchasedCount": 388
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 2",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง2",
+                "uuid": "a81a0bbc-8193-455a-860c-daa2d4fad0d1",
+                "productId": 1637869,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237706.jpg",
+                "purchasedCount": 262
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 1",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง1",
+                "uuid": "ea06763b-e250-4b93-a1b7-00710e3888eb",
+                "productId": 1637867,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6919846.jpg",
+                "purchasedCount": 272
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 3",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง3",
+                "uuid": "3cd0012a-3395-4a3a-b7a6-a79b4f16e65c",
+                "productId": 1637852,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237672.jpg",
+                "purchasedCount": 328
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 7",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง7",
+                "uuid": "b4aeaa5f-0519-4c3e-bb2a-c641e6f85741",
+                "productId": 1627883,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207708.jpg",
+                "purchasedCount": 392
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 6",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง6",
+                "uuid": "7f2433e6-ecda-41fa-814e-73fb75bfaaa5",
+                "productId": 1627636,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207208.jpg",
+                "purchasedCount": 414
+            },
+            {
+                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 5",
+                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง5",
+                "uuid": "ddfa43ba-89d1-4336-8b98-f518f252a8e3",
+                "productId": 1627635,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207206.jpg",
+                "purchasedCount": 478
+            }
+        ]
+    },
+    {
         "seriesName": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์",
         "seriesId": 407205,
         "publisherId": 2529,
@@ -350,7 +564,7 @@
                 "productId": 2373139,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_afa9fb4b62ac4189a6af93cee12094b2.jpg",
-                "purchasedCount": 508
+                "purchasedCount": 510
             }
         ]
     },
@@ -1088,7 +1302,7 @@
                 "productId": 1716733,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6529728.jpg",
-                "purchasedCount": 462
+                "purchasedCount": 464
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 2",
@@ -1615,7 +1829,7 @@
                 "productId": 1838936,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6965178.jpg",
-                "purchasedCount": 544
+                "purchasedCount": 546
             }
         ]
     },
@@ -1819,7 +2033,7 @@
                 "productId": 3129905,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b2d55d0c760541cfb0ec43f0611e67f0.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 12
             },
             {
                 "title": "ยิ่งกว่ารักแต่ไม่ใช่แฟน เล่ม 3",
@@ -1828,7 +2042,7 @@
                 "productId": 2835242,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_757348804f014416a1ede48804bd2565.jpg",
-                "purchasedCount": 14
+                "purchasedCount": 16
             },
             {
                 "title": "ยิ่งกว่ารักแต่ไม่ใช่แฟน เล่ม 2",
@@ -1837,7 +2051,7 @@
                 "productId": 2423708,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_19201f3228944baf9ec52b884d0d94b9.jpg",
-                "purchasedCount": 24
+                "purchasedCount": 26
             },
             {
                 "title": "ยิ่งกว่ารักแต่ไม่ใช่แฟน เล่ม 1",
@@ -1846,7 +2060,7 @@
                 "productId": 2151773,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7d973823ce6c4f0da6ce49e404730ef6.jpg",
-                "purchasedCount": 42
+                "purchasedCount": 44
             }
         ]
     },
@@ -2172,131 +2386,6 @@
         ]
     },
     {
-        "seriesName": "สืบคดีปริศนา หมอยาตำรับโคมแดง",
-        "seriesId": 408230,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 13",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง13",
-                "uuid": "a392474c-2916-40f2-87e5-f1e146445baa",
-                "productId": 3095859,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ebd2ddd947e24b91a106b76e80afcea9.jpg",
-                "purchasedCount": 144
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 12",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง12",
-                "uuid": "86a8efbb-229a-4d54-ab88-8afe7de875d1",
-                "productId": 2936347,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_3b0aed7534604ffe9619699057cb6b11.jpg",
-                "purchasedCount": 200
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 11",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง11",
-                "uuid": "08c16f7f-02f9-4f09-890b-690fde0e7186",
-                "productId": 2672173,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_94d645f4bfaf49f5a653c4cbb1d66fc1.jpg",
-                "purchasedCount": 254
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 10",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง10",
-                "uuid": "0ed1ed6e-d7ec-4d51-b75b-bd25783adae3",
-                "productId": 2355070,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_15b0dd135fb8466aa50c6a526b76af31.jpg",
-                "purchasedCount": 320
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 9",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง9",
-                "uuid": "907d4abd-3a26-4084-a515-ce50e68fa5ad",
-                "productId": 1920570,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7248328.jpg",
-                "purchasedCount": 416
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 8",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง8",
-                "uuid": "347211c0-29fa-4179-8fef-52b75e70032e",
-                "productId": 1779066,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6747172.jpg",
-                "purchasedCount": 384
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 4",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง4",
-                "uuid": "42482a13-b4a8-4af7-84ac-d7448cd8ce8c",
-                "productId": 1642211,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6717094.jpg",
-                "purchasedCount": 388
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 2",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง2",
-                "uuid": "a81a0bbc-8193-455a-860c-daa2d4fad0d1",
-                "productId": 1637869,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237706.jpg",
-                "purchasedCount": 262
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 1",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง1",
-                "uuid": "ea06763b-e250-4b93-a1b7-00710e3888eb",
-                "productId": 1637867,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6919846.jpg",
-                "purchasedCount": 272
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 3",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง3",
-                "uuid": "3cd0012a-3395-4a3a-b7a6-a79b4f16e65c",
-                "productId": 1637852,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237672.jpg",
-                "purchasedCount": 328
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 7",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง7",
-                "uuid": "b4aeaa5f-0519-4c3e-bb2a-c641e6f85741",
-                "productId": 1627883,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207708.jpg",
-                "purchasedCount": 392
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 6",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง6",
-                "uuid": "7f2433e6-ecda-41fa-814e-73fb75bfaaa5",
-                "productId": 1627636,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207208.jpg",
-                "purchasedCount": 414
-            },
-            {
-                "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 5",
-                "titleKana": "สืบคดีปริศนาหมอยาตำรับโคมแดง5",
-                "uuid": "ddfa43ba-89d1-4336-8b98-f518f252a8e3",
-                "productId": 1627635,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207206.jpg",
-                "purchasedCount": 478
-            }
-        ]
-    },
-    {
         "seriesName": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว",
         "seriesId": 570317,
         "publisherId": 2529,
@@ -2460,77 +2549,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6314882.jpg",
                 "purchasedCount": 482
-            }
-        ]
-    },
-    {
-        "seriesName": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้",
-        "seriesId": 410120,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 7",
-                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้7",
-                "uuid": "4dfd92d0-37a8-48bb-a092-15452976f6c2",
-                "productId": 3090279,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4d1c5e0434e348c6be2c432d03ca6c64.jpg",
-                "purchasedCount": 70
-            },
-            {
-                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 6",
-                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้6",
-                "uuid": "c56eaa43-d2f0-4173-adfc-1c7559764ced",
-                "productId": 2781411,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f270aa84c0ff4bc298c1f440c228d96f.jpg",
-                "purchasedCount": 106
-            },
-            {
-                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 5",
-                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้5",
-                "uuid": "0ca7ed1c-5243-40f7-9fb4-2b9a04c21a48",
-                "productId": 2490805,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_651d5975ef384ef499d9333ad69b083b.jpg",
-                "purchasedCount": 132
-            },
-            {
-                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 4",
-                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้4",
-                "uuid": "47c2db92-ef1c-4f63-8eaf-39e37a3ba1a6",
-                "productId": 2210188,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d5449e1d3259427fbc4f44ce6826ab53.jpg",
-                "purchasedCount": 150
-            },
-            {
-                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 3",
-                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้3",
-                "uuid": "f6562fef-2e99-4c69-a89c-8e10c15349b7",
-                "productId": 1968829,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_8169dbfaec754746ab8cafb9497f2489.jpg",
-                "purchasedCount": 190
-            },
-            {
-                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 2",
-                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้2",
-                "uuid": "6d6c4801-208f-4f1e-ac0b-a21384065593",
-                "productId": 1755972,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6754854.jpg",
-                "purchasedCount": 212
-            },
-            {
-                "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 1",
-                "titleKana": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้1",
-                "uuid": "6238ad81-e3e7-42ca-b072-7531a68f075e",
-                "productId": 1643500,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6259940.jpg",
-                "purchasedCount": 274
             }
         ]
     },
@@ -4117,7 +4135,7 @@
                 "productId": 1638060,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6238088.jpg",
-                "purchasedCount": 74
+                "purchasedCount": 76
             },
             {
                 "title": "เฟท/สเตรนจ์ เฟค (FATE/STRANGE FAKE) เล่ม 6",
@@ -4951,7 +4969,7 @@
                 "productId": 2945034,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1ce3ab5ccaf248ad87084f69d2536020.jpg",
-                "purchasedCount": 55
+                "purchasedCount": 56
             },
             {
                 "title": "อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ 13 (จบ)",
@@ -5050,7 +5068,7 @@
                 "productId": 1638095,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2bd38a6c45304bf28a2059a2152a133c.jpg",
-                "purchasedCount": 29
+                "purchasedCount": 30
             },
             {
                 "title": "อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ 11",
@@ -7247,7 +7265,7 @@
                 "productId": 1686968,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6418246.jpg",
-                "purchasedCount": 28
+                "purchasedCount": 30
             },
             {
                 "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 2",
@@ -8892,7 +8910,7 @@
                 "productId": 2417612,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c83455b1edda417d9bd37a2e4d3e7373.jpg",
-                "purchasedCount": 587
+                "purchasedCount": 588
             }
         ]
     },
@@ -11045,7 +11063,7 @@
                 "productId": 2313354,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_5d7779aff1b448f09c7aa7ea126ec0f0.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             }
         ]
     },
