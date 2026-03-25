@@ -1,5 +1,57 @@
 [
     {
+        "seriesName": "ภารกิจพิชิตใจสามสาวงามของนายแมงดา",
+        "seriesId": 589809,
+        "publisherId": 2545,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ภารกิจพิชิตใจสามสาวงามของนายแมงดา เล่ม 01",
+                "titleKana": "ภารกิจพิชิตใจสามสาวงามของนายแมงดา01",
+                "uuid": "eb5c7a6d-081d-49b6-8175-f366adabe816",
+                "productId": 3240183,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_8f9af61e79f747a6be899de512e63b3d.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "การล้างแค้นของผู้กล้าสายฮีล",
+        "seriesId": 493489,
+        "publisherId": 2545,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 3 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
+                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล3～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
+                "uuid": "34b08105-6305-40e1-96c6-f87661bb27ea",
+                "productId": 3240176,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4d2e2a1a4d1b4d4499a7f2648c60fe2f.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 2 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
+                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล2～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
+                "uuid": "c762677f-ae26-4406-ac9c-a9c1ff63921f",
+                "productId": 2891840,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9c4b1cf206264370b8b40fe86c984812.jpg",
+                "purchasedCount": 50
+            },
+            {
+                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 1 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
+                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล1～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
+                "uuid": "0f36a528-1f37-4729-8e6c-e9c1c6ff7626",
+                "productId": 2392767,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_163df59662924bfcbe44e5d1125b83dd.jpg",
+                "purchasedCount": 94
+            }
+        ]
+    },
+    {
         "seriesName": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้",
         "seriesId": 410120,
         "publisherId": 2546,
@@ -12,7 +64,7 @@
                 "productId": 3225795,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a2fe072bb7cf4beb9291de08599f2ab9.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             },
             {
                 "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 7",
@@ -92,7 +144,7 @@
                 "productId": 3225793,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f620bce2ed6b4c918609f86a1edd101c.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 62
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 13",
@@ -892,7 +944,7 @@
                 "productId": 3179220,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ea56c9c46c414db182b37b849f588053.jpg",
-                "purchasedCount": 24
+                "purchasedCount": 26
             },
             {
                 "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 7",
@@ -1248,7 +1300,7 @@
                 "productId": 3177845,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_72b0eb866f744c1697be2a0c94e2bc7a.jpg",
-                "purchasedCount": 260
+                "purchasedCount": 262
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 8",
@@ -1784,7 +1836,7 @@
                 "productId": 3141195,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_19c1db938afc409ebf5c6ebb7abf49bf.jpg",
-                "purchasedCount": 104
+                "purchasedCount": 106
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 5",
@@ -1793,7 +1845,7 @@
                 "productId": 2968308,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_eca01bd3666a4d6cbeab84387975dbbb.jpg",
-                "purchasedCount": 204
+                "purchasedCount": 206
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 4",
@@ -1802,7 +1854,7 @@
                 "productId": 2534626,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3d5cc7e2249349098fdbf93bae45cef4.jpg",
-                "purchasedCount": 256
+                "purchasedCount": 258
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 3",
@@ -1829,7 +1881,7 @@
                 "productId": 1838936,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6965178.jpg",
-                "purchasedCount": 548
+                "purchasedCount": 550
             }
         ]
     },
@@ -2942,7 +2994,7 @@
                 "productId": 2142690,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_0d641a0cefef47518f76ddcf954ca7c4.jpg",
-                "purchasedCount": 126
+                "purchasedCount": 128
             },
             {
                 "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 18",
@@ -4608,7 +4660,7 @@
                 "productId": 1869188,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076848.jpg",
-                "purchasedCount": 124
+                "purchasedCount": 126
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 14",
@@ -4617,7 +4669,7 @@
                 "productId": 1869187,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076844.jpg",
-                "purchasedCount": 138
+                "purchasedCount": 140
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 13",
@@ -4689,7 +4741,7 @@
                 "productId": 1869145,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076756.jpg",
-                "purchasedCount": 142
+                "purchasedCount": 144
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 2",
@@ -5408,7 +5460,7 @@
                 "productId": 1627600,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6673058.jpg",
-                "purchasedCount": 150
+                "purchasedCount": 152
             }
         ]
     },
@@ -5646,32 +5698,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6840256.jpg",
                 "purchasedCount": 66
-            }
-        ]
-    },
-    {
-        "seriesName": "การล้างแค้นของผู้กล้าสายฮีล",
-        "seriesId": 493489,
-        "publisherId": 2545,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 2 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
-                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล2～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
-                "uuid": "c762677f-ae26-4406-ac9c-a9c1ff63921f",
-                "productId": 2891840,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9c4b1cf206264370b8b40fe86c984812.jpg",
-                "purchasedCount": 50
-            },
-            {
-                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 1 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
-                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล1～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
-                "uuid": "0f36a528-1f37-4729-8e6c-e9c1c6ff7626",
-                "productId": 2392767,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_163df59662924bfcbe44e5d1125b83dd.jpg",
-                "purchasedCount": 94
             }
         ]
     },
