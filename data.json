@@ -1,5 +1,109 @@
 [
     {
+        "seriesName": "ปัญหาแสนวุ่นของนิโคลาสาวน้อยนักปราบผี",
+        "seriesId": 590648,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ปัญหาแสนวุ่นของนิโคลาสาวน้อยนักปราบผี (นิยาย) 1",
+                "titleKana": "ปัญหาแสนวุ่นของนิโคลาสาวน้อยนักปราบผี1",
+                "uuid": "21c05215-864a-44a7-99a3-4c158d965b66",
+                "productId": 3245829,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_8862465fb3214c709209568516cc36d2.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "นี่ เรามาคบกันมั้ย? เมื่อเพื่อนสมัยเด็กคนสวยขอมา ชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น",
+        "seriesId": 482202,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "นี่ เรามาคบกันมั้ย? เมื่อเพื่อนสมัยเด็กคนสวยขอมา ชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น (นิยาย) 03",
+                "titleKana": "นี่เรามาคบกันมั้ย?เมื่อเพื่อนสมัยเด็กคนสวยขอมาชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น03",
+                "uuid": "ecc3b31c-1ed9-4b2d-aa4e-9128fd30cf81",
+                "productId": 3245823,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_519d4a850dcb4fddbb33e9c92b82a82d.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "นี่ เรามาคบกันมั้ย? เมื่อเพื่อนสมัยเด็กคนสวยขอมา ชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น (นิยาย) 02",
+                "titleKana": "นี่เรามาคบกันมั้ย?เมื่อเพื่อนสมัยเด็กคนสวยขอมาชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น02",
+                "uuid": "82115e96-411f-425a-8091-63259016e518",
+                "productId": 2656851,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c90c8b7ecf1e47f49ca152a81d48c133.jpg",
+                "purchasedCount": 4
+            },
+            {
+                "title": "นี่ เรามาคบกันมั้ย? เมื่อเพื่อนสมัยเด็กคนสวยขอมา ชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น (นิยาย) 01",
+                "titleKana": "นี่เรามาคบกันมั้ย?เมื่อเพื่อนสมัยเด็กคนสวยขอมาชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น01",
+                "uuid": "c9402c23-9849-4d6b-b248-bdbf5a335182",
+                "productId": 2280135,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_5c0dc9a43bef4bf7969cd336670ad86b.jpg",
+                "purchasedCount": 26
+            }
+        ]
+    },
+    {
+        "seriesName": "สลัดรวมมิตรคนเพี้ยนหลุดโลก",
+        "seriesId": 535433,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "สลัดรวมมิตรคนเพี้ยนหลุดโลก (นิยาย) 03",
+                "titleKana": "สลัดรวมมิตรคนเพี้ยนหลุดโลก03",
+                "uuid": "cfc45881-292e-4ae2-adbc-eb3a5a661d7e",
+                "productId": 3245821,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_93e035ed897b4b9083fca3f441d30028.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "สลัดรวมมิตรคนเพี้ยนหลุดโลก (นิยาย) 02",
+                "titleKana": "สลัดรวมมิตรคนเพี้ยนหลุดโลก02",
+                "uuid": "c2f1ba58-1874-4a81-b1c4-0f304721f65c",
+                "productId": 2816080,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_88d8838d8e5547febc212bb3310f7dff.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "สลัดรวมมิตรคนเพี้ยนหลุดโลก (นิยาย) 01",
+                "titleKana": "สลัดรวมมิตรคนเพี้ยนหลุดโลก01",
+                "uuid": "34ad5541-9b1e-4137-9bc2-4566340c23bc",
+                "productId": 2816079,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c5c87865381944238006e7f47f129c18.jpg",
+                "purchasedCount": 10
+            }
+        ]
+    },
+    {
+        "seriesName": "วิวาห์เลี่ยงภาษีของผู้กล้ากับจอมอสูร",
+        "seriesId": 590650,
+        "publisherId": 2779,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "วิวาห์เลี่ยงภาษีของผู้กล้ากับจอมอสูร เล่ม 1 (ฉบับนิยาย)",
+                "titleKana": "วิวาห์เลี่ยงภาษีของผู้กล้ากับจอมอสูร1",
+                "uuid": "c7bc7139-6cb3-4b25-961b-6e0393a9a14c",
+                "productId": 3245816,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_1f993e6591884ab3b7718089d70d63f3.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
         "seriesName": "ภารกิจพิชิตใจสามสาวงามของนายแมงดา",
         "seriesId": 589809,
         "publisherId": 2545,
@@ -12,7 +116,7 @@
                 "productId": 3240183,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8f9af61e79f747a6be899de512e63b3d.jpg",
-                "purchasedCount": 0
+                "purchasedCount": 10
             }
         ]
     },
@@ -29,7 +133,7 @@
                 "productId": 3240176,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4d2e2a1a4d1b4d4499a7f2648c60fe2f.jpg",
-                "purchasedCount": 0
+                "purchasedCount": 4
             },
             {
                 "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 2 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
@@ -38,7 +142,7 @@
                 "productId": 2891840,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_9c4b1cf206264370b8b40fe86c984812.jpg",
-                "purchasedCount": 50
+                "purchasedCount": 52
             },
             {
                 "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 1 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
@@ -144,7 +248,7 @@
                 "productId": 3225793,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f620bce2ed6b4c918609f86a1edd101c.jpg",
-                "purchasedCount": 62
+                "purchasedCount": 66
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 13",
@@ -153,7 +257,7 @@
                 "productId": 3095859,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ebd2ddd947e24b91a106b76e80afcea9.jpg",
-                "purchasedCount": 144
+                "purchasedCount": 156
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 12",
@@ -162,7 +266,7 @@
                 "productId": 2936347,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3b0aed7534604ffe9619699057cb6b11.jpg",
-                "purchasedCount": 200
+                "purchasedCount": 204
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 11",
@@ -171,7 +275,7 @@
                 "productId": 2672173,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_94d645f4bfaf49f5a653c4cbb1d66fc1.jpg",
-                "purchasedCount": 256
+                "purchasedCount": 260
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 10",
@@ -180,7 +284,7 @@
                 "productId": 2355070,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_15b0dd135fb8466aa50c6a526b76af31.jpg",
-                "purchasedCount": 320
+                "purchasedCount": 322
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 9",
@@ -189,7 +293,7 @@
                 "productId": 1920570,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7248328.jpg",
-                "purchasedCount": 416
+                "purchasedCount": 418
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 8",
@@ -198,7 +302,7 @@
                 "productId": 1779066,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6747172.jpg",
-                "purchasedCount": 384
+                "purchasedCount": 388
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 4",
@@ -207,7 +311,7 @@
                 "productId": 1642211,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6717094.jpg",
-                "purchasedCount": 388
+                "purchasedCount": 390
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 2",
@@ -216,7 +320,7 @@
                 "productId": 1637869,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237706.jpg",
-                "purchasedCount": 262
+                "purchasedCount": 264
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 1",
@@ -225,7 +329,7 @@
                 "productId": 1637867,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6919846.jpg",
-                "purchasedCount": 272
+                "purchasedCount": 274
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 3",
@@ -234,7 +338,7 @@
                 "productId": 1637852,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237672.jpg",
-                "purchasedCount": 330
+                "purchasedCount": 332
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 7",
@@ -243,7 +347,7 @@
                 "productId": 1627883,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207708.jpg",
-                "purchasedCount": 392
+                "purchasedCount": 396
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 6",
@@ -252,7 +356,7 @@
                 "productId": 1627636,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207208.jpg",
-                "purchasedCount": 414
+                "purchasedCount": 418
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 5",
@@ -261,7 +365,7 @@
                 "productId": 1627635,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207206.jpg",
-                "purchasedCount": 480
+                "purchasedCount": 482
             }
         ]
     },
@@ -278,7 +382,7 @@
                 "productId": 3218842,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_04b09abc810c4c18a2cc1627f06755e2.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 10
             },
             {
                 "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 6",
@@ -366,7 +470,7 @@
                 "productId": 3195525,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_280e3a960a444348a278a8d64ec0ce01.jpg",
-                "purchasedCount": 42
+                "purchasedCount": 46
             },
             {
                 "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 4",
@@ -393,7 +497,7 @@
                 "productId": 2641677,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_91913845e093470ebe422984bef30411.jpg",
-                "purchasedCount": 142
+                "purchasedCount": 144
             },
             {
                 "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 1",
@@ -402,7 +506,7 @@
                 "productId": 2373138,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4967fd83232645389ac79c60c42d2cd6.jpg",
-                "purchasedCount": 264
+                "purchasedCount": 266
             }
         ]
     },
@@ -419,7 +523,7 @@
                 "productId": 3195523,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_028e8730774d48de940086e942059007.jpg",
-                "purchasedCount": 31
+                "purchasedCount": 32
             },
             {
                 "title": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช เล่ม 17",
@@ -589,7 +693,7 @@
                 "productId": 3195519,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_26edaec7bef84b2795a6122718b689e7.jpg",
-                "purchasedCount": 78
+                "purchasedCount": 86
             },
             {
                 "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 3",
@@ -633,7 +737,7 @@
                 "productId": 3185091,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6ddaab373b2149d690042f22fac63071.jpg",
-                "purchasedCount": 87
+                "purchasedCount": 99
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 13",
@@ -642,7 +746,7 @@
                 "productId": 2355067,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a726ac84003e4ecf93e5c50ba438a5b1.jpg",
-                "purchasedCount": 195
+                "purchasedCount": 201
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 12",
@@ -651,7 +755,7 @@
                 "productId": 1837567,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6959596.jpg",
-                "purchasedCount": 300
+                "purchasedCount": 306
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 11",
@@ -660,7 +764,7 @@
                 "productId": 1643489,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6259918.jpg",
-                "purchasedCount": 246
+                "purchasedCount": 252
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 6",
@@ -669,7 +773,7 @@
                 "productId": 1637744,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237456.jpg",
-                "purchasedCount": 291
+                "purchasedCount": 294
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 3",
@@ -678,7 +782,7 @@
                 "productId": 1637736,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237448.jpg",
-                "purchasedCount": 177
+                "purchasedCount": 180
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 4",
@@ -687,7 +791,7 @@
                 "productId": 1637733,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237422.jpg",
-                "purchasedCount": 462
+                "purchasedCount": 465
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 1",
@@ -696,7 +800,7 @@
                 "productId": 1637726,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588598.jpg",
-                "purchasedCount": 216
+                "purchasedCount": 219
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 5",
@@ -705,7 +809,7 @@
                 "productId": 1637724,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237436.jpg",
-                "purchasedCount": 306
+                "purchasedCount": 309
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 2",
@@ -714,7 +818,7 @@
                 "productId": 1637723,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237418.jpg",
-                "purchasedCount": 189
+                "purchasedCount": 192
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 9",
@@ -723,7 +827,7 @@
                 "productId": 1627703,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207336.jpg",
-                "purchasedCount": 255
+                "purchasedCount": 261
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 10",
@@ -732,7 +836,7 @@
                 "productId": 1627700,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207346.jpg",
-                "purchasedCount": 243
+                "purchasedCount": 249
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 8",
@@ -741,7 +845,7 @@
                 "productId": 1627688,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207318.jpg",
-                "purchasedCount": 264
+                "purchasedCount": 267
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 7",
@@ -750,7 +854,7 @@
                 "productId": 1627409,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6206752.jpg",
-                "purchasedCount": 315
+                "purchasedCount": 318
             }
         ]
     },
@@ -801,7 +905,7 @@
                 "productId": 3179221,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ccc5ceb17e5540cc88277fa6bfc07552.jpg",
-                "purchasedCount": 106
+                "purchasedCount": 112
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 12",
@@ -810,7 +914,7 @@
                 "productId": 3095870,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1bbb2b5260124b4391181978b79965e3.jpg",
-                "purchasedCount": 152
+                "purchasedCount": 154
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 11",
@@ -819,7 +923,7 @@
                 "productId": 2833069,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6efa1f47c4404dfe9d751ceb0fbb5c6e.jpg",
-                "purchasedCount": 180
+                "purchasedCount": 182
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 10",
@@ -828,7 +932,7 @@
                 "productId": 2686867,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_bd1cb9cc75154997bda9479ab9309e4d.jpg",
-                "purchasedCount": 190
+                "purchasedCount": 192
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 9.5",
@@ -944,7 +1048,7 @@
                 "productId": 3179220,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ea56c9c46c414db182b37b849f588053.jpg",
-                "purchasedCount": 26
+                "purchasedCount": 34
             },
             {
                 "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 7",
@@ -1024,7 +1128,7 @@
                 "productId": 3177856,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ba4d202c506e4be28d2ba092a75195b0.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 13
             },
             {
                 "title": "ห้องเรียนจารชน เล่ม 12",
@@ -1149,7 +1253,7 @@
                 "productId": 3177854,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8996774346c44cd391b7a391f08ec3f3.jpg",
-                "purchasedCount": 26
+                "purchasedCount": 30
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 12",
@@ -1185,7 +1289,7 @@
                 "productId": 2351287,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_181aec7f5edb4b3d8a7ff2e62f8b86b4.jpg",
-                "purchasedCount": 196
+                "purchasedCount": 198
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 8",
@@ -1194,7 +1298,7 @@
                 "productId": 2087190,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ef067275cddb44598eb016fcf793e245.jpg",
-                "purchasedCount": 228
+                "purchasedCount": 230
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 7",
@@ -1203,7 +1307,7 @@
                 "productId": 1923821,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7256202.jpg",
-                "purchasedCount": 258
+                "purchasedCount": 260
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 6",
@@ -1212,7 +1316,7 @@
                 "productId": 1807975,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6850514.jpg",
-                "purchasedCount": 282
+                "purchasedCount": 284
             },
             {
                 "title": "แง้มหัวใจยัยน้องสาวจำเป็น เล่ม 5",
@@ -1274,7 +1378,7 @@
                 "productId": 3177847,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_e7681faf83df4de88c170b9f5dcf1c16.jpg",
-                "purchasedCount": 26
+                "purchasedCount": 30
             },
             {
                 "title": "ลิขิตชะตาเกมท้าตาย เล่ม 1",
@@ -1300,7 +1404,7 @@
                 "productId": 3177845,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_72b0eb866f744c1697be2a0c94e2bc7a.jpg",
-                "purchasedCount": 262
+                "purchasedCount": 276
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 8",
@@ -1309,7 +1413,7 @@
                 "productId": 2883194,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_53cc5f69495540a8808a51d1f6246b3c.jpg",
-                "purchasedCount": 320
+                "purchasedCount": 322
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 7",
@@ -1318,7 +1422,7 @@
                 "productId": 2727998,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_dd67bdd12a3c4f76bae7d00cdd49f4f2.jpg",
-                "purchasedCount": 290
+                "purchasedCount": 292
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 6",
@@ -1327,7 +1431,7 @@
                 "productId": 2353542,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ea45264227ce43f18ee235aad4bc7e61.jpg",
-                "purchasedCount": 312
+                "purchasedCount": 316
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 5",
@@ -1381,7 +1485,7 @@
                 "productId": 1627544,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6541420.jpg",
-                "purchasedCount": 450
+                "purchasedCount": 452
             }
         ]
     },
@@ -1398,7 +1502,7 @@
                 "productId": 3174540,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_9e536c81ac7043b3ae24033d94ec354b.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 12
             },
             {
                 "title": "นายโดดเดี่ยวพิชิตต่างโลก เล่ม 10 เหล่าสัตว์ป่าแห่งลัทธิเลเวลนิยม",
@@ -1693,7 +1797,7 @@
                 "productId": 3160519,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_40d8298f38834ba18e381b9fd8fafbb2.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 8
             },
             {
                 "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 8",
@@ -1836,7 +1940,7 @@
                 "productId": 3141195,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_19c1db938afc409ebf5c6ebb7abf49bf.jpg",
-                "purchasedCount": 106
+                "purchasedCount": 112
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 5",
@@ -1845,7 +1949,7 @@
                 "productId": 2968308,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_eca01bd3666a4d6cbeab84387975dbbb.jpg",
-                "purchasedCount": 206
+                "purchasedCount": 208
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 4",
@@ -1854,7 +1958,7 @@
                 "productId": 2534626,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3d5cc7e2249349098fdbf93bae45cef4.jpg",
-                "purchasedCount": 258
+                "purchasedCount": 260
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 3",
@@ -1863,7 +1967,7 @@
                 "productId": 2156593,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_248d77edb83045ab93addcc29910d64a.jpg",
-                "purchasedCount": 394
+                "purchasedCount": 396
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 2",
@@ -1872,7 +1976,7 @@
                 "productId": 1953300,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4a9453700f4f400ea3667f18cb4b8fc9.jpg",
-                "purchasedCount": 540
+                "purchasedCount": 542
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 1",
@@ -1881,7 +1985,7 @@
                 "productId": 1838936,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6965178.jpg",
-                "purchasedCount": 550
+                "purchasedCount": 552
             }
         ]
     },
@@ -1942,7 +2046,7 @@
                 "productId": 3135384,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_0a7b7d539e27473ebeb92e6ace2eae6f.jpg",
-                "purchasedCount": 36
+                "purchasedCount": 38
             },
             {
                 "title": "สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก เล่ม 14",
@@ -1951,7 +2055,7 @@
                 "productId": 2879919,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_e066545f9b7e4fb08592d33b1337a72c.jpg",
-                "purchasedCount": 76
+                "purchasedCount": 78
             },
             {
                 "title": "สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก เล่ม 13",
@@ -2085,7 +2189,7 @@
                 "productId": 3129905,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b2d55d0c760541cfb0ec43f0611e67f0.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             },
             {
                 "title": "ยิ่งกว่ารักแต่ไม่ใช่แฟน เล่ม 3",
@@ -2182,7 +2286,7 @@
                 "productId": 3095862,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_faaf9bac4adb45d0838dd53b2a9f4584.jpg",
-                "purchasedCount": 142
+                "purchasedCount": 144
             },
             {
                 "title": "ราชินีนักล่าค่าประสบการณ์ เล่ม 3",
@@ -2209,7 +2313,7 @@
                 "productId": 2126567,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_5f6a25439b4c43ee877d2b3d822fc03f.jpg",
-                "purchasedCount": 206
+                "purchasedCount": 208
             }
         ]
     },
@@ -2467,7 +2571,7 @@
                 "productId": 3091007,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_55777b01d3334206865343a9485f50e2.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             },
             {
                 "title": "เกมมรณะนี้ฉันมีความมืดเป็นสิ่งปลอบโยน เล่ม 2",
@@ -2476,7 +2580,7 @@
                 "productId": 2739794,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_581f1ee759374651a83c550408be3bfa.jpg",
-                "purchasedCount": 22
+                "purchasedCount": 24
             },
             {
                 "title": "เกมมรณะนี้ฉันมีความมืดเป็นสิ่งปลอบโยน เล่ม 1",
@@ -2485,7 +2589,7 @@
                 "productId": 2460785,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_aa62e735268b4d7b82c180b7a1c13c5e.jpg",
-                "purchasedCount": 24
+                "purchasedCount": 26
             }
         ]
     },
@@ -2502,7 +2606,7 @@
                 "productId": 3090295,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_33b9e53a279948c686000377b2bf548f.jpg",
-                "purchasedCount": 14
+                "purchasedCount": 16
             },
             {
                 "title": "เธอกับฉันเพื่อนกันใช่มั้ย (ไม่ใช่!!) เล่ม 3",
@@ -2529,7 +2633,7 @@
                 "productId": 1691423,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6436194.jpg",
-                "purchasedCount": 234
+                "purchasedCount": 236
             }
         ]
     },
@@ -2546,7 +2650,7 @@
                 "productId": 3090291,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_251da5ea61734271821e1920f5776c65.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 64
             },
             {
                 "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 6",
@@ -2738,7 +2842,7 @@
                 "productId": 3038213,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_329053d0fc634adb8ac40d9d290f1b38.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 7
             },
             {
                 "title": "หน้าร้อนที่ฮิคารุจากไป (ฉบับนิยาย) เล่ม 1",
@@ -2747,7 +2851,7 @@
                 "productId": 2250599,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2240962131914257a7ca31b208c448c4.jpg",
-                "purchasedCount": 25
+                "purchasedCount": 26
             }
         ]
     },
@@ -3173,7 +3277,7 @@
                 "productId": 3006778,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b8295b0f02634372824fbdfc6b419dde.jpg",
-                "purchasedCount": 3
+                "purchasedCount": 4
             }
         ]
     },
@@ -3564,7 +3668,7 @@
                 "productId": 2998526,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_713b073a48ab40658d629a9194c223e0.jpg",
-                "purchasedCount": 108
+                "purchasedCount": 112
             },
             {
                 "title": "ชีวิตตัวประกอบอย่างตูช่างอยู่ยากเมื่ออยู่ในโลกเกมจีบหนุ่ม (นิยาย) 8",
@@ -3662,7 +3766,7 @@
                 "productId": 2567696,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c2cda72fc1b440e5950a328b43993e76.jpg",
-                "purchasedCount": 11
+                "purchasedCount": 12
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 13",
@@ -3671,7 +3775,7 @@
                 "productId": 2567694,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d7ecccb21f51460dba8560e14f088bd1.jpg",
-                "purchasedCount": 11
+                "purchasedCount": 12
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 8",
@@ -3680,7 +3784,7 @@
                 "productId": 2567691,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1dec6d47f48446578e7c63d64b1e384a.jpg",
-                "purchasedCount": 13
+                "purchasedCount": 15
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 15",
@@ -3698,7 +3802,7 @@
                 "productId": 2567684,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f916031d2fa54d16b00ebf4da09e9824.jpg",
-                "purchasedCount": 8
+                "purchasedCount": 9
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 4",
@@ -3707,7 +3811,7 @@
                 "productId": 2567682,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b8fbd14653784e258ab7899b51cbcac4.jpg",
-                "purchasedCount": 13
+                "purchasedCount": 14
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 7",
@@ -3716,7 +3820,7 @@
                 "productId": 2567681,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_650d107c3c8a4af29bf3ba872ea5f0f4.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 6",
@@ -3725,7 +3829,7 @@
                 "productId": 2567679,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_87d8f6781796436ebd9789387a994260.jpg",
-                "purchasedCount": 13
+                "purchasedCount": 15
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 17",
@@ -3743,7 +3847,7 @@
                 "productId": 2567676,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_89fe2e7a2a3d40db8f7c62df11abfe89.jpg",
-                "purchasedCount": 8
+                "purchasedCount": 9
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 9",
@@ -3752,7 +3856,7 @@
                 "productId": 2567675,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_eae604c36df049ae811f8f2a789ba1ee.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 14++",
@@ -3761,7 +3865,7 @@
                 "productId": 2567674,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3a34943c95df4af590452bfbb2a9b2a1.jpg",
-                "purchasedCount": 8
+                "purchasedCount": 9
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 12",
@@ -3770,7 +3874,7 @@
                 "productId": 2567673,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_980a94056fe14e78940397cc004fb774.jpg",
-                "purchasedCount": 11
+                "purchasedCount": 12
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 3",
@@ -3779,7 +3883,7 @@
                 "productId": 2567672,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a33ec819d6894da19eb415d933c91991.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 13
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 2",
@@ -3788,7 +3892,7 @@
                 "productId": 2567671,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3b8e1759576240e3adfb8d4ccdb1658c.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 11
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 16",
@@ -3806,7 +3910,7 @@
                 "productId": 2567669,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_887dbb4ee4274bd581404e3a6aafab58.jpg",
-                "purchasedCount": 13
+                "purchasedCount": 14
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 5",
@@ -3815,7 +3919,7 @@
                 "productId": 2567668,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b66afeb595c14431b7ce67682c4436ec.jpg",
-                "purchasedCount": 11
+                "purchasedCount": 13
             },
             {
                 "title": "ขี้เถ้าในกริมการ์แดนมายา เล่ม 11",
@@ -3824,7 +3928,7 @@
                 "productId": 2567667,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_47efb47621a94ffa9369c357375e8377.jpg",
-                "purchasedCount": 11
+                "purchasedCount": 12
             }
         ]
     },
@@ -3841,7 +3945,7 @@
                 "productId": 2995538,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_61b1cb87bf2f49b18fc8a23d036bb6f1.jpg",
-                "purchasedCount": 42
+                "purchasedCount": 43
             },
             {
                 "title": "ข้าคือขุนนางชั่วแห่งอาณาจักรดวงดาว เล่ม 6",
@@ -3991,7 +4095,7 @@
                 "productId": 2995527,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_18403c6345524465a6d40405f149ac3a.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             }
         ]
     },
@@ -4133,7 +4237,7 @@
                 "productId": 2995539,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_89e8a18797814b549ebe7c038613d6c1.jpg",
-                "purchasedCount": 38
+                "purchasedCount": 40
             },
             {
                 "title": "เฟท/สเตรนจ์ เฟค (FATE/STRANGE FAKE) เล่ม 8",
@@ -4273,7 +4377,7 @@
                 "productId": 2995522,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d7ea43f70aa2439fb55907d42dbc1464.jpg",
-                "purchasedCount": 20
+                "purchasedCount": 21
             },
             {
                 "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 1",
@@ -4299,7 +4403,7 @@
                 "productId": 2995520,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_142e42fd40684bedbd6b00f628f25c77.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             }
         ]
     },
@@ -4333,7 +4437,7 @@
                 "productId": 2995435,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4d92c159598a4e818e788a41b9c2cb2d.jpg",
-                "purchasedCount": 76
+                "purchasedCount": 78
             },
             {
                 "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 4",
@@ -4342,7 +4446,7 @@
                 "productId": 2730769,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b807d80140204bf9a78c0ff03192a89e.jpg",
-                "purchasedCount": 112
+                "purchasedCount": 114
             },
             {
                 "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 3",
@@ -4351,7 +4455,7 @@
                 "productId": 2447697,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_77d90341f93e4b94a98471a5dbe261ec.jpg",
-                "purchasedCount": 166
+                "purchasedCount": 168
             },
             {
                 "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 2",
@@ -4360,7 +4464,7 @@
                 "productId": 2217876,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3907a8f010824e6ea5023c304f7f7ba5.jpg",
-                "purchasedCount": 190
+                "purchasedCount": 192
             },
             {
                 "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 1",
@@ -4369,7 +4473,7 @@
                 "productId": 1968837,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_0f7ee3eafcbf4bc4a8312f01d6e404e8.jpg",
-                "purchasedCount": 226
+                "purchasedCount": 228
             }
         ]
     },
@@ -4579,7 +4683,7 @@
                 "productId": 2983689,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7b32bb33b4144652a43aa4884ea9b1df.jpg",
-                "purchasedCount": 104
+                "purchasedCount": 106
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 20",
@@ -4588,7 +4692,7 @@
                 "productId": 2656855,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d349eca380fd4eee85ae5b6657c1f9b4.jpg",
-                "purchasedCount": 122
+                "purchasedCount": 124
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 19",
@@ -4597,7 +4701,7 @@
                 "productId": 2390972,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_19a0c77f65b5487dad93f54839f6a28d.jpg",
-                "purchasedCount": 146
+                "purchasedCount": 148
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 8.5",
@@ -4723,7 +4827,7 @@
                 "productId": 1869151,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076760.jpg",
-                "purchasedCount": 50
+                "purchasedCount": 52
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 8",
@@ -4898,7 +5002,7 @@
                 "productId": 2945046,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7e2c1f80b68842ea8b9c1fa3da40a2b6.jpg",
-                "purchasedCount": 41
+                "purchasedCount": 42
             },
             {
                 "title": "ผมที่ไม่อยากทำงานไปชั่วชีวิต ได้สนิทสนมกับไอดอลชื่อดังที่เป็นเพื่อนร่วมชั้น 3",
@@ -4907,7 +5011,7 @@
                 "productId": 2641679,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f23c64a542114aeab927b5049a919e89.jpg",
-                "purchasedCount": 43
+                "purchasedCount": 44
             },
             {
                 "title": "ผมที่ไม่อยากทำงานไปชั่วชีวิต ได้สนิทสนมกับไอดอลชื่อดังที่เป็นเพื่อนร่วมชั้น 2",
@@ -4916,7 +5020,7 @@
                 "productId": 2098032,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8495da8b2ac9407b94150462338f00fe.jpg",
-                "purchasedCount": 57
+                "purchasedCount": 58
             },
             {
                 "title": "ผมที่ไม่อยากทำงานไปชั่วชีวิต ได้สนิทสนมกับไอดอลชื่อดังที่เป็นเพื่อนร่วมชั้น 1",
@@ -4942,7 +5046,7 @@
                 "productId": 2945044,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_537913d9a30a45e1a51cc0597785cdb5.jpg",
-                "purchasedCount": 25
+                "purchasedCount": 26
             },
             {
                 "title": "ประสบการณ์รักฉบับวุ่นวายของชายสุดซิงกับหญิงสุดแซ่บ เล่ม 3",
@@ -5370,7 +5474,7 @@
                 "productId": 2945026,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_065f84ef246f48d8aad004f7ac364842.jpg",
-                "purchasedCount": 138
+                "purchasedCount": 140
             },
             {
                 "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 10",
@@ -5379,7 +5483,7 @@
                 "productId": 2781430,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_57256e16c7ed4b2196cc50fe7c809b8f.jpg",
-                "purchasedCount": 138
+                "purchasedCount": 140
             },
             {
                 "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 9",
@@ -5495,7 +5599,7 @@
                 "productId": 2081703,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_800c5a9c56e6476b9772d88acc5bee90.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             },
             {
                 "title": "คณะประพันธกรจรจัด ตอน BEAST",
@@ -5522,7 +5626,7 @@
                 "productId": 1627718,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207378.jpg",
-                "purchasedCount": 42
+                "purchasedCount": 44
             },
             {
                 "title": "คณะประพันธกรจรจัด เล่ม 1 ตอน การสอบเข้าสำนักงานของดาไซ โอซามุ",
@@ -5540,7 +5644,7 @@
                 "productId": 1627715,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207372.jpg",
-                "purchasedCount": 40
+                "purchasedCount": 42
             },
             {
                 "title": "คณะประพันธกรจรจัด เล่ม 4 ตอน 55 Minutes",
@@ -5645,7 +5749,7 @@
                 "productId": 2901699,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1506cc20335f4c09b7d4f3e3f688e070.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 8
             }
         ]
     },
@@ -5891,7 +5995,7 @@
                 "productId": 2879925,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_57e9bc663e0a4c6481b2ee18593837d4.jpg",
-                "purchasedCount": 66
+                "purchasedCount": 69
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- Alter เล่ม 1",
@@ -5900,7 +6004,7 @@
                 "productId": 2163978,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b5b3294d9b1840c2b36fe0b7c1d6abb6.jpg",
-                "purchasedCount": 141
+                "purchasedCount": 144
             }
         ]
     },
@@ -6040,32 +6144,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8556c83098694506a79c4cabd3e4ba04.jpg",
                 "purchasedCount": 1
-            }
-        ]
-    },
-    {
-        "seriesName": "สลัดรวมมิตรคนเพี้ยนหลุดโลก",
-        "seriesId": 535433,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "สลัดรวมมิตรคนเพี้ยนหลุดโลก (นิยาย) 02",
-                "titleKana": "สลัดรวมมิตรคนเพี้ยนหลุดโลก02",
-                "uuid": "c2f1ba58-1874-4a81-b1c4-0f304721f65c",
-                "productId": 2816080,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_88d8838d8e5547febc212bb3310f7dff.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "สลัดรวมมิตรคนเพี้ยนหลุดโลก (นิยาย) 01",
-                "titleKana": "สลัดรวมมิตรคนเพี้ยนหลุดโลก01",
-                "uuid": "34ad5541-9b1e-4137-9bc2-4566340c23bc",
-                "productId": 2816079,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c5c87865381944238006e7f47f129c18.jpg",
-                "purchasedCount": 8
             }
         ]
     },
@@ -6481,7 +6559,7 @@
                 "productId": 2730774,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2a5a686a722347a8a651db288bb6a2d3.jpg",
-                "purchasedCount": 288
+                "purchasedCount": 290
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 4",
@@ -6490,7 +6568,7 @@
                 "productId": 2260858,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f0b41a9622124e93b63a1a649e6c25f2.jpg",
-                "purchasedCount": 340
+                "purchasedCount": 342
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 3",
@@ -6499,7 +6577,7 @@
                 "productId": 1914088,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7227020.jpg",
-                "purchasedCount": 360
+                "purchasedCount": 362
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 2",
@@ -6508,7 +6586,7 @@
                 "productId": 1802903,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6834362.jpg",
-                "purchasedCount": 364
+                "purchasedCount": 366
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 1",
@@ -6517,7 +6595,7 @@
                 "productId": 1643493,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6259926.jpg",
-                "purchasedCount": 276
+                "purchasedCount": 278
             }
         ]
     },
@@ -6614,7 +6692,7 @@
                 "productId": 1642278,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6254942.jpg",
-                "purchasedCount": 124
+                "purchasedCount": 126
             },
             {
                 "title": "สาบานรักราชันจอมเวท เล่ม 1",
@@ -6825,7 +6903,7 @@
                 "productId": 2581480,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d2048d24d3684dadbee03a61a5d09f1f.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 13
             },
             {
                 "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 2",
@@ -6834,7 +6912,7 @@
                 "productId": 2581472,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_218e6813553e4f7b910735bb8c57c5c0.jpg",
-                "purchasedCount": 13
+                "purchasedCount": 14
             }
         ]
     },
@@ -7059,7 +7137,7 @@
                 "productId": 2686865,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a1b3ea3cb32742e68a4100e9c3a69383.jpg",
-                "purchasedCount": 28
+                "purchasedCount": 30
             },
             {
                 "title": "ขอให้รักเรานี้ได้มีความสุข เล่ม 7",
@@ -7479,32 +7557,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207524.jpg",
                 "purchasedCount": 120
-            }
-        ]
-    },
-    {
-        "seriesName": "นี่ เรามาคบกันมั้ย? เมื่อเพื่อนสมัยเด็กคนสวยขอมา ชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น",
-        "seriesId": 482202,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "นี่ เรามาคบกันมั้ย? เมื่อเพื่อนสมัยเด็กคนสวยขอมา ชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น (นิยาย) 02",
-                "titleKana": "นี่เรามาคบกันมั้ย?เมื่อเพื่อนสมัยเด็กคนสวยขอมาชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น02",
-                "uuid": "82115e96-411f-425a-8091-63259016e518",
-                "productId": 2656851,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c90c8b7ecf1e47f49ca152a81d48c133.jpg",
-                "purchasedCount": 4
-            },
-            {
-                "title": "นี่ เรามาคบกันมั้ย? เมื่อเพื่อนสมัยเด็กคนสวยขอมา ชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น (นิยาย) 01",
-                "titleKana": "นี่เรามาคบกันมั้ย?เมื่อเพื่อนสมัยเด็กคนสวยขอมาชีวิตแฟนกำมะลอของผมจึงเริ่มขึ้น01",
-                "uuid": "c9402c23-9849-4d6b-b248-bdbf5a335182",
-                "productId": 2280135,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_5c0dc9a43bef4bf7969cd336670ad86b.jpg",
-                "purchasedCount": 26
             }
         ]
     },
@@ -8345,7 +8397,7 @@
                 "productId": 2355063,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_be3653e63e0f41829ffe792968885533.jpg",
-                "purchasedCount": 146
+                "purchasedCount": 148
             }
         ]
     },
@@ -8592,7 +8644,7 @@
                 "productId": 2510749,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8fa50fba52ed424591dd84266b392131.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 20
             },
             {
                 "title": "นักเล่น RPG ขออัพสกิลสุดเทพในโลกแฟนตาซี เล่ม 1",
@@ -8601,7 +8653,7 @@
                 "productId": 2132714,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_06fa7be757eb471fa96d1ef88e7244a0.jpg",
-                "purchasedCount": 26
+                "purchasedCount": 28
             }
         ]
     },
@@ -8671,7 +8723,7 @@
                 "productId": 1722777,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6547742.jpg",
-                "purchasedCount": 244
+                "purchasedCount": 246
             },
             {
                 "title": "เมื่อหนี้ที่พ่อแม่ทิ้งไว้ต้องชดใช้ด้วยการไปอยู่กับสาวม.ปลายที่น่ารักที่สุดในญี่ปุ่น เล่ม 1",
@@ -8680,7 +8732,7 @@
                 "productId": 1627912,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207766.jpg",
-                "purchasedCount": 298
+                "purchasedCount": 300
             }
         ]
     },
@@ -8936,7 +8988,7 @@
                 "productId": 2417612,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c83455b1edda417d9bd37a2e4d3e7373.jpg",
-                "purchasedCount": 591
+                "purchasedCount": 594
             }
         ]
     },
@@ -10024,7 +10076,7 @@
                 "productId": 2442693,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_85639a4adb514497afa3f31c1a24f379.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 19
             },
             {
                 "title": "นักเจรจาสุดโฉดจะสร้างตำนานแคลนสุดแกร่ง เล่ม 3",
@@ -11036,7 +11088,7 @@
                 "productId": 2323566,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d23bf8357ad6488bbaf8f47efb2a9830.jpg",
-                "purchasedCount": 11
+                "purchasedCount": 12
             }
         ]
     },
@@ -11325,7 +11377,7 @@
                 "productId": 2286587,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1ee90c6a24a5470c9c385b38e7684871.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 20
             }
         ]
     },
@@ -12652,7 +12704,7 @@
                 "productId": 1627752,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207446.jpg",
-                "purchasedCount": 138
+                "purchasedCount": 140
             }
         ]
     },
@@ -17987,7 +18039,7 @@
                 "productId": 1652786,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309560.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             },
             {
                 "title": "วันสิ้นโลกนี้ทำอะไร ยุ่งหรือเปล่า มาช่วยเราได้ไหม เล่ม 3",
@@ -17996,7 +18048,7 @@
                 "productId": 1652784,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309590.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             },
             {
                 "title": "วันสิ้นโลกนี้ทำอะไร ยุ่งหรือเปล่า มาช่วยเราได้ไหม เล่ม 5 (จบภาค)",
@@ -18005,7 +18057,7 @@
                 "productId": 1652750,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309582.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             },
             {
                 "title": "วันสิ้นโลกนี้ทำอะไร ยุ่งหรือเปล่า มาช่วยเราได้ไหม เล่ม 1",
@@ -18014,7 +18066,7 @@
                 "productId": 1652746,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309570.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             },
             {
                 "title": "วันสิ้นโลกนี้ทำอะไร ยุ่งหรือเปล่า มาช่วยเราได้ไหม เล่ม 2",
@@ -18023,7 +18075,7 @@
                 "productId": 1652729,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6309573.jpg",
-                "purchasedCount": 12
+                "purchasedCount": 14
             }
         ]
     },
