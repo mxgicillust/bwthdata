@@ -1,5 +1,389 @@
 [
     {
+        "seriesName": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม",
+        "seriesId": 518227,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม (ฉบับนิยาย) เล่ม 3",
+                "titleKana": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม3",
+                "uuid": "3033e4ff-251c-456d-8d88-dfbd7e047a6f",
+                "productId": 3271224,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6e72e4a677544ae3baa870da222c4817.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม (ฉบับนิยาย) เล่ม 2",
+                "titleKana": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม2",
+                "uuid": "d83e2060-0c0b-4ad6-9cf0-616be7289cf7",
+                "productId": 2983692,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_13a7bc0c88e146ca82a710d7e7874572.jpg",
+                "purchasedCount": 17
+            },
+            {
+                "title": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม (ฉบับนิยาย) เล่ม 1",
+                "titleKana": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม1",
+                "uuid": "8e14303f-e068-4c48-8c78-735ff33d92e8",
+                "productId": 2641662,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f1d2cc09c8f241d2aa636e772d9a9953.jpg",
+                "purchasedCount": 43
+            }
+        ]
+    },
+    {
+        "seriesName": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก",
+        "seriesId": 435579,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 13",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก13",
+                "uuid": "ae18bf6f-5174-489d-b986-67f12b97fa46",
+                "productId": 3271223,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d9a6e8982cb343f0bcde3a63d6c8553d.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 12",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก12",
+                "uuid": "533639f2-977f-47bb-99b4-7b61a8ca34c4",
+                "productId": 2998527,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_97ff1c70593d4238b2294155ff086ac9.jpg",
+                "purchasedCount": 58
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 11",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก11",
+                "uuid": "46b5a6aa-3264-49b8-81f1-3ba96683357d",
+                "productId": 2741978,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_caf0dca33a3b4d0e9ed07301fb780d16.jpg",
+                "purchasedCount": 68
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 10",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก10",
+                "uuid": "6670c60e-3874-4769-ba23-4f4834bb5ae1",
+                "productId": 2390959,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_a5b5f15a8fee42ac8a67711ec32f1103.jpg",
+                "purchasedCount": 88
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 9",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก9",
+                "uuid": "9754675a-410f-4f08-977d-bc172c06d62a",
+                "productId": 2101373,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3f65966bffd7457c92d20eac071ad987.jpg",
+                "purchasedCount": 92
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 8",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก8",
+                "uuid": "6477f2c3-0377-4496-83c8-cdc0b25350d0",
+                "productId": 1962087,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_73a8b814f9b84fa9971d7a0922479f33.jpg",
+                "purchasedCount": 92
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 4",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก4",
+                "uuid": "3b7c5a25-6e3b-418e-abef-52ceb4de8edd",
+                "productId": 1820090,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6894220.jpg",
+                "purchasedCount": 96
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 3",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก3",
+                "uuid": "fca595c1-e332-47e3-989e-3914f0f26333",
+                "productId": 1820089,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6894216.jpg",
+                "purchasedCount": 88
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 2",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก2",
+                "uuid": "e03bb68f-1fb4-498f-b733-af415d603dc8",
+                "productId": 1820088,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6894218.jpg",
+                "purchasedCount": 84
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 6",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก6",
+                "uuid": "088e52c0-4237-4181-9a6f-b4398f956996",
+                "productId": 1820087,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6894208.jpg",
+                "purchasedCount": 98
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 1",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก1",
+                "uuid": "54e06065-c54e-4fc5-9212-cca0dc3864aa",
+                "productId": 1820086,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6894212.jpg",
+                "purchasedCount": 90
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 7",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก7",
+                "uuid": "c91a52ed-aa9a-499e-8240-3a0ca188d517",
+                "productId": 1820085,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6894210.jpg",
+                "purchasedCount": 102
+            },
+            {
+                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 5",
+                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก5",
+                "uuid": "6ccc4615-04b5-43bc-b28d-7a721cf34677",
+                "productId": 1820084,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6894214.jpg",
+                "purchasedCount": 96
+            }
+        ]
+    },
+    {
+        "seriesName": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว",
+        "seriesId": 441589,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 22",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว22",
+                "uuid": "0585abed-be9c-402e-a0ee-b51825d35bc5",
+                "productId": 3271220,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_baab310af2f84820927df7514bae7e9b.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 21",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว21",
+                "uuid": "9bb19e44-7072-43cc-a07b-844ec809c791",
+                "productId": 2983689,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7b32bb33b4144652a43aa4884ea9b1df.jpg",
+                "purchasedCount": 116
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 20",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว20",
+                "uuid": "e0e4064d-f099-474e-928f-62cf3bc722c0",
+                "productId": 2656855,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d349eca380fd4eee85ae5b6657c1f9b4.jpg",
+                "purchasedCount": 128
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 19",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว19",
+                "uuid": "7bfac560-a96e-451c-9ad1-cc78d0900824",
+                "productId": 2390972,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_19a0c77f65b5487dad93f54839f6a28d.jpg",
+                "purchasedCount": 156
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 8.5",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว8.5",
+                "uuid": "2b3b352a-d026-4d46-864a-57fc1f44aa4e",
+                "productId": 2104820,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_2a799ce46d9e4c08a6fab5bcd3db16f7.jpg",
+                "purchasedCount": 48
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 13.5",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว13.5",
+                "uuid": "8831cb0f-314d-4243-af9d-959e703d7a66",
+                "productId": 1968849,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ea8888eea2c54feda5500fe154df44fc.jpg",
+                "purchasedCount": 90
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 18",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว18",
+                "uuid": "1ce2bb9e-028c-4c69-8381-e4645c7f665f",
+                "productId": 1891095,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7154016.jpg",
+                "purchasedCount": 196
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 10",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว10",
+                "uuid": "f6458c82-23d5-43c1-b55d-46834455b18b",
+                "productId": 1869202,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076876.jpg",
+                "purchasedCount": 82
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 4",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว4",
+                "uuid": "8a4c4f06-fcf0-408c-8be5-d6954c75fc34",
+                "productId": 1869195,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076862.jpg",
+                "purchasedCount": 44
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 17",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว17",
+                "uuid": "1c193234-fbb6-48f2-b11d-18b9dd40bd62",
+                "productId": 1869190,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076852.jpg",
+                "purchasedCount": 138
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 16",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว16",
+                "uuid": "cd7ebd91-1706-4126-b792-3cb31661a52f",
+                "productId": 1869188,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076848.jpg",
+                "purchasedCount": 130
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 14",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว14",
+                "uuid": "e1874659-d345-4395-9a39-5d3edf85031a",
+                "productId": 1869187,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076844.jpg",
+                "purchasedCount": 142
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 13",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว13",
+                "uuid": "1d7d62cc-36e7-47ad-9c12-3aea0093fa83",
+                "productId": 1869186,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076842.jpg",
+                "purchasedCount": 90
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 12",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว12",
+                "uuid": "531505df-be4f-42ea-98ce-6fcdc86b5c3f",
+                "productId": 1869165,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076802.jpg",
+                "purchasedCount": 76
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 11",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว11",
+                "uuid": "802a6be8-b909-4f70-ade9-cc4367e2c399",
+                "productId": 1869162,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076796.jpg",
+                "purchasedCount": 80
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 5",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว5",
+                "uuid": "8c51018e-366d-4ee8-87a4-baa1ce2095c7",
+                "productId": 1869157,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076786.jpg",
+                "purchasedCount": 44
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 3",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว3",
+                "uuid": "adb5702f-7d92-4fa2-a6f5-2228277d587b",
+                "productId": 1869154,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076780.jpg",
+                "purchasedCount": 44
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 1",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว1",
+                "uuid": "66062b5f-4e8c-40f5-9b76-ef88783a73b2",
+                "productId": 1869151,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076760.jpg",
+                "purchasedCount": 54
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 8",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว8",
+                "uuid": "0cd61b1b-be43-4a23-9782-99a061af5f04",
+                "productId": 1869148,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076742.jpg",
+                "purchasedCount": 62
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 15",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว15",
+                "uuid": "de604808-f934-4a9a-9420-4b31aa68e621",
+                "productId": 1869145,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076756.jpg",
+                "purchasedCount": 146
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 2",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว2",
+                "uuid": "e172a23f-a02b-436b-9fd5-7553ea500f6f",
+                "productId": 1869143,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076746.jpg",
+                "purchasedCount": 48
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 9",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว9",
+                "uuid": "164f7c0e-dcf1-42af-ba7c-cdb83a5ee620",
+                "productId": 1869139,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076762.jpg",
+                "purchasedCount": 66
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 7",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว7",
+                "uuid": "81250192-02d8-4305-a7b5-78799569d925",
+                "productId": 1869136,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076772.jpg",
+                "purchasedCount": 58
+            },
+            {
+                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 6",
+                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว6",
+                "uuid": "7fa584bd-ce9f-45ac-95b0-35db99d9135e",
+                "productId": 1869135,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7076740.jpg",
+                "purchasedCount": 42
+            }
+        ]
+    },
+    {
         "seriesName": "กลยุทธ์เอาตัวรอดของท่านลอร์ดวายร้าย",
         "seriesId": 518221,
         "publisherId": 2541,
@@ -277,7 +661,7 @@
                 "productId": 3255167,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f0e69e7ed8654cbf8b335a6607421593.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 8
             },
             {
                 "title": "หลังช่วยเด็กหลงทาง สาวสวยข้างบ้านก็แวะมาเที่ยว เล่ม 2",
@@ -548,7 +932,7 @@
                 "productId": 3225793,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f620bce2ed6b4c918609f86a1edd101c.jpg",
-                "purchasedCount": 140
+                "purchasedCount": 142
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 13",
@@ -1214,7 +1598,7 @@
                 "productId": 3095870,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1bbb2b5260124b4391181978b79965e3.jpg",
-                "purchasedCount": 172
+                "purchasedCount": 178
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 11",
@@ -1331,7 +1715,7 @@
                 "productId": 1627459,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588596.jpg",
-                "purchasedCount": 242
+                "purchasedCount": 244
             }
         ]
     },
@@ -1776,7 +2160,7 @@
                 "productId": 1627762,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6541424.jpg",
-                "purchasedCount": 398
+                "purchasedCount": 400
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 1",
@@ -1909,7 +2293,7 @@
                 "productId": 3165080,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_31f6dd2612b74af9b5d9d845fd2e103b.jpg",
-                "purchasedCount": 21
+                "purchasedCount": 24
             },
             {
                 "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 14",
@@ -2258,7 +2642,7 @@
                 "productId": 2534626,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3d5cc7e2249349098fdbf93bae45cef4.jpg",
-                "purchasedCount": 264
+                "purchasedCount": 266
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 3",
@@ -2267,7 +2651,7 @@
                 "productId": 2156593,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_248d77edb83045ab93addcc29910d64a.jpg",
-                "purchasedCount": 400
+                "purchasedCount": 402
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 2",
@@ -2276,7 +2660,7 @@
                 "productId": 1953300,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4a9453700f4f400ea3667f18cb4b8fc9.jpg",
-                "purchasedCount": 550
+                "purchasedCount": 552
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 1",
@@ -2285,7 +2669,7 @@
                 "productId": 1838936,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6965178.jpg",
-                "purchasedCount": 558
+                "purchasedCount": 560
             }
         ]
     },
@@ -3840,122 +4224,6 @@
         ]
     },
     {
-        "seriesName": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก",
-        "seriesId": 435579,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 12",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก12",
-                "uuid": "533639f2-977f-47bb-99b4-7b61a8ca34c4",
-                "productId": 2998527,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_97ff1c70593d4238b2294155ff086ac9.jpg",
-                "purchasedCount": 58
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 11",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก11",
-                "uuid": "46b5a6aa-3264-49b8-81f1-3ba96683357d",
-                "productId": 2741978,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_caf0dca33a3b4d0e9ed07301fb780d16.jpg",
-                "purchasedCount": 68
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 10",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก10",
-                "uuid": "6670c60e-3874-4769-ba23-4f4834bb5ae1",
-                "productId": 2390959,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_a5b5f15a8fee42ac8a67711ec32f1103.jpg",
-                "purchasedCount": 88
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 9",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก9",
-                "uuid": "9754675a-410f-4f08-977d-bc172c06d62a",
-                "productId": 2101373,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_3f65966bffd7457c92d20eac071ad987.jpg",
-                "purchasedCount": 92
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 8",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก8",
-                "uuid": "6477f2c3-0377-4496-83c8-cdc0b25350d0",
-                "productId": 1962087,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_73a8b814f9b84fa9971d7a0922479f33.jpg",
-                "purchasedCount": 92
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 4",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก4",
-                "uuid": "3b7c5a25-6e3b-418e-abef-52ceb4de8edd",
-                "productId": 1820090,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6894220.jpg",
-                "purchasedCount": 96
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 3",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก3",
-                "uuid": "fca595c1-e332-47e3-989e-3914f0f26333",
-                "productId": 1820089,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6894216.jpg",
-                "purchasedCount": 88
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 2",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก2",
-                "uuid": "e03bb68f-1fb4-498f-b733-af415d603dc8",
-                "productId": 1820088,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6894218.jpg",
-                "purchasedCount": 84
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 6",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก6",
-                "uuid": "088e52c0-4237-4181-9a6f-b4398f956996",
-                "productId": 1820087,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6894208.jpg",
-                "purchasedCount": 98
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 1",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก1",
-                "uuid": "54e06065-c54e-4fc5-9212-cca0dc3864aa",
-                "productId": 1820086,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6894212.jpg",
-                "purchasedCount": 90
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 7",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก7",
-                "uuid": "c91a52ed-aa9a-499e-8240-3a0ca188d517",
-                "productId": 1820085,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6894210.jpg",
-                "purchasedCount": 102
-            },
-            {
-                "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 5",
-                "titleKana": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก5",
-                "uuid": "6ccc4615-04b5-43bc-b28d-7a721cf34677",
-                "productId": 1820084,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6894214.jpg",
-                "purchasedCount": 96
-            }
-        ]
-    },
-    {
         "seriesName": "ชีวิตตัวประกอบอย่างตูช่างอยู่ยากเมื่ออยู่ในโลกเกมจีบหนุ่ม",
         "seriesId": 444479,
         "publisherId": 2541,
@@ -4896,247 +5164,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8aa272c3294940ba9d9828b9ed0d4e1b.jpg",
                 "purchasedCount": 2
-            }
-        ]
-    },
-    {
-        "seriesName": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว",
-        "seriesId": 441589,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 21",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว21",
-                "uuid": "9bb19e44-7072-43cc-a07b-844ec809c791",
-                "productId": 2983689,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7b32bb33b4144652a43aa4884ea9b1df.jpg",
-                "purchasedCount": 116
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 20",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว20",
-                "uuid": "e0e4064d-f099-474e-928f-62cf3bc722c0",
-                "productId": 2656855,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d349eca380fd4eee85ae5b6657c1f9b4.jpg",
-                "purchasedCount": 128
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 19",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว19",
-                "uuid": "7bfac560-a96e-451c-9ad1-cc78d0900824",
-                "productId": 2390972,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_19a0c77f65b5487dad93f54839f6a28d.jpg",
-                "purchasedCount": 156
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 8.5",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว8.5",
-                "uuid": "2b3b352a-d026-4d46-864a-57fc1f44aa4e",
-                "productId": 2104820,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_2a799ce46d9e4c08a6fab5bcd3db16f7.jpg",
-                "purchasedCount": 48
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 13.5",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว13.5",
-                "uuid": "8831cb0f-314d-4243-af9d-959e703d7a66",
-                "productId": 1968849,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ea8888eea2c54feda5500fe154df44fc.jpg",
-                "purchasedCount": 90
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 18",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว18",
-                "uuid": "1ce2bb9e-028c-4c69-8381-e4645c7f665f",
-                "productId": 1891095,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7154016.jpg",
-                "purchasedCount": 196
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 10",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว10",
-                "uuid": "f6458c82-23d5-43c1-b55d-46834455b18b",
-                "productId": 1869202,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076876.jpg",
-                "purchasedCount": 82
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 4",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว4",
-                "uuid": "8a4c4f06-fcf0-408c-8be5-d6954c75fc34",
-                "productId": 1869195,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076862.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 17",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว17",
-                "uuid": "1c193234-fbb6-48f2-b11d-18b9dd40bd62",
-                "productId": 1869190,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076852.jpg",
-                "purchasedCount": 138
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 16",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว16",
-                "uuid": "cd7ebd91-1706-4126-b792-3cb31661a52f",
-                "productId": 1869188,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076848.jpg",
-                "purchasedCount": 130
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 14",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว14",
-                "uuid": "e1874659-d345-4395-9a39-5d3edf85031a",
-                "productId": 1869187,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076844.jpg",
-                "purchasedCount": 142
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 13",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว13",
-                "uuid": "1d7d62cc-36e7-47ad-9c12-3aea0093fa83",
-                "productId": 1869186,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076842.jpg",
-                "purchasedCount": 90
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 12",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว12",
-                "uuid": "531505df-be4f-42ea-98ce-6fcdc86b5c3f",
-                "productId": 1869165,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076802.jpg",
-                "purchasedCount": 76
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 11",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว11",
-                "uuid": "802a6be8-b909-4f70-ade9-cc4367e2c399",
-                "productId": 1869162,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076796.jpg",
-                "purchasedCount": 80
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 5",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว5",
-                "uuid": "8c51018e-366d-4ee8-87a4-baa1ce2095c7",
-                "productId": 1869157,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076786.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 3",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว3",
-                "uuid": "adb5702f-7d92-4fa2-a6f5-2228277d587b",
-                "productId": 1869154,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076780.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 1",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว1",
-                "uuid": "66062b5f-4e8c-40f5-9b76-ef88783a73b2",
-                "productId": 1869151,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076760.jpg",
-                "purchasedCount": 54
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 8",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว8",
-                "uuid": "0cd61b1b-be43-4a23-9782-99a061af5f04",
-                "productId": 1869148,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076742.jpg",
-                "purchasedCount": 62
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 15",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว15",
-                "uuid": "de604808-f934-4a9a-9420-4b31aa68e621",
-                "productId": 1869145,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076756.jpg",
-                "purchasedCount": 146
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 2",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว2",
-                "uuid": "e172a23f-a02b-436b-9fd5-7553ea500f6f",
-                "productId": 1869143,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076746.jpg",
-                "purchasedCount": 48
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 9",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว9",
-                "uuid": "164f7c0e-dcf1-42af-ba7c-cdb83a5ee620",
-                "productId": 1869139,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076762.jpg",
-                "purchasedCount": 66
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 7",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว7",
-                "uuid": "81250192-02d8-4305-a7b5-78799569d925",
-                "productId": 1869136,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076772.jpg",
-                "purchasedCount": 58
-            },
-            {
-                "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 6",
-                "titleKana": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว6",
-                "uuid": "7fa584bd-ce9f-45ac-95b0-35db99d9135e",
-                "productId": 1869135,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7076740.jpg",
-                "purchasedCount": 42
-            }
-        ]
-    },
-    {
-        "seriesName": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม",
-        "seriesId": 518227,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม (ฉบับนิยาย) เล่ม 2",
-                "titleKana": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม2",
-                "uuid": "d83e2060-0c0b-4ad6-9cf0-616be7289cf7",
-                "productId": 2983692,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_13a7bc0c88e146ca82a710d7e7874572.jpg",
-                "purchasedCount": 17
-            },
-            {
-                "title": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม (ฉบับนิยาย) เล่ม 1",
-                "titleKana": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม1",
-                "uuid": "8e14303f-e068-4c48-8c78-735ff33d92e8",
-                "productId": 2641662,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f1d2cc09c8f241d2aa636e772d9a9953.jpg",
-                "purchasedCount": 43
             }
         ]
     },
@@ -6233,7 +6260,7 @@
                 "productId": 2163978,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b5b3294d9b1840c2b36fe0b7c1d6abb6.jpg",
-                "purchasedCount": 147
+                "purchasedCount": 150
             }
         ]
     },
@@ -8989,7 +9016,7 @@
                 "productId": 2417612,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c83455b1edda417d9bd37a2e4d3e7373.jpg",
-                "purchasedCount": 602
+                "purchasedCount": 603
             }
         ]
     },
