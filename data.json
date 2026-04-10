@@ -1,5 +1,634 @@
 [
     {
+        "seriesName": "LOVE SONG เพลงรัก",
+        "seriesId": 593653,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "LOVE SONG เพลงรัก",
+                "titleKana": "lovesongเพลงรัก",
+                "uuid": "d6c9c046-39d3-4112-ad3f-ff1bd8548b74",
+                "productId": 3275653,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_8b4f62efd39144a69dddaa42f672edf2.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "นักสืบตายแล้ว",
+        "seriesId": 408180,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "นักสืบตายแล้ว เล่ม 12",
+                "titleKana": "นักสืบตายแล้ว12",
+                "uuid": "f331e90a-5f04-43b3-9789-cafd98350841",
+                "productId": 3275650,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_13c72be33f074a7dbbd55a0941363902.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 11",
+                "titleKana": "นักสืบตายแล้ว11",
+                "uuid": "3d6c220f-efab-4cd8-8185-52115e5c2d01",
+                "productId": 2883197,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_107c3441e2374adbbb3951facd9910a1.jpg",
+                "purchasedCount": 16
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 10",
+                "titleKana": "นักสืบตายแล้ว10",
+                "uuid": "4e91405c-dbd9-482c-9f02-0c15979832a1",
+                "productId": 2691614,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_60977e36c79c42f3b3241da68a71f3db.jpg",
+                "purchasedCount": 14
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 9",
+                "titleKana": "นักสืบตายแล้ว9",
+                "uuid": "f5f25b36-cb8d-48b0-96bf-2ab943f490f1",
+                "productId": 2437845,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_34d54898f4804ebb9e79a9e981da495d.jpg",
+                "purchasedCount": 28
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 8",
+                "titleKana": "นักสืบตายแล้ว8",
+                "uuid": "c5a6e0c3-e078-4962-a47f-a94971c57d13",
+                "productId": 2049504,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_27291042c1284f17a1f882cd5c1c8eff.jpg",
+                "purchasedCount": 38
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 7",
+                "titleKana": "นักสืบตายแล้ว7",
+                "uuid": "d39fc9d2-a2b8-49af-aba6-5ea9c7d35ffe",
+                "productId": 1722778,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6559800.jpg",
+                "purchasedCount": 52
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 2",
+                "titleKana": "นักสืบตายแล้ว2",
+                "uuid": "896ad099-0f4a-4119-852b-215806c33ffe",
+                "productId": 1658497,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6314864.jpg",
+                "purchasedCount": 50
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 1",
+                "titleKana": "นักสืบตายแล้ว1",
+                "uuid": "08c4a270-c840-40a7-b68c-9c0e0b5bc340",
+                "productId": 1652694,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6295390.jpg",
+                "purchasedCount": 46
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 6",
+                "titleKana": "นักสืบตายแล้ว6",
+                "uuid": "5270e83a-8870-4942-bea8-b81c07658283",
+                "productId": 1627802,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207546.jpg",
+                "purchasedCount": 52
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 4",
+                "titleKana": "นักสืบตายแล้ว4",
+                "uuid": "57519711-a384-4fb3-9418-f4f30055c47a",
+                "productId": 1627561,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207058.jpg",
+                "purchasedCount": 58
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 5",
+                "titleKana": "นักสืบตายแล้ว5",
+                "uuid": "e57f1974-63cb-4351-83ab-cc35c2381431",
+                "productId": 1627526,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6206988.jpg",
+                "purchasedCount": 62
+            },
+            {
+                "title": "นักสืบตายแล้ว เล่ม 3",
+                "titleKana": "นักสืบตายแล้ว3",
+                "uuid": "32a70f04-9a63-4caf-b59e-362640e9df30",
+                "productId": 1627524,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6206984.jpg",
+                "purchasedCount": 52
+            }
+        ]
+    },
+    {
+        "seriesName": "ผู้กล้าโทษประหาร",
+        "seriesId": 464067,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ผู้กล้าโทษประหาร เล่ม 2",
+                "titleKana": "ผู้กล้าโทษประหาร2",
+                "uuid": "527ab12a-ab4e-4e04-8387-47ee1cd36f3f",
+                "productId": 3275628,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_11787984bcea4ecba8af39332dbd6ca5.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ผู้กล้าโทษประหาร เล่ม 1",
+                "titleKana": "ผู้กล้าโทษประหาร1",
+                "uuid": "b758b11f-465f-4655-ae28-ee49f2bc22b9",
+                "productId": 2090361,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6d47872c96984e999b0d9fcaaff367b2.jpg",
+                "purchasedCount": 72
+            }
+        ]
+    },
+    {
+        "seriesName": "แม่มดกับทหารรับจ้าง",
+        "seriesId": 489029,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "แม่มดกับทหารรับจ้าง เล่ม 3",
+                "titleKana": "แม่มดกับทหารรับจ้าง3",
+                "uuid": "90d5b09a-7fa7-4ed7-a397-132da9b78d39",
+                "productId": 3275623,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_269f8232013d46f199d861df09a744f8.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "แม่มดกับทหารรับจ้าง เล่ม 2",
+                "titleKana": "แม่มดกับทหารรับจ้าง2",
+                "uuid": "a32b50d0-0bb9-40fb-997a-9e676bc8d49e",
+                "productId": 2534637,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7cee7412cc5d498ebc3d615406ce496c.jpg",
+                "purchasedCount": 162
+            },
+            {
+                "title": "แม่มดกับทหารรับจ้าง เล่ม 1",
+                "titleKana": "แม่มดกับทหารรับจ้าง1",
+                "uuid": "148210a8-174c-47fb-b239-186b0e676934",
+                "productId": 2355063,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_be3653e63e0f41829ffe792968885533.jpg",
+                "purchasedCount": 154
+            }
+        ]
+    },
+    {
+        "seriesName": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน",
+        "seriesId": 410116,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 6",
+                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน6",
+                "uuid": "6ece0a52-4ad7-4d29-9405-46e2aa9d02fc",
+                "productId": 3275620,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
+                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน5",
+                "uuid": "16aef7cd-05ed-44a1-8b9d-e54ad53baf34",
+                "productId": 2730774,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_2a5a686a722347a8a651db288bb6a2d3.jpg",
+                "purchasedCount": 298
+            },
+            {
+                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 4",
+                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน4",
+                "uuid": "6fde990a-fee4-4e41-bbc2-fd691c714b6a",
+                "productId": 2260858,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f0b41a9622124e93b63a1a649e6c25f2.jpg",
+                "purchasedCount": 350
+            },
+            {
+                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 3",
+                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน3",
+                "uuid": "3b3e3da3-371d-4a1f-89af-1f16e096c34d",
+                "productId": 1914088,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7227020.jpg",
+                "purchasedCount": 364
+            },
+            {
+                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 2",
+                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน2",
+                "uuid": "a69dc91a-4a57-4e71-8eff-d678b6d9a5ba",
+                "productId": 1802903,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6834362.jpg",
+                "purchasedCount": 368
+            },
+            {
+                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 1",
+                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน1",
+                "uuid": "c73069c8-001c-4a71-ae0d-f55b66b100c6",
+                "productId": 1643493,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6259926.jpg",
+                "purchasedCount": 282
+            }
+        ]
+    },
+    {
+        "seriesName": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว",
+        "seriesId": 408288,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 12",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว12",
+                "uuid": "db0d9d40-b3e7-4401-b747-b5aae9839651",
+                "productId": 3275619,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_286397daca6e4a11819c09dd58867416.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 11",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว11",
+                "uuid": "1cbe900d-2f7c-4738-90b1-8cbdd3ff5c71",
+                "productId": 2945026,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_065f84ef246f48d8aad004f7ac364842.jpg",
+                "purchasedCount": 150
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 10",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว10",
+                "uuid": "8534db1f-be7c-4dd4-917c-dc2a4cc8acaf",
+                "productId": 2781430,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_57256e16c7ed4b2196cc50fe7c809b8f.jpg",
+                "purchasedCount": 148
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 9",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว9",
+                "uuid": "2a120589-d62e-45a1-9470-1433bb944c12",
+                "productId": 2389538,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ccf8c04086884c47ba27d4f6902a681a.jpg",
+                "purchasedCount": 182
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 8",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว8",
+                "uuid": "11814765-6509-4144-afc6-00b7aba62782",
+                "productId": 1953299,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c68aa419381b434c8d60a7f0a434999a.jpg",
+                "purchasedCount": 216
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 1",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว1",
+                "uuid": "14768ba4-451e-495d-bb1d-b042e90c7db6",
+                "productId": 1652716,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6295434.jpg",
+                "purchasedCount": 156
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 7",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว7",
+                "uuid": "99552478-cabe-4c08-a15b-5ee77258108d",
+                "productId": 1643494,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6259928.jpg",
+                "purchasedCount": 152
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 6",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว6",
+                "uuid": "dff7e5d4-c6d2-4bea-801b-042ec447713f",
+                "productId": 1627845,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207632.jpg",
+                "purchasedCount": 140
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 4",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว4",
+                "uuid": "2463d31b-0911-40f1-8f4d-6c89357714e5",
+                "productId": 1627620,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207176.jpg",
+                "purchasedCount": 152
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 5",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว5",
+                "uuid": "1b7490fd-cf99-46b1-be40-d0cb35f65617",
+                "productId": 1627602,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207140.jpg",
+                "purchasedCount": 160
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 2",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว2",
+                "uuid": "74b5c68a-c25e-4238-9b87-e8a223079ec0",
+                "productId": 1627601,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207138.jpg",
+                "purchasedCount": 162
+            },
+            {
+                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 3",
+                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว3",
+                "uuid": "ff52cb75-0513-4cdb-8da6-0c31b15e8dc0",
+                "productId": 1627600,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6673058.jpg",
+                "purchasedCount": 154
+            }
+        ]
+    },
+    {
+        "seriesName": "กลาสฮาร์ต",
+        "seriesId": 593654,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "กลาสฮาร์ต เล่ม 1",
+                "titleKana": "กลาสฮาร์ต1",
+                "uuid": "63e6c135-ee27-4cc7-aff5-896c3fd1d188",
+                "productId": 3275611,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6e6f3fee5e6d417baa78f9e2e31f6ce3.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "บันทึกลวงสามก๊ก",
+        "seriesId": 593644,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "บันทึกลวงสามก๊ก เล่ม 1",
+                "titleKana": "บันทึกลวงสามก๊ก1",
+                "uuid": "a426edcc-d622-41bf-ab8a-c86fba80c8a1",
+                "productId": 3275603,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_24d3b51e86994cd78e681f6837ad6351.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก",
+        "seriesId": 409333,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 21",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก21",
+                "uuid": "679c55dc-01b8-4daa-b52e-f7b83b808fa1",
+                "productId": 3275602,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_39f768eb19b647fba62e1ffc814b36d8.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 20",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก20",
+                "uuid": "109e154f-493b-4a6a-a692-2ba706dad4d2",
+                "productId": 2674837,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4f6da91b2202467f824d286d9a491bc9.jpg",
+                "purchasedCount": 20
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 19",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก19",
+                "uuid": "f72daa90-57c4-43a2-afeb-fd687b384d00",
+                "productId": 2132720,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6b9534a2d88a4e4dbd76a6c252aea890.jpg",
+                "purchasedCount": 42
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 18",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก18",
+                "uuid": "99f58872-8282-4fe8-b515-9b0b34c278b2",
+                "productId": 1920563,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7248314.jpg",
+                "purchasedCount": 48
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 16",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก16",
+                "uuid": "24fa0e1b-2fc2-4689-b230-37ee842f40ac",
+                "productId": 1714742,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6522364.jpg",
+                "purchasedCount": 52
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 12",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก12",
+                "uuid": "140f6965-2313-44bf-a0e7-f999a781260e",
+                "productId": 1714741,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6522362.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 13",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก13",
+                "uuid": "bc41ae91-2d06-47f4-933d-3ba52c968778",
+                "productId": 1714740,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6522360.jpg",
+                "purchasedCount": 30
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 17",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก17",
+                "uuid": "29195fce-cd6a-4c75-8596-f354b29ddc30",
+                "productId": 1714728,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6522316.jpg",
+                "purchasedCount": 50
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 15",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก15",
+                "uuid": "fa81450a-d01b-460f-9744-051bec576ffd",
+                "productId": 1714722,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6522294.jpg",
+                "purchasedCount": 36
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 14",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก14",
+                "uuid": "4056bb80-b220-4c90-a16b-520d21dbb5e6",
+                "productId": 1714721,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6522308.jpg",
+                "purchasedCount": 34
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 11",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก11",
+                "uuid": "35b7012f-8bfd-4b0d-803b-1e21f8af46ea",
+                "productId": 1714714,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6522314.jpg",
+                "purchasedCount": 22
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 9",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก9",
+                "uuid": "f6c75423-c3ef-4917-b626-543fb71f5751",
+                "productId": 1687007,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6418324.jpg",
+                "purchasedCount": 28
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 8",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก8",
+                "uuid": "2fd41d4d-c6ac-4e60-a8bd-3bbf23f86e2e",
+                "productId": 1687006,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6418322.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 7",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก7",
+                "uuid": "5c118ebc-5a23-48a4-80cd-8119dabbd39d",
+                "productId": 1687005,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6418320.jpg",
+                "purchasedCount": 28
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 10",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก10",
+                "uuid": "3e0d0dfa-c7a2-437e-bdbc-5f3025ba1e2a",
+                "productId": 1686972,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6418254.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 6",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก6",
+                "uuid": "866f4af9-3bb1-4b84-b1ad-1de3e2e23e62",
+                "productId": 1686968,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6418246.jpg",
+                "purchasedCount": 30
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 2",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก2",
+                "uuid": "7b049bd0-ad33-408f-a75e-f74cebf5080f",
+                "productId": 1638046,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6238060.jpg",
+                "purchasedCount": 44
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 5",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก5",
+                "uuid": "5d24120c-3a73-46f2-abe3-8f37fa363747",
+                "productId": 1638031,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6238030.jpg",
+                "purchasedCount": 44
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 4",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก4",
+                "uuid": "64709fa2-aea2-4e1f-b43d-eb7cf44008a7",
+                "productId": 1638030,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6238028.jpg",
+                "purchasedCount": 42
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 3",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก3",
+                "uuid": "81f9dc7f-1abd-4dba-8079-84958f42e9a9",
+                "productId": 1638029,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6238026.jpg",
+                "purchasedCount": 40
+            },
+            {
+                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 1",
+                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก1",
+                "uuid": "f910e991-d162-4915-b7aa-f8e7b40a2a87",
+                "productId": 1638028,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6238024.jpg",
+                "purchasedCount": 62
+            }
+        ]
+    },
+    {
+        "seriesName": "ของแค่นี้ เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ!",
+        "seriesId": 559929,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ของแค่นี้ เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ! เล่ม 2",
+                "titleKana": "ของแค่นี้เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ!2",
+                "uuid": "f35bad9a-2180-470c-a2c5-d9feba66caf7",
+                "productId": 3275587,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_75b35b6b86b24a85b38f2e3985c38255.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ของแค่นี้ เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ! เล่ม 1",
+                "titleKana": "ของแค่นี้เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ!1",
+                "uuid": "f0f296a9-ec1b-4fb8-9c42-adadb82bc84e",
+                "productId": 2995526,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_a78764a893ae43a3aa70631db069785b.jpg",
+                "purchasedCount": 16
+            }
+        ]
+    },
+    {
         "seriesName": "ชีวิตตัวประกอบอย่างตูช่างอยู่ยากเมื่ออยู่ในโลกเกมจีบหนุ่ม",
         "seriesId": 444479,
         "publisherId": 2541,
@@ -12,7 +641,7 @@
                 "productId": 3271217,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4578400c85cb4f4aad864e5f9758b94d.jpg",
-                "purchasedCount": 0
+                "purchasedCount": 4
             },
             {
                 "title": "ชีวิตตัวประกอบอย่างตูช่างอยู่ยากเมื่ออยู่ในโลกเกมจีบหนุ่ม (นิยาย) 9",
@@ -110,7 +739,7 @@
                 "productId": 3271224,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6e72e4a677544ae3baa870da222c4817.jpg",
-                "purchasedCount": 1
+                "purchasedCount": 2
             },
             {
                 "title": "เจ้าสาวจากต่างแดนจะน่ารักเกินไปไหม (ฉบับนิยาย) เล่ม 2",
@@ -145,7 +774,7 @@
                 "productId": 3271223,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d9a6e8982cb343f0bcde3a63d6c8553d.jpg",
-                "purchasedCount": 2
+                "purchasedCount": 6
             },
             {
                 "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 12",
@@ -270,7 +899,7 @@
                 "productId": 3271220,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_baab310af2f84820927df7514bae7e9b.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 16
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 21",
@@ -279,7 +908,7 @@
                 "productId": 2983689,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7b32bb33b4144652a43aa4884ea9b1df.jpg",
-                "purchasedCount": 116
+                "purchasedCount": 118
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 20",
@@ -288,7 +917,7 @@
                 "productId": 2656855,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d349eca380fd4eee85ae5b6657c1f9b4.jpg",
-                "purchasedCount": 128
+                "purchasedCount": 130
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 19",
@@ -297,7 +926,7 @@
                 "productId": 2390972,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_19a0c77f65b5487dad93f54839f6a28d.jpg",
-                "purchasedCount": 156
+                "purchasedCount": 158
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 8.5",
@@ -573,7 +1202,7 @@
                 "productId": 3255176,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f6491fd53a8d4d50a99bc6227121e8a0.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 7
             },
             {
                 "title": "ข้าคือขุนนางชั่วแห่งอาณาจักรดวงดาว เล่ม 7",
@@ -688,7 +1317,7 @@
                 "productId": 3255170,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a8f26f661225441980b3ddf8e389f005.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 12
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 6",
@@ -697,7 +1326,7 @@
                 "productId": 2701867,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_876f526c5ce445848d84ef3cb3a38719.jpg",
-                "purchasedCount": 92
+                "purchasedCount": 94
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 5",
@@ -706,7 +1335,7 @@
                 "productId": 2510757,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_910af3eb5d294cb697b02f0bca86879f.jpg",
-                "purchasedCount": 106
+                "purchasedCount": 108
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 4",
@@ -715,7 +1344,7 @@
                 "productId": 2410826,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_22b725965bf34bd19337c1ec076b62ff.jpg",
-                "purchasedCount": 80
+                "purchasedCount": 82
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 3",
@@ -1475,7 +2104,7 @@
                 "productId": 3195519,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_26edaec7bef84b2795a6122718b689e7.jpg",
-                "purchasedCount": 128
+                "purchasedCount": 130
             },
             {
                 "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 3",
@@ -1573,7 +2202,7 @@
                 "productId": 1637733,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237422.jpg",
-                "purchasedCount": 504
+                "purchasedCount": 507
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 1",
@@ -1687,7 +2316,7 @@
                 "productId": 3179221,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ccc5ceb17e5540cc88277fa6bfc07552.jpg",
-                "purchasedCount": 144
+                "purchasedCount": 146
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 12",
@@ -1696,7 +2325,7 @@
                 "productId": 3095870,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1bbb2b5260124b4391181978b79965e3.jpg",
-                "purchasedCount": 178
+                "purchasedCount": 180
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 11",
@@ -1777,7 +2406,7 @@
                 "productId": 1627729,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588602.jpg",
-                "purchasedCount": 208
+                "purchasedCount": 210
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 4",
@@ -3068,7 +3697,7 @@
                 "productId": 3095862,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_faaf9bac4adb45d0838dd53b2a9f4584.jpg",
-                "purchasedCount": 152
+                "purchasedCount": 154
             },
             {
                 "title": "ราชินีนักล่าค่าประสบการณ์ เล่ม 3",
@@ -3077,7 +3706,7 @@
                 "productId": 2590598,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_e2f539b544614085a3dd6172d6e54c99.jpg",
-                "purchasedCount": 168
+                "purchasedCount": 170
             },
             {
                 "title": "ราชินีนักล่าค่าประสบการณ์ เล่ม 2",
@@ -3086,7 +3715,7 @@
                 "productId": 2437857,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c40dc022ef1b436d8dd5eaaf07334af2.jpg",
-                "purchasedCount": 182
+                "purchasedCount": 184
             },
             {
                 "title": "ราชินีนักล่าค่าประสบการณ์ เล่ม 1",
@@ -3095,7 +3724,7 @@
                 "productId": 2126567,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_5f6a25439b4c43ee877d2b3d822fc03f.jpg",
-                "purchasedCount": 212
+                "purchasedCount": 214
             }
         ]
     },
@@ -3668,7 +4297,7 @@
                 "productId": 2628579,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_dcf252afc93348d89517c03b49b149e6.jpg",
-                "purchasedCount": 476
+                "purchasedCount": 478
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เล่ม 8",
@@ -4837,23 +5466,6 @@
         ]
     },
     {
-        "seriesName": "ของแค่นี้ เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ!",
-        "seriesId": 559929,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ของแค่นี้ เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ! เล่ม 1",
-                "titleKana": "ของแค่นี้เป็นเรื่องธรรมดาของเมดอยู่แล้วค่ะ!1",
-                "uuid": "f0f296a9-ec1b-4fb8-9c42-adadb82bc84e",
-                "productId": 2995526,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_a78764a893ae43a3aa70631db069785b.jpg",
-                "purchasedCount": 16
-            }
-        ]
-    },
-    {
         "seriesName": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี",
         "seriesId": 559936,
         "publisherId": 2548,
@@ -4909,7 +5521,7 @@
                 "productId": 2995520,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_142e42fd40684bedbd6b00f628f25c77.jpg",
-                "purchasedCount": 36
+                "purchasedCount": 38
             }
         ]
     },
@@ -5276,7 +5888,7 @@
                 "productId": 2641679,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f23c64a542114aeab927b5049a919e89.jpg",
-                "purchasedCount": 45
+                "purchasedCount": 46
             },
             {
                 "title": "ผมที่ไม่อยากทำงานไปชั่วชีวิต ได้สนิทสนมกับไอดอลชื่อดังที่เป็นเพื่อนร่วมชั้น 2",
@@ -5727,113 +6339,6 @@
         ]
     },
     {
-        "seriesName": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว",
-        "seriesId": 408288,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 11",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว11",
-                "uuid": "1cbe900d-2f7c-4738-90b1-8cbdd3ff5c71",
-                "productId": 2945026,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_065f84ef246f48d8aad004f7ac364842.jpg",
-                "purchasedCount": 150
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 10",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว10",
-                "uuid": "8534db1f-be7c-4dd4-917c-dc2a4cc8acaf",
-                "productId": 2781430,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_57256e16c7ed4b2196cc50fe7c809b8f.jpg",
-                "purchasedCount": 148
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 9",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว9",
-                "uuid": "2a120589-d62e-45a1-9470-1433bb944c12",
-                "productId": 2389538,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ccf8c04086884c47ba27d4f6902a681a.jpg",
-                "purchasedCount": 182
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 8",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว8",
-                "uuid": "11814765-6509-4144-afc6-00b7aba62782",
-                "productId": 1953299,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c68aa419381b434c8d60a7f0a434999a.jpg",
-                "purchasedCount": 216
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 1",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว1",
-                "uuid": "14768ba4-451e-495d-bb1d-b042e90c7db6",
-                "productId": 1652716,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6295434.jpg",
-                "purchasedCount": 156
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 7",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว7",
-                "uuid": "99552478-cabe-4c08-a15b-5ee77258108d",
-                "productId": 1643494,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6259928.jpg",
-                "purchasedCount": 152
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 6",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว6",
-                "uuid": "dff7e5d4-c6d2-4bea-801b-042ec447713f",
-                "productId": 1627845,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207632.jpg",
-                "purchasedCount": 140
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 4",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว4",
-                "uuid": "2463d31b-0911-40f1-8f4d-6c89357714e5",
-                "productId": 1627620,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207176.jpg",
-                "purchasedCount": 152
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 5",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว5",
-                "uuid": "1b7490fd-cf99-46b1-be40-d0cb35f65617",
-                "productId": 1627602,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207140.jpg",
-                "purchasedCount": 160
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 2",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว2",
-                "uuid": "74b5c68a-c25e-4238-9b87-e8a223079ec0",
-                "productId": 1627601,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207138.jpg",
-                "purchasedCount": 162
-            },
-            {
-                "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 3",
-                "titleKana": "แมจิคัล☆เอกซ์พลอเรอร์เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว3",
-                "uuid": "ff52cb75-0513-4cdb-8da6-0c31b15e8dc0",
-                "productId": 1627600,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6673058.jpg",
-                "purchasedCount": 154
-            }
-        ]
-    },
-    {
         "seriesName": "คณะประพันธกรจรจัด",
         "seriesId": 408147,
         "publisherId": 2546,
@@ -6067,113 +6572,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6840256.jpg",
                 "purchasedCount": 68
-            }
-        ]
-    },
-    {
-        "seriesName": "นักสืบตายแล้ว",
-        "seriesId": 408180,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "นักสืบตายแล้ว เล่ม 11",
-                "titleKana": "นักสืบตายแล้ว11",
-                "uuid": "3d6c220f-efab-4cd8-8185-52115e5c2d01",
-                "productId": 2883197,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_107c3441e2374adbbb3951facd9910a1.jpg",
-                "purchasedCount": 16
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 10",
-                "titleKana": "นักสืบตายแล้ว10",
-                "uuid": "4e91405c-dbd9-482c-9f02-0c15979832a1",
-                "productId": 2691614,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_60977e36c79c42f3b3241da68a71f3db.jpg",
-                "purchasedCount": 14
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 9",
-                "titleKana": "นักสืบตายแล้ว9",
-                "uuid": "f5f25b36-cb8d-48b0-96bf-2ab943f490f1",
-                "productId": 2437845,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_34d54898f4804ebb9e79a9e981da495d.jpg",
-                "purchasedCount": 28
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 8",
-                "titleKana": "นักสืบตายแล้ว8",
-                "uuid": "c5a6e0c3-e078-4962-a47f-a94971c57d13",
-                "productId": 2049504,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_27291042c1284f17a1f882cd5c1c8eff.jpg",
-                "purchasedCount": 38
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 7",
-                "titleKana": "นักสืบตายแล้ว7",
-                "uuid": "d39fc9d2-a2b8-49af-aba6-5ea9c7d35ffe",
-                "productId": 1722778,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6559800.jpg",
-                "purchasedCount": 52
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 2",
-                "titleKana": "นักสืบตายแล้ว2",
-                "uuid": "896ad099-0f4a-4119-852b-215806c33ffe",
-                "productId": 1658497,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6314864.jpg",
-                "purchasedCount": 50
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 1",
-                "titleKana": "นักสืบตายแล้ว1",
-                "uuid": "08c4a270-c840-40a7-b68c-9c0e0b5bc340",
-                "productId": 1652694,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6295390.jpg",
-                "purchasedCount": 46
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 6",
-                "titleKana": "นักสืบตายแล้ว6",
-                "uuid": "5270e83a-8870-4942-bea8-b81c07658283",
-                "productId": 1627802,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207546.jpg",
-                "purchasedCount": 52
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 4",
-                "titleKana": "นักสืบตายแล้ว4",
-                "uuid": "57519711-a384-4fb3-9418-f4f30055c47a",
-                "productId": 1627561,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207058.jpg",
-                "purchasedCount": 58
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 5",
-                "titleKana": "นักสืบตายแล้ว5",
-                "uuid": "e57f1974-63cb-4351-83ab-cc35c2381431",
-                "productId": 1627526,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6206988.jpg",
-                "purchasedCount": 62
-            },
-            {
-                "title": "นักสืบตายแล้ว เล่ม 3",
-                "titleKana": "นักสืบตายแล้ว3",
-                "uuid": "32a70f04-9a63-4caf-b59e-362640e9df30",
-                "productId": 1627524,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6206984.jpg",
-                "purchasedCount": 52
             }
         ]
     },
@@ -6812,59 +7210,6 @@
         ]
     },
     {
-        "seriesName": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน",
-        "seriesId": 410116,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
-                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน5",
-                "uuid": "16aef7cd-05ed-44a1-8b9d-e54ad53baf34",
-                "productId": 2730774,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_2a5a686a722347a8a651db288bb6a2d3.jpg",
-                "purchasedCount": 298
-            },
-            {
-                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 4",
-                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน4",
-                "uuid": "6fde990a-fee4-4e41-bbc2-fd691c714b6a",
-                "productId": 2260858,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f0b41a9622124e93b63a1a649e6c25f2.jpg",
-                "purchasedCount": 350
-            },
-            {
-                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 3",
-                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน3",
-                "uuid": "3b3e3da3-371d-4a1f-89af-1f16e096c34d",
-                "productId": 1914088,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7227020.jpg",
-                "purchasedCount": 364
-            },
-            {
-                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 2",
-                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน2",
-                "uuid": "a69dc91a-4a57-4e71-8eff-d678b6d9a5ba",
-                "productId": 1802903,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6834362.jpg",
-                "purchasedCount": 368
-            },
-            {
-                "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 1",
-                "titleKana": "จอมเวทผู้มองเห็นทุกสิ่งคุนอน1",
-                "uuid": "c73069c8-001c-4a71-ae0d-f55b66b100c6",
-                "productId": 1643493,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6259926.jpg",
-                "purchasedCount": 282
-            }
-        ]
-    },
-    {
         "seriesName": "เมื่อคู่กัดตัวร้ายกลายเป็นภรรยาหวานใจ",
         "seriesId": 411709,
         "publisherId": 2546,
@@ -7378,194 +7723,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6206860.jpg",
                 "purchasedCount": 132
-            }
-        ]
-    },
-    {
-        "seriesName": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก",
-        "seriesId": 409333,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 20",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก20",
-                "uuid": "109e154f-493b-4a6a-a692-2ba706dad4d2",
-                "productId": 2674837,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4f6da91b2202467f824d286d9a491bc9.jpg",
-                "purchasedCount": 20
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 19",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก19",
-                "uuid": "f72daa90-57c4-43a2-afeb-fd687b384d00",
-                "productId": 2132720,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6b9534a2d88a4e4dbd76a6c252aea890.jpg",
-                "purchasedCount": 42
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 18",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก18",
-                "uuid": "99f58872-8282-4fe8-b515-9b0b34c278b2",
-                "productId": 1920563,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7248314.jpg",
-                "purchasedCount": 48
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 16",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก16",
-                "uuid": "24fa0e1b-2fc2-4689-b230-37ee842f40ac",
-                "productId": 1714742,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6522364.jpg",
-                "purchasedCount": 52
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 12",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก12",
-                "uuid": "140f6965-2313-44bf-a0e7-f999a781260e",
-                "productId": 1714741,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6522362.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 13",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก13",
-                "uuid": "bc41ae91-2d06-47f4-933d-3ba52c968778",
-                "productId": 1714740,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6522360.jpg",
-                "purchasedCount": 30
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 17",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก17",
-                "uuid": "29195fce-cd6a-4c75-8596-f354b29ddc30",
-                "productId": 1714728,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6522316.jpg",
-                "purchasedCount": 50
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 15",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก15",
-                "uuid": "fa81450a-d01b-460f-9744-051bec576ffd",
-                "productId": 1714722,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6522294.jpg",
-                "purchasedCount": 36
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 14",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก14",
-                "uuid": "4056bb80-b220-4c90-a16b-520d21dbb5e6",
-                "productId": 1714721,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6522308.jpg",
-                "purchasedCount": 34
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 11",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก11",
-                "uuid": "35b7012f-8bfd-4b0d-803b-1e21f8af46ea",
-                "productId": 1714714,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6522314.jpg",
-                "purchasedCount": 22
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 9",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก9",
-                "uuid": "f6c75423-c3ef-4917-b626-543fb71f5751",
-                "productId": 1687007,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6418324.jpg",
-                "purchasedCount": 28
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 8",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก8",
-                "uuid": "2fd41d4d-c6ac-4e60-a8bd-3bbf23f86e2e",
-                "productId": 1687006,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6418322.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 7",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก7",
-                "uuid": "5c118ebc-5a23-48a4-80cd-8119dabbd39d",
-                "productId": 1687005,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6418320.jpg",
-                "purchasedCount": 28
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 10",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก10",
-                "uuid": "3e0d0dfa-c7a2-437e-bdbc-5f3025ba1e2a",
-                "productId": 1686972,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6418254.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 6",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก6",
-                "uuid": "866f4af9-3bb1-4b84-b1ad-1de3e2e23e62",
-                "productId": 1686968,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6418246.jpg",
-                "purchasedCount": 30
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 2",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก2",
-                "uuid": "7b049bd0-ad33-408f-a75e-f74cebf5080f",
-                "productId": 1638046,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6238060.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 5",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก5",
-                "uuid": "5d24120c-3a73-46f2-abe3-8f37fa363747",
-                "productId": 1638031,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6238030.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 4",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก4",
-                "uuid": "64709fa2-aea2-4e1f-b43d-eb7cf44008a7",
-                "productId": 1638030,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6238028.jpg",
-                "purchasedCount": 42
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 3",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก3",
-                "uuid": "81f9dc7f-1abd-4dba-8079-84958f42e9a9",
-                "productId": 1638029,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6238026.jpg",
-                "purchasedCount": 40
-            },
-            {
-                "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 1",
-                "titleKana": "re:zeroรีเซทชีวิตฝ่าวิกฤตต่างโลก1",
-                "uuid": "f910e991-d162-4915-b7aa-f8e7b40a2a87",
-                "productId": 1638028,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6238024.jpg",
-                "purchasedCount": 62
             }
         ]
     },
@@ -8506,32 +8663,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_e7c32847036f4424a8aab815891bbd97.jpg",
                 "purchasedCount": 2
-            }
-        ]
-    },
-    {
-        "seriesName": "แม่มดกับทหารรับจ้าง",
-        "seriesId": 489029,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "แม่มดกับทหารรับจ้าง เล่ม 2",
-                "titleKana": "แม่มดกับทหารรับจ้าง2",
-                "uuid": "a32b50d0-0bb9-40fb-997a-9e676bc8d49e",
-                "productId": 2534637,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7cee7412cc5d498ebc3d615406ce496c.jpg",
-                "purchasedCount": 162
-            },
-            {
-                "title": "แม่มดกับทหารรับจ้าง เล่ม 1",
-                "titleKana": "แม่มดกับทหารรับจ้าง1",
-                "uuid": "148210a8-174c-47fb-b239-186b0e676934",
-                "productId": 2355063,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_be3653e63e0f41829ffe792968885533.jpg",
-                "purchasedCount": 154
             }
         ]
     },
@@ -13433,23 +13564,6 @@
         ]
     },
     {
-        "seriesName": "ผู้กล้าโทษประหาร",
-        "seriesId": 464067,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ผู้กล้าโทษประหาร เล่ม 1",
-                "titleKana": "ผู้กล้าโทษประหาร1",
-                "uuid": "b758b11f-465f-4655-ae28-ee49f2bc22b9",
-                "productId": 2090361,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6d47872c96984e999b0d9fcaaff367b2.jpg",
-                "purchasedCount": 72
-            }
-        ]
-    },
-    {
         "seriesName": "สงครามภูติล้างบัลลังก์ อัลเดรามินแห่งฟากฟ้า",
         "seriesId": 463990,
         "publisherId": 2548,
@@ -14316,7 +14430,7 @@
                 "productId": 1968842,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3840768bb7394eeeae77095bdd53a71a.jpg",
-                "purchasedCount": 14
+                "purchasedCount": 16
             },
             {
                 "title": "ลำนำรักผู้พิทักษ์ฤดูกาล ภาคคิมหันตลีลา เล่ม 1",
@@ -14325,7 +14439,7 @@
                 "productId": 1968826,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_62e75ad5dad546efb9cba9e0cdadf64c.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             }
         ]
     },
@@ -15390,7 +15504,7 @@
                 "productId": 1801461,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6829008.jpg",
-                "purchasedCount": 166
+                "purchasedCount": 168
             }
         ]
     },
@@ -19844,7 +19958,7 @@
                 "productId": 1627613,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207162.jpg",
-                "purchasedCount": 42
+                "purchasedCount": 44
             },
             {
                 "title": "ลำนำรักผู้พิทักษ์ฤดูกาล ภาควสันตลีลา เล่ม 2 (ฉบับจบ)",
