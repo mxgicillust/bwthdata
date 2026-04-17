@@ -1,5 +1,198 @@
 [
     {
+        "seriesName": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี",
+        "seriesId": 559936,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี เล่ม 2",
+                "titleKana": "หนุ่มออฟฟิศหมดไฟต้องมาอาศัยกับสาวม.ปลายที่รอเขามาเจ็ดปี2",
+                "uuid": "0de97a84-82e0-4bbf-8059-c6182ab3c313",
+                "productId": 3289030,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_519d2dce3d7f4fefbfdcaa24dcba1716.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี เล่ม 1",
+                "titleKana": "หนุ่มออฟฟิศหมดไฟต้องมาอาศัยกับสาวม.ปลายที่รอเขามาเจ็ดปี1",
+                "uuid": "2e5c968a-780d-42c4-b4ec-d7f601be5a7c",
+                "productId": 2995524,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ad26e9085cc8469b9677633a9ac091c2.jpg",
+                "purchasedCount": 34
+            }
+        ]
+    },
+    {
+        "seriesName": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์",
+        "seriesId": 407205,
+        "publisherId": 2529,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 8",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์8",
+                "uuid": "23ea078b-5136-4896-bff3-a7f2d3e05a05",
+                "productId": 3289023,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_5e25785137f842dd887e2a65660d004f.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 7",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์7",
+                "uuid": "8437d1e5-c48d-4f89-a20b-6a88e4820e05",
+                "productId": 3218842,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_04b09abc810c4c18a2cc1627f06755e2.jpg",
+                "purchasedCount": 30
+            },
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 6",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์6",
+                "uuid": "ab7ad93e-1e1a-4e07-bcd0-7ecb70ecf272",
+                "productId": 2711215,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_580b5ee735e24b479581efb3462f828c.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 5",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์5",
+                "uuid": "f4613a52-1852-4655-ad46-ce8cfe15aa0e",
+                "productId": 2506337,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_69efb872a3bc42d2b30006b284d996eb.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 4",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์4",
+                "uuid": "e528fbc4-722b-4b1e-b7a2-6cc1c8ed448f",
+                "productId": 2251864,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_28ecfb9342334264906900d57f93b1c5.jpg",
+                "purchasedCount": 44
+            },
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 3",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์3",
+                "uuid": "715a702d-95c8-4f50-ac61-bedd1badfcba",
+                "productId": 1719843,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6538330.jpg",
+                "purchasedCount": 52
+            },
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 1",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์1",
+                "uuid": "965a1c6c-fc57-43a7-b971-56950ed234f7",
+                "productId": 1627045,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6205762.jpg",
+                "purchasedCount": 84
+            },
+            {
+                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 2",
+                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์2",
+                "uuid": "034e6e2d-e8aa-41a6-87cf-e13580d6f798",
+                "productId": 1627028,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6205728.jpg",
+                "purchasedCount": 72
+            }
+        ]
+    },
+    {
+        "seriesName": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว",
+        "seriesId": 570317,
+        "publisherId": 2529,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว เล่ม 2",
+                "titleKana": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว2",
+                "uuid": "69f01057-1cf2-4f93-9bf6-b5499111fbff",
+                "productId": 3289019,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7eb68dca2bb54465bf644dd4334a1fcb.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว เล่ม 1",
+                "titleKana": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว1",
+                "uuid": "a662f13f-b00c-4872-b036-935de55c8777",
+                "productId": 3091012,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ef39b6bd5d764d4fb77c99450de919ec.jpg",
+                "purchasedCount": 36
+            }
+        ]
+    },
+    {
+        "seriesName": "ผู้กล้ากับจอมปราชญ์ จากคู่ปรับสลับมารักกัน",
+        "seriesId": 559933,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ผู้กล้ากับจอมปราชญ์ จากคู่ปรับสลับมารักกัน เล่ม 2",
+                "titleKana": "ผู้กล้ากับจอมปราชญ์จากคู่ปรับสลับมารักกัน2",
+                "uuid": "6f4ed2eb-4fc7-4eb9-b7ba-c028114c8d48",
+                "productId": 3289018,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_adcd7c30e0a74c06818d46ebb26dcd79.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ผู้กล้ากับจอมปราชญ์ จากคู่ปรับสลับมารักกัน เล่ม 1",
+                "titleKana": "ผู้กล้ากับจอมปราชญ์จากคู่ปรับสลับมารักกัน1",
+                "uuid": "7891695e-3bc6-4745-bda1-d5121b260d30",
+                "productId": 2995528,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_36582f8b8dc34f7e95b359430ec615c8.jpg",
+                "purchasedCount": 16
+            }
+        ]
+    },
+    {
+        "seriesName": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก",
+        "seriesId": 499597,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 3",
+                "titleKana": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก3",
+                "uuid": "dde281c7-9a45-4531-81db-ae4490780bb7",
+                "productId": 3289017,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_89ffcde0a24f49c18bcd4c4ad741b1aa.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 2",
+                "titleKana": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก2",
+                "uuid": "3317fc8f-805f-4602-93ed-ab8e20691721",
+                "productId": 2995522,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d7ea43f70aa2439fb55907d42dbc1464.jpg",
+                "purchasedCount": 23
+            },
+            {
+                "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 1",
+                "titleKana": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก1",
+                "uuid": "ac93f003-55cc-427d-88c3-d7915f965207",
+                "productId": 2442681,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_190849c824a24aedae1427489f2f3092.jpg",
+                "purchasedCount": 32
+            }
+        ]
+    },
+    {
         "seriesName": "LOVE SONG เพลงรัก",
         "seriesId": 593653,
         "publisherId": 2546,
@@ -171,7 +364,7 @@
                 "productId": 3275623,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_269f8232013d46f199d861df09a744f8.jpg",
-                "purchasedCount": 38
+                "purchasedCount": 40
             },
             {
                 "title": "แม่มดกับทหารรับจ้าง เล่ม 2",
@@ -206,7 +399,7 @@
                 "productId": 3275620,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
-                "purchasedCount": 80
+                "purchasedCount": 84
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
@@ -215,7 +408,7 @@
                 "productId": 2730774,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2a5a686a722347a8a651db288bb6a2d3.jpg",
-                "purchasedCount": 302
+                "purchasedCount": 304
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 4",
@@ -224,7 +417,7 @@
                 "productId": 2260858,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f0b41a9622124e93b63a1a649e6c25f2.jpg",
-                "purchasedCount": 352
+                "purchasedCount": 354
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 3",
@@ -268,7 +461,7 @@
                 "productId": 3275619,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_286397daca6e4a11819c09dd58867416.jpg",
-                "purchasedCount": 48
+                "purchasedCount": 52
             },
             {
                 "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 11",
@@ -418,7 +611,7 @@
                 "productId": 3275602,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_39f768eb19b647fba62e1ffc814b36d8.jpg",
-                "purchasedCount": 4
+                "purchasedCount": 6
             },
             {
                 "title": "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก เล่ม 20",
@@ -864,7 +1057,7 @@
                 "productId": 1820086,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6894212.jpg",
-                "purchasedCount": 90
+                "purchasedCount": 92
             },
             {
                 "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 7",
@@ -1202,7 +1395,7 @@
                 "productId": 3255176,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f6491fd53a8d4d50a99bc6227121e8a0.jpg",
-                "purchasedCount": 11
+                "purchasedCount": 12
             },
             {
                 "title": "ข้าคือขุนนางชั่วแห่งอาณาจักรดวงดาว เล่ม 7",
@@ -1326,7 +1519,7 @@
                 "productId": 2701867,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_876f526c5ce445848d84ef3cb3a38719.jpg",
-                "purchasedCount": 94
+                "purchasedCount": 96
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 5",
@@ -1335,7 +1528,7 @@
                 "productId": 2510757,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_910af3eb5d294cb697b02f0bca86879f.jpg",
-                "purchasedCount": 108
+                "purchasedCount": 110
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 4",
@@ -1344,7 +1537,7 @@
                 "productId": 2410826,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_22b725965bf34bd19337c1ec076b62ff.jpg",
-                "purchasedCount": 82
+                "purchasedCount": 84
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 3",
@@ -1353,7 +1546,7 @@
                 "productId": 2410825,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_9bc59d1f9e8d4e9090e3f3106b36aa68.jpg",
-                "purchasedCount": 72
+                "purchasedCount": 74
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 2",
@@ -1362,7 +1555,7 @@
                 "productId": 2410824,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_eb343dfe95f94ac78963504f8530e70a.jpg",
-                "purchasedCount": 56
+                "purchasedCount": 58
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 1",
@@ -1371,7 +1564,7 @@
                 "productId": 2410823,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ec4489000be84205817ab135c32be05f.jpg",
-                "purchasedCount": 86
+                "purchasedCount": 88
             }
         ]
     },
@@ -1677,7 +1870,7 @@
                 "productId": 2936347,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3b0aed7534604ffe9619699057cb6b11.jpg",
-                "purchasedCount": 210
+                "purchasedCount": 212
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 11",
@@ -1777,77 +1970,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207206.jpg",
                 "purchasedCount": 494
-            }
-        ]
-    },
-    {
-        "seriesName": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์",
-        "seriesId": 407205,
-        "publisherId": 2529,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 7",
-                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์7",
-                "uuid": "8437d1e5-c48d-4f89-a20b-6a88e4820e05",
-                "productId": 3218842,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_04b09abc810c4c18a2cc1627f06755e2.jpg",
-                "purchasedCount": 30
-            },
-            {
-                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 6",
-                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์6",
-                "uuid": "ab7ad93e-1e1a-4e07-bcd0-7ecb70ecf272",
-                "productId": 2711215,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_580b5ee735e24b479581efb3462f828c.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 5",
-                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์5",
-                "uuid": "f4613a52-1852-4655-ad46-ce8cfe15aa0e",
-                "productId": 2506337,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_69efb872a3bc42d2b30006b284d996eb.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 4",
-                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์4",
-                "uuid": "e528fbc4-722b-4b1e-b7a2-6cc1c8ed448f",
-                "productId": 2251864,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_28ecfb9342334264906900d57f93b1c5.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 3",
-                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์3",
-                "uuid": "715a702d-95c8-4f50-ac61-bedd1badfcba",
-                "productId": 1719843,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6538330.jpg",
-                "purchasedCount": 52
-            },
-            {
-                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 1",
-                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์1",
-                "uuid": "965a1c6c-fc57-43a7-b971-56950ed234f7",
-                "productId": 1627045,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6205762.jpg",
-                "purchasedCount": 84
-            },
-            {
-                "title": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์ เล่ม 2",
-                "titleKana": "ไล่ผีทั้งทีจี้จุดให้ถึงสวรรค์2",
-                "uuid": "034e6e2d-e8aa-41a6-87cf-e13580d6f798",
-                "productId": 1627028,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6205728.jpg",
-                "purchasedCount": 72
             }
         ]
     },
@@ -2175,7 +2297,7 @@
                 "productId": 1643489,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6259918.jpg",
-                "purchasedCount": 267
+                "purchasedCount": 270
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 6",
@@ -2316,7 +2438,7 @@
                 "productId": 3179221,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ccc5ceb17e5540cc88277fa6bfc07552.jpg",
-                "purchasedCount": 160
+                "purchasedCount": 162
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 12",
@@ -2860,7 +2982,7 @@
                 "productId": 1923828,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7256218.jpg",
-                "purchasedCount": 268
+                "purchasedCount": 270
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 4",
@@ -2869,7 +2991,7 @@
                 "productId": 1716733,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6529728.jpg",
-                "purchasedCount": 484
+                "purchasedCount": 486
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 2",
@@ -3440,7 +3562,7 @@
                 "productId": 2840135,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b95a433b75dc4128a13e1660352c7684.jpg",
-                "purchasedCount": 110
+                "purchasedCount": 112
             }
         ]
     },
@@ -3953,23 +4075,6 @@
         ]
     },
     {
-        "seriesName": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว",
-        "seriesId": 570317,
-        "publisherId": 2529,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว เล่ม 1",
-                "titleKana": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว1",
-                "uuid": "a662f13f-b00c-4872-b036-935de55c8777",
-                "productId": 3091012,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ef39b6bd5d764d4fb77c99450de919ec.jpg",
-                "purchasedCount": 36
-            }
-        ]
-    },
-    {
         "seriesName": "เกมมรณะนี้ฉันมีความมืดเป็นสิ่งปลอบโยน",
         "seriesId": 501571,
         "publisherId": 2529,
@@ -4351,7 +4456,7 @@
                 "productId": 1627727,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6541416.jpg",
-                "purchasedCount": 1080
+                "purchasedCount": 1082
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เล่ม 3",
@@ -5445,66 +5550,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6238056.jpg",
                 "purchasedCount": 58
-            }
-        ]
-    },
-    {
-        "seriesName": "ผู้กล้ากับจอมปราชญ์ จากคู่ปรับสลับมารักกัน",
-        "seriesId": 559933,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ผู้กล้ากับจอมปราชญ์ จากคู่ปรับสลับมารักกัน เล่ม 1",
-                "titleKana": "ผู้กล้ากับจอมปราชญ์จากคู่ปรับสลับมารักกัน1",
-                "uuid": "7891695e-3bc6-4745-bda1-d5121b260d30",
-                "productId": 2995528,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_36582f8b8dc34f7e95b359430ec615c8.jpg",
-                "purchasedCount": 16
-            }
-        ]
-    },
-    {
-        "seriesName": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี",
-        "seriesId": 559936,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี เล่ม 1",
-                "titleKana": "หนุ่มออฟฟิศหมดไฟต้องมาอาศัยกับสาวม.ปลายที่รอเขามาเจ็ดปี1",
-                "uuid": "2e5c968a-780d-42c4-b4ec-d7f601be5a7c",
-                "productId": 2995524,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ad26e9085cc8469b9677633a9ac091c2.jpg",
-                "purchasedCount": 34
-            }
-        ]
-    },
-    {
-        "seriesName": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก",
-        "seriesId": 499597,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 2",
-                "titleKana": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก2",
-                "uuid": "3317fc8f-805f-4602-93ed-ab8e20691721",
-                "productId": 2995522,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d7ea43f70aa2439fb55907d42dbc1464.jpg",
-                "purchasedCount": 23
-            },
-            {
-                "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 1",
-                "titleKana": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก1",
-                "uuid": "ac93f003-55cc-427d-88c3-d7915f965207",
-                "productId": 2442681,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_190849c824a24aedae1427489f2f3092.jpg",
-                "purchasedCount": 32
             }
         ]
     },
