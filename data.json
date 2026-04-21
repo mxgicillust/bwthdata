@@ -1,5 +1,93 @@
 [
     {
+        "seriesName": "หลังโดนไล่ออกจากโรงงานนรก ฉันก็โดนตกไปเป็นจอมเวทราชสำนัก",
+        "seriesId": 595397,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "หลังโดนไล่ออกจากโรงงานนรก ฉันก็โดนตกไปเป็นจอมเวทราชสำนัก เล่ม 1",
+                "titleKana": "หลังโดนไล่ออกจากโรงงานนรกฉันก็โดนตกไปเป็นจอมเวทราชสำนัก1",
+                "uuid": "de187b76-8ca0-4b9d-97a1-2970ae03c1ce",
+                "productId": 3294077,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7fad12da6a8c4c91b39b648e9af514e4.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "หลังโดนไล่ออกจากโรงงานนรก ฉันก็โดนตกไปเป็นจอมเวทราชสำนัก เล่ม 2",
+                "titleKana": "หลังโดนไล่ออกจากโรงงานนรกฉันก็โดนตกไปเป็นจอมเวทราชสำนัก2",
+                "uuid": "4209b8cb-3cdb-4ca5-b63d-4a65eb00506a",
+                "productId": 3294066,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_dca7f9fb3790476f87869e941e9705d3.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
+        "seriesId": 595396,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง เล่ม 5",
+                "titleKana": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง5",
+                "uuid": "49c59fb7-c6a4-49aa-ba76-040f268a0263",
+                "productId": 3294075,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_bd13b77197b54184afe0f67f807db0d1.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง เล่ม 4",
+                "titleKana": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง4",
+                "uuid": "f5c3862a-1bb0-4563-9b8c-a5851923bc37",
+                "productId": 3294074,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3d26e0520c3146c88035ac4c3eda1179.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง เล่ม 3",
+                "titleKana": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง3",
+                "uuid": "463e44f7-fe3c-4c9c-a75b-dc8e035e0a0d",
+                "productId": 3294071,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f296f080f11f416c9f0a78f48a1128ab.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง เล่ม 2",
+                "titleKana": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง2",
+                "uuid": "fd9c1a65-a1dd-4553-b29c-42207c047377",
+                "productId": 3294070,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_e19dccee215749eda134f1cadda96d53.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง เล่ม 1",
+                "titleKana": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง1",
+                "uuid": "c3d652c7-966c-417b-a155-0b5383a1cdba",
+                "productId": 3294069,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_196cf6e0da66455ab62abe835d20286b.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง เล่ม 6",
+                "titleKana": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง6",
+                "uuid": "9a4e0cc2-3989-4f77-9985-3374d7b4a823",
+                "productId": 3294064,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_68d30836b1864d57b7abe54dd08196a4.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
         "seriesName": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี",
         "seriesId": 559936,
         "publisherId": 2548,
@@ -12,7 +100,7 @@
                 "productId": 3289030,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_519d2dce3d7f4fefbfdcaa24dcba1716.jpg",
-                "purchasedCount": 4
+                "purchasedCount": 6
             },
             {
                 "title": "หนุ่มออฟฟิศหมดไฟ ต้องมาอาศัยกับสาวม.ปลาย ที่รอเขามาเจ็ดปี เล่ม 1",
@@ -170,7 +258,7 @@
                 "productId": 3289017,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_89ffcde0a24f49c18bcd4c4ad741b1aa.jpg",
-                "purchasedCount": 2
+                "purchasedCount": 3
             },
             {
                 "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 2",
@@ -338,7 +426,7 @@
                 "productId": 3275628,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_11787984bcea4ecba8af39332dbd6ca5.jpg",
-                "purchasedCount": 8
+                "purchasedCount": 10
             },
             {
                 "title": "ผู้กล้าโทษประหาร เล่ม 1",
@@ -399,7 +487,7 @@
                 "productId": 3275620,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
-                "purchasedCount": 92
+                "purchasedCount": 94
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
@@ -461,7 +549,7 @@
                 "productId": 3275619,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_286397daca6e4a11819c09dd58867416.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 62
             },
             {
                 "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 11",
@@ -1395,7 +1483,7 @@
                 "productId": 3255176,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f6491fd53a8d4d50a99bc6227121e8a0.jpg",
-                "purchasedCount": 13
+                "purchasedCount": 14
             },
             {
                 "title": "ข้าคือขุนนางชั่วแห่งอาณาจักรดวงดาว เล่ม 7",
@@ -2288,7 +2376,7 @@
                 "productId": 1837567,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6959596.jpg",
-                "purchasedCount": 324
+                "purchasedCount": 327
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 11",
@@ -2528,7 +2616,7 @@
                 "productId": 1627729,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588602.jpg",
-                "purchasedCount": 214
+                "purchasedCount": 216
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 4",
@@ -3509,7 +3597,7 @@
                 "productId": 1953300,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4a9453700f4f400ea3667f18cb4b8fc9.jpg",
-                "purchasedCount": 566
+                "purchasedCount": 570
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 1",
@@ -3562,7 +3650,7 @@
                 "productId": 2840135,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b95a433b75dc4128a13e1660352c7684.jpg",
-                "purchasedCount": 112
+                "purchasedCount": 114
             }
         ]
     },
