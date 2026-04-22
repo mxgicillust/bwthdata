@@ -1,5 +1,85 @@
 [
     {
+        "seriesName": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน",
+        "seriesId": 494886,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 08 (จบ)",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน08(จบ)",
+                "uuid": "962b2e94-f33a-4b23-95f5-495754d35181",
+                "productId": 3297334,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_2efa9a7e6dba46f7a3c0e59a73c745c8.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 07",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน07",
+                "uuid": "6abba6e7-5d8f-454f-82ce-28de6ce96f66",
+                "productId": 2998528,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9fe30cd8c6dd44c7bb73a8060abe2df8.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 01",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน01",
+                "uuid": "3323efba-7037-49f5-8e55-38ad02404406",
+                "productId": 2583247,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6ba95b8730ca433fa7673b6bc165b3cc.jpg",
+                "purchasedCount": 58
+            },
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 04",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน04",
+                "uuid": "9a4fffd8-e36d-41bd-bc96-a868a7e7f958",
+                "productId": 2583245,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_51ed6c67dc0f4c5c8fe1033390af179c.jpg",
+                "purchasedCount": 30
+            },
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 02",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน02",
+                "uuid": "b7b68072-2022-45eb-8d1e-891465ff4350",
+                "productId": 2583243,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7df56f94f6874ef596394a38faadf0c5.jpg",
+                "purchasedCount": 46
+            },
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 03",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน03",
+                "uuid": "ee738b2f-2ffd-4130-8d03-0ddd020377e1",
+                "productId": 2583240,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_5969260f45d540b6a9b643815f7a92c8.jpg",
+                "purchasedCount": 38
+            },
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 06",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน06",
+                "uuid": "d8964f28-591a-44f5-a523-7ac0904003c1",
+                "productId": 2538559,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_090cda5f3d254d17bc3a96a6afcb7e84.jpg",
+                "purchasedCount": 32
+            },
+            {
+                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 05",
+                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน05",
+                "uuid": "8af36593-c70b-4a1b-ab38-30bd3d2a57b6",
+                "productId": 2398105,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_aa87a0b70e94438c8f0dacd89f2dbefc.jpg",
+                "purchasedCount": 34
+            }
+        ]
+    },
+    {
         "seriesName": "หลังโดนไล่ออกจากโรงงานนรก ฉันก็โดนตกไปเป็นจอมเวทราชสำนัก",
         "seriesId": 595397,
         "publisherId": 2548,
@@ -426,7 +506,7 @@
                 "productId": 3275628,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_11787984bcea4ecba8af39332dbd6ca5.jpg",
-                "purchasedCount": 10
+                "purchasedCount": 12
             },
             {
                 "title": "ผู้กล้าโทษประหาร เล่ม 1",
@@ -487,7 +567,7 @@
                 "productId": 3275620,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
-                "purchasedCount": 94
+                "purchasedCount": 100
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
@@ -1055,7 +1135,7 @@
                 "productId": 3271223,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d9a6e8982cb343f0bcde3a63d6c8553d.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 20
             },
             {
                 "title": "สกิลสุดพิสดารกับมื้ออาหารในต่างโลก (ฉบับนิยาย) 12",
@@ -1483,7 +1563,7 @@
                 "productId": 3255176,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f6491fd53a8d4d50a99bc6227121e8a0.jpg",
-                "purchasedCount": 14
+                "purchasedCount": 15
             },
             {
                 "title": "ข้าคือขุนนางชั่วแห่งอาณาจักรดวงดาว เล่ม 7",
@@ -1528,7 +1608,7 @@
                 "productId": 2468966,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_71e818aa1cc74d77b1124e232f73f299.jpg",
-                "purchasedCount": 51
+                "purchasedCount": 52
             },
             {
                 "title": "ข้าคือขุนนางชั่วแห่งอาณาจักรดวงดาว เล่ม 2",
@@ -2607,7 +2687,7 @@
                 "productId": 1627766,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588604.jpg",
-                "purchasedCount": 250
+                "purchasedCount": 252
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 4.5",
@@ -3579,7 +3659,7 @@
                 "productId": 2534626,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3d5cc7e2249349098fdbf93bae45cef4.jpg",
-                "purchasedCount": 278
+                "purchasedCount": 280
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 3",
@@ -3588,7 +3668,7 @@
                 "productId": 2156593,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_248d77edb83045ab93addcc29910d64a.jpg",
-                "purchasedCount": 414
+                "purchasedCount": 420
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 2",
@@ -3597,7 +3677,7 @@
                 "productId": 1953300,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4a9453700f4f400ea3667f18cb4b8fc9.jpg",
-                "purchasedCount": 570
+                "purchasedCount": 572
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 1",
@@ -3606,7 +3686,7 @@
                 "productId": 1838936,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6965178.jpg",
-                "purchasedCount": 578
+                "purchasedCount": 580
             }
         ]
     },
@@ -4394,7 +4474,7 @@
                 "productId": 3038230,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_855af12715084164a0d9fd13657f0931.jpg",
-                "purchasedCount": 114
+                "purchasedCount": 116
             }
         ]
     },
@@ -5073,77 +5153,6 @@
         ]
     },
     {
-        "seriesName": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน",
-        "seriesId": 494886,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 07",
-                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน07",
-                "uuid": "6abba6e7-5d8f-454f-82ce-28de6ce96f66",
-                "productId": 2998528,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9fe30cd8c6dd44c7bb73a8060abe2df8.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 01",
-                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน01",
-                "uuid": "3323efba-7037-49f5-8e55-38ad02404406",
-                "productId": 2583247,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6ba95b8730ca433fa7673b6bc165b3cc.jpg",
-                "purchasedCount": 58
-            },
-            {
-                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 04",
-                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน04",
-                "uuid": "9a4fffd8-e36d-41bd-bc96-a868a7e7f958",
-                "productId": 2583245,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_51ed6c67dc0f4c5c8fe1033390af179c.jpg",
-                "purchasedCount": 30
-            },
-            {
-                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 02",
-                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน02",
-                "uuid": "b7b68072-2022-45eb-8d1e-891465ff4350",
-                "productId": 2583243,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7df56f94f6874ef596394a38faadf0c5.jpg",
-                "purchasedCount": 46
-            },
-            {
-                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 03",
-                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน03",
-                "uuid": "ee738b2f-2ffd-4130-8d03-0ddd020377e1",
-                "productId": 2583240,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_5969260f45d540b6a9b643815f7a92c8.jpg",
-                "purchasedCount": 38
-            },
-            {
-                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 06",
-                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน06",
-                "uuid": "d8964f28-591a-44f5-a523-7ac0904003c1",
-                "productId": 2538559,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_090cda5f3d254d17bc3a96a6afcb7e84.jpg",
-                "purchasedCount": 32
-            },
-            {
-                "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 05",
-                "titleKana": "[ข่าวดี]คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน05",
-                "uuid": "8af36593-c70b-4a1b-ab38-30bd3d2a57b6",
-                "productId": 2398105,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_aa87a0b70e94438c8f0dacd89f2dbefc.jpg",
-                "purchasedCount": 34
-            }
-        ]
-    },
-    {
         "seriesName": "ขี้เถ้าในกริมการ์แดนมายา",
         "seriesId": 511086,
         "publisherId": 2548,
@@ -5654,7 +5663,7 @@
                 "productId": 2995520,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_142e42fd40684bedbd6b00f628f25c77.jpg",
-                "purchasedCount": 38
+                "purchasedCount": 40
             }
         ]
     },
@@ -7611,7 +7620,7 @@
                 "productId": 2701874,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4a59a1eca5374d41a22fcb7adf7d905b.jpg",
-                "purchasedCount": 22
+                "purchasedCount": 23
             },
             {
                 "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 1",
@@ -11337,7 +11346,7 @@
                 "productId": 2351284,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b8809b2a365949dfb4e27a87a7805316.jpg",
-                "purchasedCount": 164
+                "purchasedCount": 166
             },
             {
                 "title": "ผมโดนสาวแกลโต๊ะหลังบอกรัก เล่ม 2",
@@ -11346,7 +11355,7 @@
                 "productId": 2049503,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_bd0a3d669a564cc1820f45fd6dad608f.jpg",
-                "purchasedCount": 282
+                "purchasedCount": 284
             },
             {
                 "title": "ผมโดนสาวแกลโต๊ะหลังบอกรัก เล่ม 1",
@@ -11355,7 +11364,7 @@
                 "productId": 1891127,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7154086.jpg",
-                "purchasedCount": 346
+                "purchasedCount": 348
             }
         ]
     },
@@ -14563,7 +14572,7 @@
                 "productId": 1968842,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3840768bb7394eeeae77095bdd53a71a.jpg",
-                "purchasedCount": 20
+                "purchasedCount": 22
             },
             {
                 "title": "ลำนำรักผู้พิทักษ์ฤดูกาล ภาคคิมหันตลีลา เล่ม 1",
@@ -15690,7 +15699,7 @@
                 "productId": 1652634,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6295272.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 8
             },
             {
                 "title": "คุณแม่ที่มีสกิลพื้นฐานเป็นการโจมตีหมู่แถมยังเบิ้ลได้แบบนี้ชอบไหมจ๊ะ เล่ม 4",
