@@ -1,5 +1,40 @@
 [
     {
+        "seriesName": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7",
+        "seriesId": 506151,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7 เล่ม 03",
+                "titleKana": "บันทึกล่มอาณาจักรของซิลเวอเกียสบุตรจอมมารลำดับ703",
+                "uuid": "ad6e35e5-705f-4f9b-9871-56e9f90ede5c",
+                "productId": 3297332,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_5f160b637edb433d8b96962507244015.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7 เล่ม 02",
+                "titleKana": "บันทึกล่มอาณาจักรของซิลเวอเกียสบุตรจอมมารลำดับ702",
+                "uuid": "f815e389-e3f9-4a7b-a542-13e411c4d977",
+                "productId": 2849427,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_5483701b5f3d4c67bb2be2e68697c6fb.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7 เล่ม 01",
+                "titleKana": "บันทึกล่มอาณาจักรของซิลเวอเกียสบุตรจอมมารลำดับ701",
+                "uuid": "1f492bd7-c76f-40d5-9dc1-63aea699efc0",
+                "productId": 2510758,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6515468bbb9e4b1da43a2075d7bd42e3.jpg",
+                "purchasedCount": 36
+            }
+        ]
+    },
+    {
         "seriesName": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน",
         "seriesId": 494886,
         "publisherId": 2541,
@@ -12,7 +47,7 @@
                 "productId": 3297334,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2efa9a7e6dba46f7a3c0e59a73c745c8.jpg",
-                "purchasedCount": 0
+                "purchasedCount": 2
             },
             {
                 "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 07",
@@ -567,7 +602,7 @@
                 "productId": 3275620,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
-                "purchasedCount": 100
+                "purchasedCount": 102
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
@@ -629,7 +664,7 @@
                 "productId": 3275619,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_286397daca6e4a11819c09dd58867416.jpg",
-                "purchasedCount": 62
+                "purchasedCount": 64
             },
             {
                 "title": "แมจิคัล☆เอกซ์พลอเรอร์ เซียนเกมตัวฉกาจจุติมาผงาดในเกมจีบสาว เล่ม 11",
@@ -1940,7 +1975,7 @@
                 "productId": 3225795,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a2fe072bb7cf4beb9291de08599f2ab9.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 62
             },
             {
                 "title": "ยอมเป็นแฟนเบอร์สองของเธอก็ได้ เล่ม 7",
@@ -2171,7 +2206,7 @@
                 "productId": 3195525,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_280e3a960a444348a278a8d64ec0ce01.jpg",
-                "purchasedCount": 70
+                "purchasedCount": 72
             },
             {
                 "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 4",
@@ -2394,7 +2429,7 @@
                 "productId": 3195519,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_26edaec7bef84b2795a6122718b689e7.jpg",
-                "purchasedCount": 134
+                "purchasedCount": 136
             },
             {
                 "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 3",
@@ -2606,7 +2641,7 @@
                 "productId": 3179221,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ccc5ceb17e5540cc88277fa6bfc07552.jpg",
-                "purchasedCount": 174
+                "purchasedCount": 176
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 12",
@@ -2615,7 +2650,7 @@
                 "productId": 3095870,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1bbb2b5260124b4391181978b79965e3.jpg",
-                "purchasedCount": 194
+                "purchasedCount": 196
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 11",
@@ -2624,7 +2659,7 @@
                 "productId": 2833069,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6efa1f47c4404dfe9d751ceb0fbb5c6e.jpg",
-                "purchasedCount": 196
+                "purchasedCount": 198
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 10",
@@ -2633,7 +2668,7 @@
                 "productId": 2686867,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_bd1cb9cc75154997bda9479ab9309e4d.jpg",
-                "purchasedCount": 204
+                "purchasedCount": 206
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 9.5",
@@ -2642,7 +2677,7 @@
                 "productId": 2353543,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d287e3d290bf4d41bc9d812f39756d3a.jpg",
-                "purchasedCount": 264
+                "purchasedCount": 266
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 9",
@@ -3686,7 +3721,7 @@
                 "productId": 1838936,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6965178.jpg",
-                "purchasedCount": 580
+                "purchasedCount": 582
             }
         ]
     },
@@ -4996,7 +5031,7 @@
                 "productId": 2581476,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6bf7295ffbf1457c9f977ce97b6505c3.jpg",
-                "purchasedCount": 30
+                "purchasedCount": 31
             }
         ]
     },
@@ -6144,7 +6179,7 @@
                 "productId": 2945034,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1ce3ab5ccaf248ad87084f69d2536020.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 61
             },
             {
                 "title": "อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ 13 (จบ)",
@@ -6854,32 +6889,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6877736.jpg",
                 "purchasedCount": 42
-            }
-        ]
-    },
-    {
-        "seriesName": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7",
-        "seriesId": 506151,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7 เล่ม 02",
-                "titleKana": "บันทึกล่มอาณาจักรของซิลเวอเกียสบุตรจอมมารลำดับ702",
-                "uuid": "f815e389-e3f9-4a7b-a542-13e411c4d977",
-                "productId": 2849427,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_5483701b5f3d4c67bb2be2e68697c6fb.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7 เล่ม 01",
-                "titleKana": "บันทึกล่มอาณาจักรของซิลเวอเกียสบุตรจอมมารลำดับ701",
-                "uuid": "1f492bd7-c76f-40d5-9dc1-63aea699efc0",
-                "productId": 2510758,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6515468bbb9e4b1da43a2075d7bd42e3.jpg",
-                "purchasedCount": 36
             }
         ]
     },
@@ -7961,7 +7970,7 @@
                 "productId": 1800019,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6823590.jpg",
-                "purchasedCount": 106
+                "purchasedCount": 108
             },
             {
                 "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 5",
