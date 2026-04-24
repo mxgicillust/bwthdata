@@ -1,5 +1,220 @@
 [
     {
+        "seriesName": "เกิดชาตินี้พี่ต้องเทพ",
+        "seriesId": 464545,
+        "publisherId": 2779,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 23",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ23",
+                "uuid": "cc1abef0-0f8b-4857-93a6-cfecc5db994a",
+                "productId": 3299794,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_acf847611a97428993a42f266bd2a000.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 22",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ22",
+                "uuid": "322ef934-2b4a-46d1-8039-62e44071bfb5",
+                "productId": 3006803,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6518fc11f2aa4dbead2e0b9a3cb7155b.jpg",
+                "purchasedCount": 74
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 21",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ21",
+                "uuid": "689af069-5073-495c-bf3c-4e7a758693bf",
+                "productId": 2699971,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_8f222a0e0d9f42ac86e352b5f62d8590.jpg",
+                "purchasedCount": 88
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 20",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ20",
+                "uuid": "69551e93-13a1-4c64-854d-519b8da9735c",
+                "productId": 2423729,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_a2fcebf306b247c7971b63a77c5fedc5.jpg",
+                "purchasedCount": 104
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 19",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ19",
+                "uuid": "4ae18da5-b639-4910-9a9d-17c61b9c23bd",
+                "productId": 2142690,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_0d641a0cefef47518f76ddcf954ca7c4.jpg",
+                "purchasedCount": 128
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 18",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ18",
+                "uuid": "6977866b-31c5-4ac5-acdc-04fc01855596",
+                "productId": 2095469,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9f6c11fc16b94d2997832e6c289ba7c8.jpg",
+                "purchasedCount": 122
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 16",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ16",
+                "uuid": "5abcabe6-e1c0-4bea-b352-7a418d6619f6",
+                "productId": 2095468,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_b6c1d941ce3b4d758c55dd7b2f6f30bf.jpg",
+                "purchasedCount": 60
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 17",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ17",
+                "uuid": "1566af50-2d6e-4a87-86ab-0c9d44670bc3",
+                "productId": 2095467,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_bc8d6ef37c924a64b089d2d168d73964.jpg",
+                "purchasedCount": 66
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 15",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ15",
+                "uuid": "bbd2e50a-62ad-409b-8878-c0b9f1075661",
+                "productId": 2095464,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d96b34589663404f81d4bc5ada50afa2.jpg",
+                "purchasedCount": 88
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 14",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ14",
+                "uuid": "ed1b048e-eedb-4cbc-bd0d-263452bfc7d7",
+                "productId": 2095462,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7d3c3fb8f4f94bd99fae07958f37dff2.jpg",
+                "purchasedCount": 68
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 1",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ1",
+                "uuid": "d0fc2606-baac-4273-920f-607bc2b6b503",
+                "productId": 2095459,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9e968b2c956d4134aa108e96b03a4cfa.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 11",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ11",
+                "uuid": "706578bf-ea38-4919-8d0d-ddb3dd71a285",
+                "productId": 2095458,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_044b4a72229a4be8909d8f87b69faf0e.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 12",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ12",
+                "uuid": "6b5c35d3-f217-4a6e-95ec-f95227fe1e86",
+                "productId": 2095456,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c4bc9369fec245369dae178fb025a738.jpg",
+                "purchasedCount": 36
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 10",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ10",
+                "uuid": "9cff4f99-9444-457b-985d-aa1e6dcb65b9",
+                "productId": 2095454,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7252e02122654096865a4309a7780522.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 9",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ9",
+                "uuid": "f59789a6-a78f-4ddf-9a64-17dee654e478",
+                "productId": 2095447,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_144885fa301945f0af9b691ec228c8ce.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 8",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ8",
+                "uuid": "efedf788-c7f8-4b27-b004-ca2c6c032ea5",
+                "productId": 2095444,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_55b5f1bf85a145239d1be19a848e7d74.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 7",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ7",
+                "uuid": "b1336480-6f77-4cd0-9efc-2ff5285c518d",
+                "productId": 2095441,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_639caa0a8d794704abf4d861b046e286.jpg",
+                "purchasedCount": 22
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 6",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ6",
+                "uuid": "7702755f-58e6-4ebc-aceb-7a058106b5eb",
+                "productId": 2095440,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9a62fd82e8fa41a596db5e7fcd6d1051.jpg",
+                "purchasedCount": 22
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 5",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ5",
+                "uuid": "c15f2400-c86f-4e0a-b142-e7d44b3e3f07",
+                "productId": 2095439,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_385742f210a94f0e95a02614b20ee105.jpg",
+                "purchasedCount": 22
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 4",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ4",
+                "uuid": "970a86c5-97b8-437c-b04a-3c4ff981b5ca",
+                "productId": 2095411,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_af2b156ff62d4384a2d2b2f0e575e581.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 3",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ3",
+                "uuid": "c2c311a9-2a1e-4a4e-ba15-f69e88b5cff9",
+                "productId": 2095315,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3af21da166db4c9e953dbda6529b1e75.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 2",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ2",
+                "uuid": "d6f2d199-f180-4af3-beb2-ccc584fa0d11",
+                "productId": 2095309,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_1793e24b37f044f0b730ba21abb2293e.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 13",
+                "titleKana": "เกิดชาตินี้พี่ต้องเทพ13",
+                "uuid": "1eaa4f54-d8cc-43ff-a46a-abfa270ee136",
+                "productId": 2095308,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f1bf7fdb2198419aa24ac4eea0169d87.jpg",
+                "purchasedCount": 88
+            }
+        ]
+    },
+    {
         "seriesName": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7",
         "seriesId": 506151,
         "publisherId": 2541,
@@ -12,7 +227,7 @@
                 "productId": 3297332,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_5f160b637edb433d8b96962507244015.jpg",
-                "purchasedCount": 0
+                "purchasedCount": 2
             },
             {
                 "title": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7 เล่ม 02",
@@ -47,7 +262,7 @@
                 "productId": 3297334,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2efa9a7e6dba46f7a3c0e59a73c745c8.jpg",
-                "purchasedCount": 2
+                "purchasedCount": 4
             },
             {
                 "title": "[ข่าวดี] คู่หมั้นสาวจืดของผมน่ารักขั้นสุดเมื่ออยู่บ้าน (ฉบับนิยาย) 07",
@@ -567,7 +782,7 @@
                 "productId": 3275623,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_269f8232013d46f199d861df09a744f8.jpg",
-                "purchasedCount": 42
+                "purchasedCount": 46
             },
             {
                 "title": "แม่มดกับทหารรับจ้าง เล่ม 2",
@@ -585,7 +800,7 @@
                 "productId": 2355063,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_be3653e63e0f41829ffe792968885533.jpg",
-                "purchasedCount": 156
+                "purchasedCount": 158
             }
         ]
     },
@@ -602,7 +817,7 @@
                 "productId": 3275620,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
-                "purchasedCount": 102
+                "purchasedCount": 104
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
@@ -1678,7 +1893,7 @@
                 "productId": 3255175,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_58eda5abc4ee44a88a4654e1d8b91149.jpg",
-                "purchasedCount": 1
+                "purchasedCount": 2
             },
             {
                 "title": "ฉันคือยอดอัศวินหญิงแห่งอาณาจักรดวงดาว เล่ม 2",
@@ -1687,7 +1902,7 @@
                 "productId": 2674841,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_ed1c646d1a804a56bb56eef43dcf3cee.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 19
             },
             {
                 "title": "ฉันคือยอดอัศวินหญิงแห่งอาณาจักรดวงดาว เล่ม 1",
@@ -1713,7 +1928,7 @@
                 "productId": 3255170,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a8f26f661225441980b3ddf8e389f005.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 18
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 6",
@@ -1740,7 +1955,7 @@
                 "productId": 2410826,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_22b725965bf34bd19337c1ec076b62ff.jpg",
-                "purchasedCount": 84
+                "purchasedCount": 86
             },
             {
                 "title": "ให้เป็นแฟนได้ไง ไม่เอาไม่ไหวหรอก (※หรือว่าจะไหวนะ!?) เล่ม 3",
@@ -2055,7 +2270,7 @@
                 "productId": 3225793,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f620bce2ed6b4c918609f86a1edd101c.jpg",
-                "purchasedCount": 144
+                "purchasedCount": 146
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 13",
@@ -2536,7 +2751,7 @@
                 "productId": 1637726,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588598.jpg",
-                "purchasedCount": 234
+                "purchasedCount": 237
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 5",
@@ -2554,7 +2769,7 @@
                 "productId": 1637723,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6237418.jpg",
-                "purchasedCount": 201
+                "purchasedCount": 204
             },
             {
                 "title": "86 -เอทตี้ซิกซ์- เล่ม 9",
@@ -2659,7 +2874,7 @@
                 "productId": 2833069,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6efa1f47c4404dfe9d751ceb0fbb5c6e.jpg",
-                "purchasedCount": 198
+                "purchasedCount": 200
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 10",
@@ -2713,7 +2928,7 @@
                 "productId": 1658528,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6314920.jpg",
-                "purchasedCount": 344
+                "purchasedCount": 346
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 5",
@@ -3176,7 +3391,7 @@
                 "productId": 2079579,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2d91520ab93b489b8334c11452bacd3a.jpg",
-                "purchasedCount": 356
+                "purchasedCount": 358
             },
             {
                 "title": "ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ เล่ม 4 -after- แฟ้มคดีของแม่มดแห่งความเงียบ",
@@ -4022,7 +4237,7 @@
                 "productId": 3095862,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_faaf9bac4adb45d0838dd53b2a9f4584.jpg",
-                "purchasedCount": 160
+                "purchasedCount": 162
             },
             {
                 "title": "ราชินีนักล่าค่าประสบการณ์ เล่ม 3",
@@ -4774,212 +4989,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_bfa84f47a91743dbbcd061c6c7748401.jpg",
                 "purchasedCount": 34
-            }
-        ]
-    },
-    {
-        "seriesName": "เกิดชาตินี้พี่ต้องเทพ",
-        "seriesId": 464545,
-        "publisherId": 2779,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 22",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ22",
-                "uuid": "322ef934-2b4a-46d1-8039-62e44071bfb5",
-                "productId": 3006803,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6518fc11f2aa4dbead2e0b9a3cb7155b.jpg",
-                "purchasedCount": 74
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 21",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ21",
-                "uuid": "689af069-5073-495c-bf3c-4e7a758693bf",
-                "productId": 2699971,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_8f222a0e0d9f42ac86e352b5f62d8590.jpg",
-                "purchasedCount": 88
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 20",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ20",
-                "uuid": "69551e93-13a1-4c64-854d-519b8da9735c",
-                "productId": 2423729,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_a2fcebf306b247c7971b63a77c5fedc5.jpg",
-                "purchasedCount": 104
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 19",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ19",
-                "uuid": "4ae18da5-b639-4910-9a9d-17c61b9c23bd",
-                "productId": 2142690,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_0d641a0cefef47518f76ddcf954ca7c4.jpg",
-                "purchasedCount": 128
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 18",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ18",
-                "uuid": "6977866b-31c5-4ac5-acdc-04fc01855596",
-                "productId": 2095469,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9f6c11fc16b94d2997832e6c289ba7c8.jpg",
-                "purchasedCount": 122
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 16",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ16",
-                "uuid": "5abcabe6-e1c0-4bea-b352-7a418d6619f6",
-                "productId": 2095468,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_b6c1d941ce3b4d758c55dd7b2f6f30bf.jpg",
-                "purchasedCount": 60
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 17",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ17",
-                "uuid": "1566af50-2d6e-4a87-86ab-0c9d44670bc3",
-                "productId": 2095467,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_bc8d6ef37c924a64b089d2d168d73964.jpg",
-                "purchasedCount": 66
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 15",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ15",
-                "uuid": "bbd2e50a-62ad-409b-8878-c0b9f1075661",
-                "productId": 2095464,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d96b34589663404f81d4bc5ada50afa2.jpg",
-                "purchasedCount": 88
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 14",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ14",
-                "uuid": "ed1b048e-eedb-4cbc-bd0d-263452bfc7d7",
-                "productId": 2095462,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7d3c3fb8f4f94bd99fae07958f37dff2.jpg",
-                "purchasedCount": 68
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 1",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ1",
-                "uuid": "d0fc2606-baac-4273-920f-607bc2b6b503",
-                "productId": 2095459,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9e968b2c956d4134aa108e96b03a4cfa.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 11",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ11",
-                "uuid": "706578bf-ea38-4919-8d0d-ddb3dd71a285",
-                "productId": 2095458,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_044b4a72229a4be8909d8f87b69faf0e.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 12",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ12",
-                "uuid": "6b5c35d3-f217-4a6e-95ec-f95227fe1e86",
-                "productId": 2095456,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c4bc9369fec245369dae178fb025a738.jpg",
-                "purchasedCount": 36
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 10",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ10",
-                "uuid": "9cff4f99-9444-457b-985d-aa1e6dcb65b9",
-                "productId": 2095454,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7252e02122654096865a4309a7780522.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 9",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ9",
-                "uuid": "f59789a6-a78f-4ddf-9a64-17dee654e478",
-                "productId": 2095447,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_144885fa301945f0af9b691ec228c8ce.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 8",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ8",
-                "uuid": "efedf788-c7f8-4b27-b004-ca2c6c032ea5",
-                "productId": 2095444,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_55b5f1bf85a145239d1be19a848e7d74.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 7",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ7",
-                "uuid": "b1336480-6f77-4cd0-9efc-2ff5285c518d",
-                "productId": 2095441,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_639caa0a8d794704abf4d861b046e286.jpg",
-                "purchasedCount": 22
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 6",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ6",
-                "uuid": "7702755f-58e6-4ebc-aceb-7a058106b5eb",
-                "productId": 2095440,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9a62fd82e8fa41a596db5e7fcd6d1051.jpg",
-                "purchasedCount": 22
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 5",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ5",
-                "uuid": "c15f2400-c86f-4e0a-b142-e7d44b3e3f07",
-                "productId": 2095439,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_385742f210a94f0e95a02614b20ee105.jpg",
-                "purchasedCount": 22
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 4",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ4",
-                "uuid": "970a86c5-97b8-437c-b04a-3c4ff981b5ca",
-                "productId": 2095411,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_af2b156ff62d4384a2d2b2f0e575e581.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 3",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ3",
-                "uuid": "c2c311a9-2a1e-4a4e-ba15-f69e88b5cff9",
-                "productId": 2095315,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_3af21da166db4c9e953dbda6529b1e75.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 2",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ2",
-                "uuid": "d6f2d199-f180-4af3-beb2-ccc584fa0d11",
-                "productId": 2095309,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_1793e24b37f044f0b730ba21abb2293e.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 13",
-                "titleKana": "เกิดชาตินี้พี่ต้องเทพ13",
-                "uuid": "1eaa4f54-d8cc-43ff-a46a-abfa270ee136",
-                "productId": 2095308,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f1bf7fdb2198419aa24ac4eea0169d87.jpg",
-                "purchasedCount": 88
             }
         ]
     },
@@ -7819,7 +7828,7 @@
                 "productId": 2246173,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b6dfaa967a5b4bf79aeba1f0ad4946c1.jpg",
-                "purchasedCount": 68
+                "purchasedCount": 70
             },
             {
                 "title": "ขอให้รักเรานี้ได้มีความสุข เล่ม 6",
@@ -7828,7 +7837,7 @@
                 "productId": 2046672,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_16ead2d9ba6242d682a9e25618b86357.jpg",
-                "purchasedCount": 76
+                "purchasedCount": 78
             },
             {
                 "title": "ขอให้รักเรานี้ได้มีความสุข เล่ม 5",
@@ -8155,7 +8164,7 @@
                 "productId": 2641664,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c8b8e8fd105f400293871fb92f5dc362.jpg",
-                "purchasedCount": 34
+                "purchasedCount": 36
             }
         ]
     },
@@ -8593,7 +8602,7 @@
                 "productId": 2584835,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_69e7097f232149cbb7dfc090dc3f3aa7.jpg",
-                "purchasedCount": 70
+                "purchasedCount": 72
             },
             {
                 "title": "สตรีศักดิ์สิทธิ์เกิดใหม่ แต่ไม่ขอบอกใครนะคะ เล่ม 1",
@@ -8602,7 +8611,7 @@
                 "productId": 2490808,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f6869b21b8fd470d8fcad5e4e4d61eb5.jpg",
-                "purchasedCount": 72
+                "purchasedCount": 74
             }
         ]
     },
@@ -9307,7 +9316,7 @@
                 "productId": 2417612,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c83455b1edda417d9bd37a2e4d3e7373.jpg",
-                "purchasedCount": 605
+                "purchasedCount": 606
             }
         ]
     },
@@ -13815,7 +13824,7 @@
                 "productId": 1643495,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6259930.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 62
             },
             {
                 "title": "นี่เธอชอบหม่าม้า ไม่ใช่ลูกจ๋าหรอกเหรอ!? เล่ม 2",
@@ -19496,7 +19505,7 @@
                 "productId": 1638058,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6238084.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 20
             },
             {
                 "title": "ขอให้โชคดีมีชัยในโลกแฟนตาซี! สปินออฟ ขอให้ระเบิดตูมตามในโลกแฟนตาซี! เล่ม 3",
@@ -19505,7 +19514,7 @@
                 "productId": 1638042,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6238052.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 20
             },
             {
                 "title": "ขอให้โชคดีมีชัยในโลกแฟนตาซี! สปินออฟ ขอให้ระเบิดตูมตามในโลกแฟนตาซี! เล่ม 1",
@@ -19514,7 +19523,7 @@
                 "productId": 1638041,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6238050.jpg",
-                "purchasedCount": 26
+                "purchasedCount": 28
             }
         ]
     },
