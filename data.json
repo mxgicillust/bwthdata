@@ -1,5 +1,31 @@
 [
     {
+        "seriesName": "[สลด] สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน",
+        "seriesId": 518220,
+        "publisherId": 2541,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "[สลด] สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน (ฉบับนิยาย) เล่ม 2",
+                "titleKana": "[สลด]สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน2",
+                "uuid": "c4d990d2-21bf-4844-9543-c6ab49ec411f",
+                "productId": 3316062,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_84a4ad8a020f4787a106290292f96a43.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "[สลด] สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน (ฉบับนิยาย) เล่ม 1",
+                "titleKana": "[สลด]สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน1",
+                "uuid": "2b32e933-b69f-4a8a-bd01-3b2637fc588a",
+                "productId": 2641664,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c8b8e8fd105f400293871fb92f5dc362.jpg",
+                "purchasedCount": 36
+            }
+        ]
+    },
+    {
         "seriesName": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
         "seriesId": 595396,
         "publisherId": 2548,
@@ -606,7 +632,7 @@
                 "productId": 3289017,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_89ffcde0a24f49c18bcd4c4ad741b1aa.jpg",
-                "purchasedCount": 5
+                "purchasedCount": 6
             },
             {
                 "title": "หนุ่มน้อยเจ้าดินแดนกับแผนสร้างเมืองแสนสนุก เล่ม 2",
@@ -818,7 +844,7 @@
                 "productId": 2355063,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_be3653e63e0f41829ffe792968885533.jpg",
-                "purchasedCount": 158
+                "purchasedCount": 160
             }
         ]
     },
@@ -2306,7 +2332,7 @@
                 "productId": 2936347,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3b0aed7534604ffe9619699057cb6b11.jpg",
-                "purchasedCount": 218
+                "purchasedCount": 220
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 11",
@@ -2475,7 +2501,7 @@
                 "productId": 2373138,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4967fd83232645389ac79c60c42d2cd6.jpg",
-                "purchasedCount": 284
+                "purchasedCount": 286
             }
         ]
     },
@@ -2671,7 +2697,7 @@
                 "productId": 2891838,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_af176757331646cab9b81a24cb9ca7a5.jpg",
-                "purchasedCount": 226
+                "purchasedCount": 228
             },
             {
                 "title": "ถ้าช่วยพี่น้องแสนสวยที่รังเกียจผู้ชายเข้าเส้นโดยไม่บอกชื่อจะเป็นยังไง? เล่ม 2",
@@ -3909,7 +3935,7 @@
                 "productId": 3141195,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_19c1db938afc409ebf5c6ebb7abf49bf.jpg",
-                "purchasedCount": 172
+                "purchasedCount": 174
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 5",
@@ -3945,7 +3971,7 @@
                 "productId": 1953300,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4a9453700f4f400ea3667f18cb4b8fc9.jpg",
-                "purchasedCount": 596
+                "purchasedCount": 598
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 1",
@@ -4282,7 +4308,7 @@
                 "productId": 2126567,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_5f6a25439b4c43ee877d2b3d822fc03f.jpg",
-                "purchasedCount": 218
+                "purchasedCount": 220
             }
         ]
     },
@@ -8166,23 +8192,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2779b781fe374dbcbb5ba95127067866.jpg",
                 "purchasedCount": 16
-            }
-        ]
-    },
-    {
-        "seriesName": "[สลด] สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน",
-        "seriesId": 518220,
-        "publisherId": 2541,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "[สลด] สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน (ฉบับนิยาย) เล่ม 1",
-                "titleKana": "[สลด]สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน1",
-                "uuid": "2b32e933-b69f-4a8a-bd01-3b2637fc588a",
-                "productId": 2641664,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c8b8e8fd105f400293871fb92f5dc362.jpg",
-                "purchasedCount": 36
             }
         ]
     },
@@ -13218,7 +13227,7 @@
                 "productId": 2132733,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f1a24bef74be4f0ba8b44fe84dd453b9.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             }
         ]
     },
@@ -14617,7 +14626,7 @@
                 "productId": 1968826,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_62e75ad5dad546efb9cba9e0cdadf64c.jpg",
-                "purchasedCount": 36
+                "purchasedCount": 38
             }
         ]
     },
@@ -14704,7 +14713,7 @@
                 "productId": 1935699,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7300684.jpg",
-                "purchasedCount": 34
+                "purchasedCount": 36
             }
         ]
     },
@@ -17211,7 +17220,7 @@
                 "productId": 1687011,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6418332.jpg",
-                "purchasedCount": 64
+                "purchasedCount": 66
             },
             {
                 "title": "ขอให้โชคดีมีชัยในโลกแฟนตาซี! เล่ม 9",
