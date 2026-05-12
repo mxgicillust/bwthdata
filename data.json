@@ -1,5 +1,1022 @@
 [
     {
+        "seriesName": "ผมเนี่ยนะ...ชายแปด!",
+        "seriesId": 408196,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 22",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!22",
+                "uuid": "3ad48300-473a-4c86-9748-f484dbe18c0f",
+                "productId": 3323050,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f25024829ffe48138392fe083112580f.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 21",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!21",
+                "uuid": "dd3fd65a-55b2-4b7d-95d6-d67df919798d",
+                "productId": 2001676,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_704b07aa094f4052b4a6a202f4da1dcc.jpg",
+                "purchasedCount": 61
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 20",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!20",
+                "uuid": "f67e692b-9be4-4eb0-94a9-d1a2ec5caace",
+                "productId": 1755974,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6666610.jpg",
+                "purchasedCount": 41
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 19",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!19",
+                "uuid": "1217c027-bcb4-4244-862c-65e79ec5a25b",
+                "productId": 1690257,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6430936.jpg",
+                "purchasedCount": 51
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 8",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!8",
+                "uuid": "3265d7ab-1c28-4e6f-9e92-574c5fa1340e",
+                "productId": 1652678,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6295358.jpg",
+                "purchasedCount": 16
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 12",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!12",
+                "uuid": "13bcdff1-e530-4bf8-8b91-12c9ce471fdf",
+                "productId": 1637878,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6913984.jpg",
+                "purchasedCount": 16
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 2",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!2",
+                "uuid": "35214650-e473-45da-99de-7a377be85738",
+                "productId": 1637844,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237656.jpg",
+                "purchasedCount": 20
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 11",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!11",
+                "uuid": "993b76df-4749-4b99-9a55-eca883ceaf8e",
+                "productId": 1637840,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237648.jpg",
+                "purchasedCount": 15
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 6",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!6",
+                "uuid": "6ac749eb-711f-4e2a-9cb0-c89289836bc8",
+                "productId": 1637830,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237628.jpg",
+                "purchasedCount": 18
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 1",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!1",
+                "uuid": "f033cb19-a0c7-4f46-8aa6-59767fb39925",
+                "productId": 1637819,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237606.jpg",
+                "purchasedCount": 22
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 9",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!9",
+                "uuid": "6b2f6047-734d-4a78-9ef2-09b1525f10c9",
+                "productId": 1637813,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237594.jpg",
+                "purchasedCount": 15
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 7",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!7",
+                "uuid": "6f99a4cd-4b03-4646-9208-13a27406d569",
+                "productId": 1637812,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237592.jpg",
+                "purchasedCount": 16
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 5",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!5",
+                "uuid": "9cbae10e-5c10-433b-9ea1-86233ea3d3ee",
+                "productId": 1637811,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237590.jpg",
+                "purchasedCount": 18
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 3",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!3",
+                "uuid": "2b500679-803a-4d98-91cd-d2181214c79f",
+                "productId": 1637809,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6517936.jpg",
+                "purchasedCount": 18
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 4",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!4",
+                "uuid": "1bbde0ca-7910-44e8-bbad-1439bc62c679",
+                "productId": 1637808,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237584.jpg",
+                "purchasedCount": 17
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 14",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!14",
+                "uuid": "6d31e042-ffd8-4cf8-acc8-cf8782a56d39",
+                "productId": 1637806,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6237580.jpg",
+                "purchasedCount": 17
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 13",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!13",
+                "uuid": "a141006a-a83b-4ffc-bb2c-fc4b78475db1",
+                "productId": 1637805,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6913986.jpg",
+                "purchasedCount": 17
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 10",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!10",
+                "uuid": "56a12890-7f0c-4b81-99ad-d3c89d958afc",
+                "productId": 1637803,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6919844.jpg",
+                "purchasedCount": 14
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 18",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!18",
+                "uuid": "1776240c-bdc3-4a15-93e4-adfa3aa4ecb7",
+                "productId": 1627834,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207610.jpg",
+                "purchasedCount": 24
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 17",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!17",
+                "uuid": "7fca2ad6-c888-48b0-bfa9-3887326809f7",
+                "productId": 1627566,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207068.jpg",
+                "purchasedCount": 22
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 15",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!15",
+                "uuid": "d92de00d-8a1b-42a8-8ef4-c1708ae89613",
+                "productId": 1627565,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207066.jpg",
+                "purchasedCount": 18
+            },
+            {
+                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 16",
+                "titleKana": "ผมเนี่ยนะ...ชายแปด!16",
+                "uuid": "d8dee6fe-1870-46fe-b05d-bdb79a4b3c8b",
+                "productId": 1627564,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207064.jpg",
+                "purchasedCount": 20
+            }
+        ]
+    },
+    {
+        "seriesName": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์",
+        "seriesId": 408156,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 12",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์12",
+                "uuid": "1b9337d0-de94-4e9c-ac46-46f16e0affdd",
+                "productId": 3323046,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_516a82adc03641cfbd2b0509bf586789.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 11",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์11",
+                "uuid": "53c31151-5e93-4068-8828-9644601c12b5",
+                "productId": 2672181,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_e657bb064a60414299b85048e9a0c1ec.jpg",
+                "purchasedCount": 54
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 10",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์10",
+                "uuid": "e080f632-a2b1-4e0a-a742-ff7b54078e4c",
+                "productId": 2490802,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9ee42ad012e8456c975585076164631e.jpg",
+                "purchasedCount": 68
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 9",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์9",
+                "uuid": "f444ea42-d5d5-46ba-8b1c-fc538ca7775d",
+                "productId": 2250161,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_328b237739dd4ade8fffa40b5bdf9d96.jpg",
+                "purchasedCount": 86
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 8",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์8",
+                "uuid": "99e6f39d-d75e-4ecc-8938-b8d5c84c4ee1",
+                "productId": 2124977,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_343913801ca34bf3aecfbe649d3fc785.jpg",
+                "purchasedCount": 88
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 7",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์7",
+                "uuid": "23734a21-7cd7-432a-bae3-616ad0f631a7",
+                "productId": 1953294,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_e4373813304348d0b0b4a250e2a725eb.jpg",
+                "purchasedCount": 94
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 6",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์6",
+                "uuid": "21a8356b-7546-4856-ad7a-22fbd32c73b6",
+                "productId": 1800019,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6823590.jpg",
+                "purchasedCount": 110
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 5",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์5",
+                "uuid": "fcbab616-06a5-4620-a425-c3d6eb891d61",
+                "productId": 1701007,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6919834.jpg",
+                "purchasedCount": 100
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 4",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์4",
+                "uuid": "b2ad8851-8db4-4271-9849-a4b6247729f8",
+                "productId": 1643497,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6919836.jpg",
+                "purchasedCount": 118
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 3",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์3",
+                "uuid": "d855449d-8b03-4926-bcab-bcf383dffdc6",
+                "productId": 1627794,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207530.jpg",
+                "purchasedCount": 108
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 2",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์2",
+                "uuid": "d5da59c1-3dab-48a8-b9d3-cb00616547d6",
+                "productId": 1627793,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207528.jpg",
+                "purchasedCount": 108
+            },
+            {
+                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 1",
+                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์1",
+                "uuid": "34be19b9-d7f7-4486-82c9-9d214d8e4349",
+                "productId": 1627791,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207524.jpg",
+                "purchasedCount": 120
+            }
+        ]
+    },
+    {
+        "seriesName": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา",
+        "seriesId": 412391,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 8 (ฉบับจบ)",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา8(ฉบับจบ)",
+                "uuid": "6c035cd3-a4ed-449f-bb09-25caa1be9933",
+                "productId": 3323039,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_524cda0097fc47a79ed1ea803dd6cbd9.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 7",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา7",
+                "uuid": "89abdf1f-6202-4379-9cba-8c927829ceed",
+                "productId": 3090291,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_251da5ea61734271821e1920f5776c65.jpg",
+                "purchasedCount": 84
+            },
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 6",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา6",
+                "uuid": "36c880a2-7bff-48d7-ab2e-9c80742807de",
+                "productId": 2528917,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_25a202c593674a87a42890689c363ec2.jpg",
+                "purchasedCount": 118
+            },
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 5",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา5",
+                "uuid": "426c0508-7fc8-48d0-b29c-e12aa496fe92",
+                "productId": 2260861,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_52d3bf75ac814e76bb9769240f5d6fba.jpg",
+                "purchasedCount": 188
+            },
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 4",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา4",
+                "uuid": "d9495eab-0b30-48b6-be42-0e2ffbe6d64e",
+                "productId": 2126564,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_a79d6431091444eb95c3d153226aad23.jpg",
+                "purchasedCount": 230
+            },
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 3",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา3",
+                "uuid": "c7b4db03-7db3-4b48-b902-16cfcdbc8a85",
+                "productId": 1968870,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f0cff1fd5ffa4ff7ac35377b3b69595e.jpg",
+                "purchasedCount": 268
+            },
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 2",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา2",
+                "uuid": "af4d1897-0999-44b8-a1b6-ced7211f8d37",
+                "productId": 1761775,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6686096.jpg",
+                "purchasedCount": 262
+            },
+            {
+                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 1",
+                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา1",
+                "uuid": "4081d37c-847f-438b-ad10-6f9f1bb4d768",
+                "productId": 1658509,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6314882.jpg",
+                "purchasedCount": 486
+            }
+        ]
+    },
+    {
+        "seriesName": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน",
+        "seriesId": 452203,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 6",
+                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน6",
+                "uuid": "7f4f9acb-dc7c-4ecb-9705-5a17226fb955",
+                "productId": 3323037,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_2a65ac4a4db44d80b5610cb72099fa01.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 5",
+                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน5",
+                "uuid": "bab404b6-146b-46bf-9239-0b5f77b11804",
+                "productId": 2995435,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4d92c159598a4e818e788a41b9c2cb2d.jpg",
+                "purchasedCount": 84
+            },
+            {
+                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 4",
+                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน4",
+                "uuid": "6046da21-b264-4708-9174-dc59a53c85b4",
+                "productId": 2730769,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_b807d80140204bf9a78c0ff03192a89e.jpg",
+                "purchasedCount": 118
+            },
+            {
+                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 3",
+                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน3",
+                "uuid": "76a02a14-f615-4fef-9cb4-641ad972a37c",
+                "productId": 2447697,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_77d90341f93e4b94a98471a5dbe261ec.jpg",
+                "purchasedCount": 170
+            },
+            {
+                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 2",
+                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน2",
+                "uuid": "66435032-1a49-4821-8be3-1d1602bf1829",
+                "productId": 2217876,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3907a8f010824e6ea5023c304f7f7ba5.jpg",
+                "purchasedCount": 194
+            },
+            {
+                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 1",
+                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน1",
+                "uuid": "38d7d3f1-499c-4441-8126-48cd9783487d",
+                "productId": 1968837,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_0f7ee3eafcbf4bc4a8312f01d6e404e8.jpg",
+                "purchasedCount": 232
+            }
+        ]
+    },
+    {
+        "seriesName": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ",
+        "seriesId": 417419,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 9",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ9",
+                "uuid": "51b89e98-5e88-48af-b94a-bd2d8a08d606",
+                "productId": 3323033,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_13a82a66908e4d819d3554b8375236b5.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 8",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ8",
+                "uuid": "3080ea46-46bd-4ffe-ac69-cb11bfcb15f0",
+                "productId": 3179220,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ea56c9c46c414db182b37b849f588053.jpg",
+                "purchasedCount": 42
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 7",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ7",
+                "uuid": "1776409a-1311-4c5d-b5a3-db82d895f37f",
+                "productId": 2835219,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_8b4b21ebc575429a83a9368c625ccc2d.jpg",
+                "purchasedCount": 46
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 6",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ6",
+                "uuid": "08342715-cd4a-49c4-b8e5-7e4fb347358f",
+                "productId": 2691617,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c9db016b230a41369b8e358fa82a6cf7.jpg",
+                "purchasedCount": 56
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 5",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ5",
+                "uuid": "8533d098-8888-4c31-99f6-99b1cf39949c",
+                "productId": 2303535,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9a14375d29724c29b163daa6cfd1549e.jpg",
+                "purchasedCount": 66
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 4",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ4",
+                "uuid": "bacf6842-c62d-4cb4-ba1b-d6f711bd7368",
+                "productId": 2131096,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_010dd6923ab34c63b39be6fc5f4f37a1.jpg",
+                "purchasedCount": 64
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 3",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ3",
+                "uuid": "deb03ede-ad12-4450-8261-790f0e08ced7",
+                "productId": 1923823,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_719a3e875f264bb3b2973945eab60985.jpg",
+                "purchasedCount": 58
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 2",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ2",
+                "uuid": "5c86acb6-c155-4ae2-8e73-f12bd832561c",
+                "productId": 1805377,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_2aa538a445d24a6b80f2e5bdf7c1217b.jpg",
+                "purchasedCount": 64
+            },
+            {
+                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 1",
+                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ1",
+                "uuid": "fddeead0-6eb2-4d6e-a5b4-5cd18dcec99e",
+                "productId": 1691414,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6436186.jpg",
+                "purchasedCount": 130
+            }
+        ]
+    },
+    {
+        "seriesName": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ",
+        "seriesId": 408233,
+        "publisherId": 2546,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 10 (ฉบับจบ)",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ10(ฉบับจบ)",
+                "uuid": "8c2914bc-9326-48df-929b-6634b5b51b16",
+                "productId": 3323030,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c85a776f75c0432a9afab176c0d1c51c.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 9",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ9",
+                "uuid": "d254f127-33bd-439c-be36-5240302edb4d",
+                "productId": 2995432,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c098e4ccc8614d438d28022f06b61081.jpg",
+                "purchasedCount": 38
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 8",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ8",
+                "uuid": "0b5d519d-d406-497a-875f-a265c8d937b4",
+                "productId": 2628551,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c8dc9c67ecfe45b39416cdc285ff1fdc.jpg",
+                "purchasedCount": 36
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 7",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ7",
+                "uuid": "99fa4060-4535-4c04-94c2-d942ba4a806d",
+                "productId": 2208105,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_b46f9db31d2043ea82474dd83aecf473.jpg",
+                "purchasedCount": 68
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 6",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ6",
+                "uuid": "1538b0dc-9a47-49e1-925e-37daaacd9a57",
+                "productId": 1891087,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7154020.jpg",
+                "purchasedCount": 104
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 5",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ5",
+                "uuid": "24d1111a-9d87-4070-8182-ffbf18113b7d",
+                "productId": 1658526,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6314916.jpg",
+                "purchasedCount": 174
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 4",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ4",
+                "uuid": "debdd776-11ba-4082-86d6-153502aeab4d",
+                "productId": 1627907,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207756.jpg",
+                "purchasedCount": 110
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 2",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ2",
+                "uuid": "c5743153-0358-46d7-ade7-7b7b5f052765",
+                "productId": 1627905,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6865474.jpg",
+                "purchasedCount": 114
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 3",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ3",
+                "uuid": "c80949bd-5dae-4091-93d8-48c8b81d1359",
+                "productId": 1627889,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207720.jpg",
+                "purchasedCount": 114
+            },
+            {
+                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 1",
+                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ1",
+                "uuid": "d72c40b7-2d35-4b4b-9c15-403be291f9b2",
+                "productId": 1627677,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_6207290.jpg",
+                "purchasedCount": 132
+            }
+        ]
+    },
+    {
+        "seriesName": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน",
+        "seriesId": 576510,
+        "publisherId": 2529,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 21",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน21",
+                "uuid": "48c55cf7-7803-4767-8bd1-9bc0fcf5f342",
+                "productId": 3323026,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_e118874209f342a5adce757e7a1d7790.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 16",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน16",
+                "uuid": "7ebddc25-41f2-4cce-8fbd-da81c916891c",
+                "productId": 3160530,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_25a1cd1f4cad4e6fa3938ac7082f99c1.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 2",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน2",
+                "uuid": "b82ddbd7-1521-4ffe-baa7-1d3da9de8e32",
+                "productId": 3160523,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_de2ff4eda11c420aaf2299c95564c753.jpg",
+                "purchasedCount": 6
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 7",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน7",
+                "uuid": "e73d6ea2-d753-45b9-bf17-1320cd91e442",
+                "productId": 3160522,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_30097f0b9b52416da9a8fe26011fc484.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 14",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน14",
+                "uuid": "716646bf-2db4-4160-b8db-b8bbc0a60f13",
+                "productId": 3160521,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f4a94b2f340a42b8876ed09a0d783a10.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 9",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน9",
+                "uuid": "5e4596a5-7a45-4c49-bcfc-c1decd4e31e5",
+                "productId": 3160520,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9c1999545a424828bc505b088fc4f529.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 20",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน20",
+                "uuid": "31774fd5-0e2f-4efb-aaff-6d121f2be95d",
+                "productId": 3160519,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_40d8298f38834ba18e381b9fd8fafbb2.jpg",
+                "purchasedCount": 30
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 8",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน8",
+                "uuid": "736dbf53-c1fb-4b1d-8bd0-c8fcecda3a8a",
+                "productId": 3160518,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4e8ae74ccea04f8fb86b4d890de91f25.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 11",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน11",
+                "uuid": "cce6dec9-fc3d-4b28-9332-9cc1db21ae73",
+                "productId": 3160517,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_e3aef4293a794a888a9c503c21fdeb66.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 4",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน4",
+                "uuid": "439a7f0e-f55d-49e8-a1c8-aa016770e49f",
+                "productId": 3160516,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d1c28de12f7d4097b420624b55701c3a.jpg",
+                "purchasedCount": 6
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 3",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน3",
+                "uuid": "8885a50c-c5a5-433a-83d7-60bbf88a956d",
+                "productId": 3160515,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d8a17db19335405ab94bff5394384f32.jpg",
+                "purchasedCount": 6
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 17",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน17",
+                "uuid": "f48f143a-08a7-486d-856a-971cc11d9c89",
+                "productId": 3160514,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_814466e7e6f643c7a362777641ba91d9.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 18",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน18",
+                "uuid": "32696b8d-ab22-48f3-a51c-bb389383a20a",
+                "productId": 3160511,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_fd009f2ae2794587a549b4b35538f2f0.jpg",
+                "purchasedCount": 14
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 19",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน19",
+                "uuid": "f7e48b5b-5582-4dd1-9f4e-9243a65eef5a",
+                "productId": 3160510,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7c7f5d36511e410a92cc464c8a660fc9.jpg",
+                "purchasedCount": 26
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 10",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน10",
+                "uuid": "aa87f08b-39e0-4239-bef6-b2e78d060922",
+                "productId": 3160509,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_47009dba12744906b0a9e15756ec7105.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 5",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน5",
+                "uuid": "1760065a-99d1-4421-b4e4-546355a3ce2a",
+                "productId": 3160508,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c071f77336e243f49bcbfdcb4a16e46d.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 15",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน15",
+                "uuid": "39c2b4c8-a53b-4518-9c4b-4e25f3c7e3a5",
+                "productId": 3160506,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3de8436c0c1b4d0aa2ee6ef2d907ef82.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 1",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน1",
+                "uuid": "bb057062-f601-4cdd-bb35-a1acaf3d489c",
+                "productId": 3160505,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d770434fa2b9459e9b306c8b72754848.jpg",
+                "purchasedCount": 6
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 6",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน6",
+                "uuid": "93efe0b6-ce2b-4078-b384-cbfc8010b820",
+                "productId": 3160504,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_beb83af9264d43188948886b1bca980b.jpg",
+                "purchasedCount": 8
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 13",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน13",
+                "uuid": "1ecbbe13-2a36-43ce-a9f5-d269e3a3eb7b",
+                "productId": 3160503,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_470635ce3d6d47ae94502dd34e3e52f9.jpg",
+                "purchasedCount": 10
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 12",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน12",
+                "uuid": "fcdeb199-5ccb-4ce5-8399-8df0162820ba",
+                "productId": 3160502,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_881265b9f7054a828907b6b56aed6d61.jpg",
+                "purchasedCount": 10
+            }
+        ]
+    },
+    {
+        "seriesName": "นางร้ายสายเวทผู้เงียบงัน",
+        "seriesId": 597879,
+        "publisherId": 2529,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "นางร้ายสายเวทผู้เงียบงัน เล่ม 1",
+                "titleKana": "นางร้ายสายเวทผู้เงียบงัน1",
+                "uuid": "a8f2adc5-4f32-4db0-a40f-a3b491c83591",
+                "productId": 3323022,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_44652fda64204844b370db1f81eb2883.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
+        "seriesName": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria",
+        "seriesId": 577016,
+        "publisherId": 2529,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 16",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria16",
+                "uuid": "3d854909-a463-49bf-97db-2e28995b7a6f",
+                "productId": 3323020,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_cd90b2056a8444b1a1db662572c4ce2f.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 15",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria15",
+                "uuid": "9f3d8f2c-7a2b-49ee-9a2a-509481fee2d3",
+                "productId": 3165080,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_31f6dd2612b74af9b5d9d845fd2e103b.jpg",
+                "purchasedCount": 27
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 14",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria14",
+                "uuid": "1cbd7e1b-89c4-4361-8ec2-91a2f22823a1",
+                "productId": 3165079,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_7243508b223f4b1f99d706e616ff07de.jpg",
+                "purchasedCount": 15
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 13",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria13",
+                "uuid": "81ec6604-3806-4cea-8154-2d9a1f8677dd",
+                "productId": 3165078,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_1fb784a8db6a44c6952a28aa1f386545.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 10",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria10",
+                "uuid": "ab77f972-d907-4e3a-90a1-465bf3c70c87",
+                "productId": 3165076,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_ca50e1b4cb974571b0d35e1588d65e71.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 9",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria9",
+                "uuid": "8310a402-e67a-4d85-82e3-63f8386f17e4",
+                "productId": 3165074,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_59f24a940ffb4da29b670eae3de54747.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 8",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria8",
+                "uuid": "67405dcf-f1f2-4c86-9060-bccedcc54229",
+                "productId": 3165064,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c8904831629f4e82aa1a6e382f56f8f9.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 7",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria7",
+                "uuid": "ba171761-00d3-4262-b621-d8734632b582",
+                "productId": 3165063,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_b30645c107194f87b18434d6ad99a6f8.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 6",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria6",
+                "uuid": "2ab719cc-5cf4-413e-a137-a2a79dae76a9",
+                "productId": 3165062,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_9312de2134d740a28ca3a34ff834c78c.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 11",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria11",
+                "uuid": "63180d8e-1ac9-443e-a07b-70f965696312",
+                "productId": 3165061,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_66567403532243ec8439ac457ea4af43.jpg",
+                "purchasedCount": 9
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 12",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria12",
+                "uuid": "d11d6272-19f9-495a-a505-41666a9723d2",
+                "productId": 3165060,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_c2a80ee4b2154dccb01e546d727c3714.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 3",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria3",
+                "uuid": "f27fea51-914d-48cf-9535-b46beee8d736",
+                "productId": 3165059,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_2d3051179216414face28da70d0de6fe.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 1",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria1",
+                "uuid": "b8f45144-6b14-4ef0-a306-80aa547d5033",
+                "productId": 3165055,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3b7044c1c7264195a3682df71cf8107c.jpg",
+                "purchasedCount": 15
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 5",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria5",
+                "uuid": "70970171-7efc-4695-a5ae-2105d0c3cfb7",
+                "productId": 3165051,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4d1398d33c6743979e853f79bdf4a073.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 4",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria4",
+                "uuid": "531752a2-3ce4-4b0e-a767-c8eb41f5c720",
+                "productId": 3165050,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3bf3c03cfbdf4f3f86319cd0c7126c1a.jpg",
+                "purchasedCount": 12
+            },
+            {
+                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 2",
+                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria2",
+                "uuid": "fcf9471c-2e69-4b48-bffb-4f13cf35124b",
+                "productId": 3165049,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_f849a5a67239457bb67dfa63c916cabc.jpg",
+                "purchasedCount": 12
+            }
+        ]
+    },
+    {
         "seriesName": "[สลด] สตรีมเมอร์ไร้ชื่อสายคุณหนูลงดันเจี้ยนลืมปิดไลฟ์กระทืบเพื่อนร่วมอาชีพจนยับเยิน",
         "seriesId": 518220,
         "publisherId": 2541,
@@ -861,7 +1878,7 @@
                 "productId": 3275620,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
-                "purchasedCount": 118
+                "purchasedCount": 120
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
@@ -1296,7 +2313,7 @@
                 "productId": 3271217,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4578400c85cb4f4aad864e5f9758b94d.jpg",
-                "purchasedCount": 30
+                "purchasedCount": 32
             },
             {
                 "title": "ชีวิตตัวประกอบอย่างตูช่างอยู่ยากเมื่ออยู่ในโลกเกมจีบหนุ่ม (นิยาย) 9",
@@ -1653,7 +2670,7 @@
                 "productId": 1869187,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076844.jpg",
-                "purchasedCount": 146
+                "purchasedCount": 148
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 13",
@@ -1725,7 +2742,7 @@
                 "productId": 1869145,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076756.jpg",
-                "purchasedCount": 146
+                "purchasedCount": 148
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 2",
@@ -2182,7 +3199,7 @@
                 "productId": 3240183,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8f9af61e79f747a6be899de512e63b3d.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             }
         ]
     },
@@ -2368,7 +3385,7 @@
                 "productId": 1779066,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6747172.jpg",
-                "purchasedCount": 394
+                "purchasedCount": 396
             },
             {
                 "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง เล่ม 4",
@@ -2465,7 +3482,7 @@
                 "productId": 3195525,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_280e3a960a444348a278a8d64ec0ce01.jpg",
-                "purchasedCount": 74
+                "purchasedCount": 76
             },
             {
                 "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 4",
@@ -2474,7 +3491,7 @@
                 "productId": 2945028,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_a597c92c6cb94c0db1fc5b2faa4de75c.jpg",
-                "purchasedCount": 120
+                "purchasedCount": 122
             },
             {
                 "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 3",
@@ -2483,7 +3500,7 @@
                 "productId": 2945027,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_df9ce0f39f294701977fac0b4a6b3da6.jpg",
-                "purchasedCount": 128
+                "purchasedCount": 130
             },
             {
                 "title": "เป็น [แฟน] กับฝาแฝดทั้งสองคนเลยไหม? เล่ม 2",
@@ -2999,7 +4016,7 @@
                 "productId": 1627728,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588608.jpg",
-                "purchasedCount": 206
+                "purchasedCount": 210
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 2",
@@ -3027,86 +4044,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588596.jpg",
                 "purchasedCount": 260
-            }
-        ]
-    },
-    {
-        "seriesName": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ",
-        "seriesId": 417419,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 8",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ8",
-                "uuid": "3080ea46-46bd-4ffe-ac69-cb11bfcb15f0",
-                "productId": 3179220,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ea56c9c46c414db182b37b849f588053.jpg",
-                "purchasedCount": 42
-            },
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 7",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ7",
-                "uuid": "1776409a-1311-4c5d-b5a3-db82d895f37f",
-                "productId": 2835219,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_8b4b21ebc575429a83a9368c625ccc2d.jpg",
-                "purchasedCount": 46
-            },
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 6",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ6",
-                "uuid": "08342715-cd4a-49c4-b8e5-7e4fb347358f",
-                "productId": 2691617,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c9db016b230a41369b8e358fa82a6cf7.jpg",
-                "purchasedCount": 56
-            },
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 5",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ5",
-                "uuid": "8533d098-8888-4c31-99f6-99b1cf39949c",
-                "productId": 2303535,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9a14375d29724c29b163daa6cfd1549e.jpg",
-                "purchasedCount": 66
-            },
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 4",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ4",
-                "uuid": "bacf6842-c62d-4cb4-ba1b-d6f711bd7368",
-                "productId": 2131096,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_010dd6923ab34c63b39be6fc5f4f37a1.jpg",
-                "purchasedCount": 64
-            },
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 3",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ3",
-                "uuid": "deb03ede-ad12-4450-8261-790f0e08ced7",
-                "productId": 1923823,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_719a3e875f264bb3b2973945eab60985.jpg",
-                "purchasedCount": 58
-            },
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 2",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ2",
-                "uuid": "5c86acb6-c155-4ae2-8e73-f12bd832561c",
-                "productId": 1805377,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_2aa538a445d24a6b80f2e5bdf7c1217b.jpg",
-                "purchasedCount": 64
-            },
-            {
-                "title": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ เล่ม 1",
-                "titleKana": "การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ1",
-                "uuid": "fddeead0-6eb2-4d6e-a5b4-5cd18dcec99e",
-                "productId": 1691414,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6436186.jpg",
-                "purchasedCount": 130
             }
         ]
     },
@@ -3592,337 +4529,6 @@
         ]
     },
     {
-        "seriesName": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria",
-        "seriesId": 577016,
-        "publisherId": 2529,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 15",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria15",
-                "uuid": "9f3d8f2c-7a2b-49ee-9a2a-509481fee2d3",
-                "productId": 3165080,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_31f6dd2612b74af9b5d9d845fd2e103b.jpg",
-                "purchasedCount": 27
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 14",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria14",
-                "uuid": "1cbd7e1b-89c4-4361-8ec2-91a2f22823a1",
-                "productId": 3165079,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7243508b223f4b1f99d706e616ff07de.jpg",
-                "purchasedCount": 15
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 13",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria13",
-                "uuid": "81ec6604-3806-4cea-8154-2d9a1f8677dd",
-                "productId": 3165078,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_1fb784a8db6a44c6952a28aa1f386545.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 10",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria10",
-                "uuid": "ab77f972-d907-4e3a-90a1-465bf3c70c87",
-                "productId": 3165076,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ca50e1b4cb974571b0d35e1588d65e71.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 9",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria9",
-                "uuid": "8310a402-e67a-4d85-82e3-63f8386f17e4",
-                "productId": 3165074,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_59f24a940ffb4da29b670eae3de54747.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 8",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria8",
-                "uuid": "67405dcf-f1f2-4c86-9060-bccedcc54229",
-                "productId": 3165064,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c8904831629f4e82aa1a6e382f56f8f9.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 7",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria7",
-                "uuid": "ba171761-00d3-4262-b621-d8734632b582",
-                "productId": 3165063,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_b30645c107194f87b18434d6ad99a6f8.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 6",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria6",
-                "uuid": "2ab719cc-5cf4-413e-a137-a2a79dae76a9",
-                "productId": 3165062,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9312de2134d740a28ca3a34ff834c78c.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 11",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria11",
-                "uuid": "63180d8e-1ac9-443e-a07b-70f965696312",
-                "productId": 3165061,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_66567403532243ec8439ac457ea4af43.jpg",
-                "purchasedCount": 9
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 12",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria12",
-                "uuid": "d11d6272-19f9-495a-a505-41666a9723d2",
-                "productId": 3165060,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c2a80ee4b2154dccb01e546d727c3714.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 3",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria3",
-                "uuid": "f27fea51-914d-48cf-9535-b46beee8d736",
-                "productId": 3165059,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_2d3051179216414face28da70d0de6fe.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 1",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria1",
-                "uuid": "b8f45144-6b14-4ef0-a306-80aa547d5033",
-                "productId": 3165055,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_3b7044c1c7264195a3682df71cf8107c.jpg",
-                "purchasedCount": 15
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 5",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria5",
-                "uuid": "70970171-7efc-4695-a5ae-2105d0c3cfb7",
-                "productId": 3165051,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4d1398d33c6743979e853f79bdf4a073.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 4",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria4",
-                "uuid": "531752a2-3ce4-4b0e-a767-c8eb41f5c720",
-                "productId": 3165050,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_3bf3c03cfbdf4f3f86319cd0c7126c1a.jpg",
-                "purchasedCount": 12
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 2",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยนภาคพิเศษswordoratoria2",
-                "uuid": "fcf9471c-2e69-4b48-bffb-4f13cf35124b",
-                "productId": 3165049,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f849a5a67239457bb67dfa63c916cabc.jpg",
-                "purchasedCount": 12
-            }
-        ]
-    },
-    {
-        "seriesName": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน",
-        "seriesId": 576510,
-        "publisherId": 2529,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 16",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน16",
-                "uuid": "7ebddc25-41f2-4cce-8fbd-da81c916891c",
-                "productId": 3160530,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_25a1cd1f4cad4e6fa3938ac7082f99c1.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 2",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน2",
-                "uuid": "b82ddbd7-1521-4ffe-baa7-1d3da9de8e32",
-                "productId": 3160523,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_de2ff4eda11c420aaf2299c95564c753.jpg",
-                "purchasedCount": 6
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 7",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน7",
-                "uuid": "e73d6ea2-d753-45b9-bf17-1320cd91e442",
-                "productId": 3160522,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_30097f0b9b52416da9a8fe26011fc484.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 14",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน14",
-                "uuid": "716646bf-2db4-4160-b8db-b8bbc0a60f13",
-                "productId": 3160521,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f4a94b2f340a42b8876ed09a0d783a10.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 9",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน9",
-                "uuid": "5e4596a5-7a45-4c49-bcfc-c1decd4e31e5",
-                "productId": 3160520,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9c1999545a424828bc505b088fc4f529.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 20",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน20",
-                "uuid": "31774fd5-0e2f-4efb-aaff-6d121f2be95d",
-                "productId": 3160519,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_40d8298f38834ba18e381b9fd8fafbb2.jpg",
-                "purchasedCount": 30
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 8",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน8",
-                "uuid": "736dbf53-c1fb-4b1d-8bd0-c8fcecda3a8a",
-                "productId": 3160518,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4e8ae74ccea04f8fb86b4d890de91f25.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 11",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน11",
-                "uuid": "cce6dec9-fc3d-4b28-9332-9cc1db21ae73",
-                "productId": 3160517,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_e3aef4293a794a888a9c503c21fdeb66.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 4",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน4",
-                "uuid": "439a7f0e-f55d-49e8-a1c8-aa016770e49f",
-                "productId": 3160516,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d1c28de12f7d4097b420624b55701c3a.jpg",
-                "purchasedCount": 6
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 3",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน3",
-                "uuid": "8885a50c-c5a5-433a-83d7-60bbf88a956d",
-                "productId": 3160515,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d8a17db19335405ab94bff5394384f32.jpg",
-                "purchasedCount": 6
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 17",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน17",
-                "uuid": "f48f143a-08a7-486d-856a-971cc11d9c89",
-                "productId": 3160514,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_814466e7e6f643c7a362777641ba91d9.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 18",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน18",
-                "uuid": "32696b8d-ab22-48f3-a51c-bb389383a20a",
-                "productId": 3160511,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_fd009f2ae2794587a549b4b35538f2f0.jpg",
-                "purchasedCount": 14
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 19",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน19",
-                "uuid": "f7e48b5b-5582-4dd1-9f4e-9243a65eef5a",
-                "productId": 3160510,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7c7f5d36511e410a92cc464c8a660fc9.jpg",
-                "purchasedCount": 26
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 10",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน10",
-                "uuid": "aa87f08b-39e0-4239-bef6-b2e78d060922",
-                "productId": 3160509,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_47009dba12744906b0a9e15756ec7105.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 5",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน5",
-                "uuid": "1760065a-99d1-4421-b4e4-546355a3ce2a",
-                "productId": 3160508,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c071f77336e243f49bcbfdcb4a16e46d.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 15",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน15",
-                "uuid": "39c2b4c8-a53b-4518-9c4b-4e25f3c7e3a5",
-                "productId": 3160506,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_3de8436c0c1b4d0aa2ee6ef2d907ef82.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 1",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน1",
-                "uuid": "bb057062-f601-4cdd-bb35-a1acaf3d489c",
-                "productId": 3160505,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d770434fa2b9459e9b306c8b72754848.jpg",
-                "purchasedCount": 6
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 6",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน6",
-                "uuid": "93efe0b6-ce2b-4078-b384-cbfc8010b820",
-                "productId": 3160504,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_beb83af9264d43188948886b1bca980b.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 13",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน13",
-                "uuid": "1ecbbe13-2a36-43ce-a9f5-d269e3a3eb7b",
-                "productId": 3160503,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_470635ce3d6d47ae94502dd34e3e52f9.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 12",
-                "titleKana": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน12",
-                "uuid": "fcdeb199-5ccb-4ce5-8399-8df0162820ba",
-                "productId": 3160502,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_881265b9f7054a828907b6b56aed6d61.jpg",
-                "purchasedCount": 10
-            }
-        ]
-    },
-    {
         "seriesName": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง",
         "seriesId": 437752,
         "publisherId": 2546,
@@ -3944,7 +4550,7 @@
                 "productId": 2968308,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_eca01bd3666a4d6cbeab84387975dbbb.jpg",
-                "purchasedCount": 250
+                "purchasedCount": 252
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 4",
@@ -3953,7 +4559,7 @@
                 "productId": 2534626,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3d5cc7e2249349098fdbf93bae45cef4.jpg",
-                "purchasedCount": 294
+                "purchasedCount": 296
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 3",
@@ -4612,77 +5218,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6436194.jpg",
                 "purchasedCount": 236
-            }
-        ]
-    },
-    {
-        "seriesName": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา",
-        "seriesId": 412391,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 7",
-                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา7",
-                "uuid": "89abdf1f-6202-4379-9cba-8c927829ceed",
-                "productId": 3090291,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_251da5ea61734271821e1920f5776c65.jpg",
-                "purchasedCount": 84
-            },
-            {
-                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 6",
-                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา6",
-                "uuid": "36c880a2-7bff-48d7-ab2e-9c80742807de",
-                "productId": 2528917,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_25a202c593674a87a42890689c363ec2.jpg",
-                "purchasedCount": 118
-            },
-            {
-                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 5",
-                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา5",
-                "uuid": "426c0508-7fc8-48d0-b29c-e12aa496fe92",
-                "productId": 2260861,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_52d3bf75ac814e76bb9769240f5d6fba.jpg",
-                "purchasedCount": 188
-            },
-            {
-                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 4",
-                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา4",
-                "uuid": "d9495eab-0b30-48b6-be42-0e2ffbe6d64e",
-                "productId": 2126564,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_a79d6431091444eb95c3d153226aad23.jpg",
-                "purchasedCount": 230
-            },
-            {
-                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 3",
-                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา3",
-                "uuid": "c7b4db03-7db3-4b48-b902-16cfcdbc8a85",
-                "productId": 1968870,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_f0cff1fd5ffa4ff7ac35377b3b69595e.jpg",
-                "purchasedCount": 268
-            },
-            {
-                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 2",
-                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา2",
-                "uuid": "af4d1897-0999-44b8-a1b6-ced7211f8d37",
-                "productId": 1761775,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6686096.jpg",
-                "purchasedCount": 262
-            },
-            {
-                "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 1",
-                "titleKana": "ผมไม่อยากไปดูตัวเลยตั้งเงื่อนไขชวนปวดหัวแล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา1",
-                "uuid": "4081d37c-847f-438b-ad10-6f9f1bb4d768",
-                "productId": 1658509,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6314882.jpg",
-                "purchasedCount": 486
             }
         ]
     },
@@ -5769,148 +6304,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f3fdc240c7844533a81e9f2b9c899d90.jpg",
                 "purchasedCount": 22
-            }
-        ]
-    },
-    {
-        "seriesName": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน",
-        "seriesId": 452203,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 5",
-                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน5",
-                "uuid": "bab404b6-146b-46bf-9239-0b5f77b11804",
-                "productId": 2995435,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4d92c159598a4e818e788a41b9c2cb2d.jpg",
-                "purchasedCount": 84
-            },
-            {
-                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 4",
-                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน4",
-                "uuid": "6046da21-b264-4708-9174-dc59a53c85b4",
-                "productId": 2730769,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_b807d80140204bf9a78c0ff03192a89e.jpg",
-                "purchasedCount": 118
-            },
-            {
-                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 3",
-                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน3",
-                "uuid": "76a02a14-f615-4fef-9cb4-641ad972a37c",
-                "productId": 2447697,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_77d90341f93e4b94a98471a5dbe261ec.jpg",
-                "purchasedCount": 170
-            },
-            {
-                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 2",
-                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน2",
-                "uuid": "66435032-1a49-4821-8be3-1d1602bf1829",
-                "productId": 2217876,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_3907a8f010824e6ea5023c304f7f7ba5.jpg",
-                "purchasedCount": 194
-            },
-            {
-                "title": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน เล่ม 1",
-                "titleKana": "แผนกอบกู้ชีวิตวัยรุ่นของนายมืดมน1",
-                "uuid": "38d7d3f1-499c-4441-8126-48cd9783487d",
-                "productId": 1968837,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_0f7ee3eafcbf4bc4a8312f01d6e404e8.jpg",
-                "purchasedCount": 232
-            }
-        ]
-    },
-    {
-        "seriesName": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ",
-        "seriesId": 408233,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 9",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ9",
-                "uuid": "d254f127-33bd-439c-be36-5240302edb4d",
-                "productId": 2995432,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c098e4ccc8614d438d28022f06b61081.jpg",
-                "purchasedCount": 38
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 8",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ8",
-                "uuid": "0b5d519d-d406-497a-875f-a265c8d937b4",
-                "productId": 2628551,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c8dc9c67ecfe45b39416cdc285ff1fdc.jpg",
-                "purchasedCount": 36
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 7",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ7",
-                "uuid": "99fa4060-4535-4c04-94c2-d942ba4a806d",
-                "productId": 2208105,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_b46f9db31d2043ea82474dd83aecf473.jpg",
-                "purchasedCount": 68
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 6",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ6",
-                "uuid": "1538b0dc-9a47-49e1-925e-37daaacd9a57",
-                "productId": 1891087,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7154020.jpg",
-                "purchasedCount": 104
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 5",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ5",
-                "uuid": "24d1111a-9d87-4070-8182-ffbf18113b7d",
-                "productId": 1658526,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6314916.jpg",
-                "purchasedCount": 174
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 4",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ4",
-                "uuid": "debdd776-11ba-4082-86d6-153502aeab4d",
-                "productId": 1627907,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207756.jpg",
-                "purchasedCount": 110
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 2",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ2",
-                "uuid": "c5743153-0358-46d7-ade7-7b7b5f052765",
-                "productId": 1627905,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6865474.jpg",
-                "purchasedCount": 114
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 3",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ3",
-                "uuid": "c80949bd-5dae-4091-93d8-48c8b81d1359",
-                "productId": 1627889,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207720.jpg",
-                "purchasedCount": 114
-            },
-            {
-                "title": "หนุ่มซิงกับสาวฮ็อต เดตนี้จะรอดมั้ยนะ เล่ม 1",
-                "titleKana": "หนุ่มซิงกับสาวฮ็อตเดตนี้จะรอดมั้ยนะ1",
-                "uuid": "d72c40b7-2d35-4b4b-9c15-403be291f9b2",
-                "productId": 1627677,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207290.jpg",
-                "purchasedCount": 132
             }
         ]
     },
@@ -7966,113 +8359,6 @@
         ]
     },
     {
-        "seriesName": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์",
-        "seriesId": 408156,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 11",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์11",
-                "uuid": "53c31151-5e93-4068-8828-9644601c12b5",
-                "productId": 2672181,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_e657bb064a60414299b85048e9a0c1ec.jpg",
-                "purchasedCount": 54
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 10",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์10",
-                "uuid": "e080f632-a2b1-4e0a-a742-ff7b54078e4c",
-                "productId": 2490802,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9ee42ad012e8456c975585076164631e.jpg",
-                "purchasedCount": 68
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 9",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์9",
-                "uuid": "f444ea42-d5d5-46ba-8b1c-fc538ca7775d",
-                "productId": 2250161,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_328b237739dd4ade8fffa40b5bdf9d96.jpg",
-                "purchasedCount": 86
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 8",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์8",
-                "uuid": "99e6f39d-d75e-4ecc-8938-b8d5c84c4ee1",
-                "productId": 2124977,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_343913801ca34bf3aecfbe649d3fc785.jpg",
-                "purchasedCount": 88
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 7",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์7",
-                "uuid": "23734a21-7cd7-432a-bae3-616ad0f631a7",
-                "productId": 1953294,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_e4373813304348d0b0b4a250e2a725eb.jpg",
-                "purchasedCount": 94
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 6",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์6",
-                "uuid": "21a8356b-7546-4856-ad7a-22fbd32c73b6",
-                "productId": 1800019,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6823590.jpg",
-                "purchasedCount": 110
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 5",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์5",
-                "uuid": "fcbab616-06a5-4620-a425-c3d6eb891d61",
-                "productId": 1701007,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6919834.jpg",
-                "purchasedCount": 100
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 4",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์4",
-                "uuid": "b2ad8851-8db4-4271-9849-a4b6247729f8",
-                "productId": 1643497,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6919836.jpg",
-                "purchasedCount": 118
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 3",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์3",
-                "uuid": "d855449d-8b03-4926-bcab-bcf383dffdc6",
-                "productId": 1627794,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207530.jpg",
-                "purchasedCount": 108
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 2",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์2",
-                "uuid": "d5da59c1-3dab-48a8-b9d3-cb00616547d6",
-                "productId": 1627793,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207528.jpg",
-                "purchasedCount": 108
-            },
-            {
-                "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 1",
-                "titleKana": "จอมมารเกิดใหม่วิทยาลัยผู้พิทักษ์1",
-                "uuid": "34be19b9-d7f7-4486-82c9-9d214d8e4349",
-                "productId": 1627791,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207524.jpg",
-                "purchasedCount": 120
-            }
-        ]
-    },
-    {
         "seriesName": "สามัญชนคนนี้ อย่ามาอวดดีได้ไหมคะ!",
         "seriesId": 467031,
         "publisherId": 2609,
@@ -8191,7 +8477,7 @@
                 "productId": 1661472,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_2779b781fe374dbcbb5ba95127067866.jpg",
-                "purchasedCount": 16
+                "purchasedCount": 17
             }
         ]
     },
@@ -14325,203 +14611,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207642.jpg",
                 "purchasedCount": 222
-            }
-        ]
-    },
-    {
-        "seriesName": "ผมเนี่ยนะ...ชายแปด!",
-        "seriesId": 408196,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 21",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!21",
-                "uuid": "dd3fd65a-55b2-4b7d-95d6-d67df919798d",
-                "productId": 2001676,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_704b07aa094f4052b4a6a202f4da1dcc.jpg",
-                "purchasedCount": 61
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 20",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!20",
-                "uuid": "f67e692b-9be4-4eb0-94a9-d1a2ec5caace",
-                "productId": 1755974,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6666610.jpg",
-                "purchasedCount": 41
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 19",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!19",
-                "uuid": "1217c027-bcb4-4244-862c-65e79ec5a25b",
-                "productId": 1690257,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6430936.jpg",
-                "purchasedCount": 51
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 8",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!8",
-                "uuid": "3265d7ab-1c28-4e6f-9e92-574c5fa1340e",
-                "productId": 1652678,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6295358.jpg",
-                "purchasedCount": 16
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 12",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!12",
-                "uuid": "13bcdff1-e530-4bf8-8b91-12c9ce471fdf",
-                "productId": 1637878,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6913984.jpg",
-                "purchasedCount": 16
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 2",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!2",
-                "uuid": "35214650-e473-45da-99de-7a377be85738",
-                "productId": 1637844,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237656.jpg",
-                "purchasedCount": 20
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 11",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!11",
-                "uuid": "993b76df-4749-4b99-9a55-eca883ceaf8e",
-                "productId": 1637840,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237648.jpg",
-                "purchasedCount": 15
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 6",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!6",
-                "uuid": "6ac749eb-711f-4e2a-9cb0-c89289836bc8",
-                "productId": 1637830,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237628.jpg",
-                "purchasedCount": 18
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 1",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!1",
-                "uuid": "f033cb19-a0c7-4f46-8aa6-59767fb39925",
-                "productId": 1637819,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237606.jpg",
-                "purchasedCount": 22
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 9",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!9",
-                "uuid": "6b2f6047-734d-4a78-9ef2-09b1525f10c9",
-                "productId": 1637813,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237594.jpg",
-                "purchasedCount": 15
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 7",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!7",
-                "uuid": "6f99a4cd-4b03-4646-9208-13a27406d569",
-                "productId": 1637812,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237592.jpg",
-                "purchasedCount": 16
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 5",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!5",
-                "uuid": "9cbae10e-5c10-433b-9ea1-86233ea3d3ee",
-                "productId": 1637811,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237590.jpg",
-                "purchasedCount": 18
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 3",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!3",
-                "uuid": "2b500679-803a-4d98-91cd-d2181214c79f",
-                "productId": 1637809,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6517936.jpg",
-                "purchasedCount": 18
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 4",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!4",
-                "uuid": "1bbde0ca-7910-44e8-bbad-1439bc62c679",
-                "productId": 1637808,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237584.jpg",
-                "purchasedCount": 17
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 14",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!14",
-                "uuid": "6d31e042-ffd8-4cf8-acc8-cf8782a56d39",
-                "productId": 1637806,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6237580.jpg",
-                "purchasedCount": 17
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 13",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!13",
-                "uuid": "a141006a-a83b-4ffc-bb2c-fc4b78475db1",
-                "productId": 1637805,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6913986.jpg",
-                "purchasedCount": 17
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 10",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!10",
-                "uuid": "56a12890-7f0c-4b81-99ad-d3c89d958afc",
-                "productId": 1637803,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6919844.jpg",
-                "purchasedCount": 14
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 18",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!18",
-                "uuid": "1776240c-bdc3-4a15-93e4-adfa3aa4ecb7",
-                "productId": 1627834,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207610.jpg",
-                "purchasedCount": 24
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 17",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!17",
-                "uuid": "7fca2ad6-c888-48b0-bfa9-3887326809f7",
-                "productId": 1627566,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207068.jpg",
-                "purchasedCount": 22
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 15",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!15",
-                "uuid": "d92de00d-8a1b-42a8-8ef4-c1708ae89613",
-                "productId": 1627565,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207066.jpg",
-                "purchasedCount": 18
-            },
-            {
-                "title": "ผมเนี่ยนะ...ชายแปด! เล่ม 16",
-                "titleKana": "ผมเนี่ยนะ...ชายแปด!16",
-                "uuid": "d8dee6fe-1870-46fe-b05d-bdb79a4b3c8b",
-                "productId": 1627564,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207064.jpg",
-                "purchasedCount": 20
             }
         ]
     },
