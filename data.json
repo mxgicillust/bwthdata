@@ -12,7 +12,7 @@
                 "productId": 3327133,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3e9c0d0dbf704ab0952e8a9e367040cf.jpg",
-                "purchasedCount": 106
+                "purchasedCount": 114
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เล่ม 10",
@@ -619,7 +619,7 @@
                 "productId": 3323039,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_524cda0097fc47a79ed1ea803dd6cbd9.jpg",
-                "purchasedCount": 44
+                "purchasedCount": 46
             },
             {
                 "title": "ผมไม่อยากไปดูตัว เลยตั้งเงื่อนไขชวนปวดหัว แล้วเพื่อนร่วมชั้นสวยสุดขั้วก็โผล่มา เล่ม 7",
@@ -1661,7 +1661,7 @@
                 "productId": 3297332,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_5f160b637edb433d8b96962507244015.jpg",
-                "purchasedCount": 2
+                "purchasedCount": 4
             },
             {
                 "title": "บันทึกล่มอาณาจักรของซิลเวอเกียส บุตรจอมมารลำดับ 7 เล่ม 02",
@@ -1866,32 +1866,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6205728.jpg",
                 "purchasedCount": 74
-            }
-        ]
-    },
-    {
-        "seriesName": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว",
-        "seriesId": 570317,
-        "publisherId": 2529,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว เล่ม 2",
-                "titleKana": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว2",
-                "uuid": "69f01057-1cf2-4f93-9bf6-b5499111fbff",
-                "productId": 3289019,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_7eb68dca2bb54465bf644dd4334a1fcb.jpg",
-                "purchasedCount": 6
-            },
-            {
-                "title": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว เล่ม 1",
-                "titleKana": "อัศวินเวอร์จิ้นในโลกชายหญิงสลับขั้ว1",
-                "uuid": "a662f13f-b00c-4872-b036-935de55c8777",
-                "productId": 3091012,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ef39b6bd5d764d4fb77c99450de919ec.jpg",
-                "purchasedCount": 40
             }
         ]
     },
@@ -2163,7 +2137,7 @@
                 "productId": 3275620,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3626bff0412d4426b3e742729dfd60ad.jpg",
-                "purchasedCount": 130
+                "purchasedCount": 132
             },
             {
                 "title": "จอมเวทผู้มองเห็นทุกสิ่ง คุนอน เล่ม 5",
@@ -2919,7 +2893,7 @@
                 "productId": 1869202,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076876.jpg",
-                "purchasedCount": 84
+                "purchasedCount": 86
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 4",
@@ -2964,7 +2938,7 @@
                 "productId": 1869186,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076842.jpg",
-                "purchasedCount": 92
+                "purchasedCount": 94
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 12",
@@ -2973,7 +2947,7 @@
                 "productId": 1869165,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076802.jpg",
-                "purchasedCount": 78
+                "purchasedCount": 80
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 11",
@@ -2982,7 +2956,7 @@
                 "productId": 1869162,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076796.jpg",
-                "purchasedCount": 82
+                "purchasedCount": 84
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 5",
@@ -3455,23 +3429,6 @@
         ]
     },
     {
-        "seriesName": "วิวาห์เลี่ยงภาษีของผู้กล้ากับจอมอสูร",
-        "seriesId": 590650,
-        "publisherId": 2779,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "วิวาห์เลี่ยงภาษีของผู้กล้ากับจอมอสูร เล่ม 1 (ฉบับนิยาย)",
-                "titleKana": "วิวาห์เลี่ยงภาษีของผู้กล้ากับจอมอสูร1",
-                "uuid": "c7bc7139-6cb3-4b25-961b-6e0393a9a14c",
-                "productId": 3245816,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_1f993e6591884ab3b7718089d70d63f3.jpg",
-                "purchasedCount": 2
-            }
-        ]
-    },
-    {
         "seriesName": "ภารกิจพิชิตใจสามสาวงามของนายแมงดา",
         "seriesId": 589809,
         "publisherId": 2545,
@@ -3485,41 +3442,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_8f9af61e79f747a6be899de512e63b3d.jpg",
                 "purchasedCount": 34
-            }
-        ]
-    },
-    {
-        "seriesName": "การล้างแค้นของผู้กล้าสายฮีล",
-        "seriesId": 493489,
-        "publisherId": 2545,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 3 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
-                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล3～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
-                "uuid": "34b08105-6305-40e1-96c6-f87661bb27ea",
-                "productId": 3240176,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4d2e2a1a4d1b4d4499a7f2648c60fe2f.jpg",
-                "purchasedCount": 28
-            },
-            {
-                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 2 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
-                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล2～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
-                "uuid": "c762677f-ae26-4406-ac9c-a9c1ff63921f",
-                "productId": 2891840,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_9c4b1cf206264370b8b40fe86c984812.jpg",
-                "purchasedCount": 54
-            },
-            {
-                "title": "การล้างแค้นของผู้กล้าสายฮีล (ฉบับนิยาย) เล่ม 1 ～ เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก ～",
-                "titleKana": "การล้างแค้นของผู้กล้าสายฮีล1～เริ่มต้นชีวิตใหม่ด้วยเวทฮีลสารพัดนึก～",
-                "uuid": "0f36a528-1f37-4729-8e6c-e9c1c6ff7626",
-                "productId": 2392767,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_163df59662924bfcbe44e5d1125b83dd.jpg",
-                "purchasedCount": 98
             }
         ]
     },
@@ -4301,7 +4223,7 @@
                 "productId": 1627728,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588608.jpg",
-                "purchasedCount": 214
+                "purchasedCount": 216
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 2",
@@ -4310,7 +4232,7 @@
                 "productId": 1627496,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588600.jpg",
-                "purchasedCount": 242
+                "purchasedCount": 244
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 3",
@@ -4319,7 +4241,7 @@
                 "productId": 1627461,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588594.jpg",
-                "purchasedCount": 240
+                "purchasedCount": 242
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 1",
@@ -4328,7 +4250,7 @@
                 "productId": 1627459,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588596.jpg",
-                "purchasedCount": 260
+                "purchasedCount": 262
             }
         ]
     },
@@ -5507,40 +5429,6 @@
         ]
     },
     {
-        "seriesName": "คืนรักเทพหมาป่า",
-        "seriesId": 569889,
-        "publisherId": 3002,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "คืนรักเทพหมาป่า",
-                "titleKana": "คืนรักเทพหมาป่า",
-                "uuid": "8595c4d8-e544-4aa1-be43-43bd34ea8a62",
-                "productId": 3085337,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_e09c4fa3abac4487bd29a18ad5c3d7bc.jpg",
-                "purchasedCount": 0
-            }
-        ]
-    },
-    {
-        "seriesName": "รำพันรักเทพหมาป่า",
-        "seriesId": 569890,
-        "publisherId": 3002,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "รำพันรักเทพหมาป่า",
-                "titleKana": "รำพันรักเทพหมาป่า",
-                "uuid": "6c3a0c6d-8945-4924-972a-55e07b449d14",
-                "productId": 3085336,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_ecc6869442f54449b08fb1864c24977e.jpg",
-                "purchasedCount": 0
-            }
-        ]
-    },
-    {
         "seriesName": "Another อนาเธอร์",
         "seriesId": 565318,
         "publisherId": 2779,
@@ -6629,32 +6517,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d9d161718c2440559d4648d5ce66e89f.jpg",
                 "purchasedCount": 70
-            }
-        ]
-    },
-    {
-        "seriesName": "ผมโดนสาวยันเดเระที่หลบซ่อนอยู่ในดันเจี้ยนฆ่าทิ้งซ้ำแล้วซ้ำเล่า",
-        "seriesId": 518235,
-        "publisherId": 2545,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ผมโดนสาวยันเดเระที่หลบซ่อนอยู่ในดันเจี้ยนฆ่าทิ้งซ้ำแล้วซ้ำเล่า (ฉบับนิยาย) เล่ม 2",
-                "titleKana": "ผมโดนสาวยันเดเระที่หลบซ่อนอยู่ในดันเจี้ยนฆ่าทิ้งซ้ำแล้วซ้ำเล่า2",
-                "uuid": "3879d33c-e45e-490c-be2a-54e7f9be15fa",
-                "productId": 2964822,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_c979f8bec68c4e3b8dd6c6208160f846.jpg",
-                "purchasedCount": 86
-            },
-            {
-                "title": "ผมโดนสาวยันเดเระที่หลบซ่อนอยู่ในดันเจี้ยนฆ่าทิ้งซ้ำแล้วซ้ำเล่า (ฉบับนิยาย) เล่ม 1",
-                "titleKana": "ผมโดนสาวยันเดเระที่หลบซ่อนอยู่ในดันเจี้ยนฆ่าทิ้งซ้ำแล้วซ้ำเล่า1",
-                "uuid": "bd452445-c122-480d-82d4-ac6db45f1a60",
-                "productId": 2641678,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_fa5811d35c3d40059e44bc63a4dbb492.jpg",
-                "purchasedCount": 104
             }
         ]
     },
@@ -8298,23 +8160,6 @@
         ]
     },
     {
-        "seriesName": "รักทุกครั้งมีเพียงนาย",
-        "seriesId": 522801,
-        "publisherId": 3002,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "รักทุกครั้งมีเพียงนาย",
-                "titleKana": "รักทุกครั้งมีเพียงนาย",
-                "uuid": "3b6bd719-5824-45d0-a7c0-2f503d8e1eee",
-                "productId": 2686887,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_b9095055fb874268965cf9e388d69133.jpg",
-                "purchasedCount": 2
-            }
-        ]
-    },
-    {
         "seriesName": "ขอให้รักเรานี้ได้มีความสุข",
         "seriesId": 408145,
         "publisherId": 2546,
@@ -9714,32 +9559,6 @@
         ]
     },
     {
-        "seriesName": "ปีศาจตัวน้อยในวันนั้น คือชายคลั่งรักในวันนี้",
-        "seriesId": 463464,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ปีศาจตัวน้อยในวันนั้น คือชายคลั่งรักในวันนี้ เล่ม 2 (ฉบับจบ)",
-                "titleKana": "ปีศาจตัวน้อยในวันนั้นคือชายคลั่งรักในวันนี้2(ฉบับจบ)",
-                "uuid": "8e05c83d-7843-41e4-8c55-960983c392bf",
-                "productId": 2450941,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_8223ddd78d944cb98b2fe198280ca212.jpg",
-                "purchasedCount": 44
-            },
-            {
-                "title": "ปีศาจตัวน้อยในวันนั้น คือชายคลั่งรักในวันนี้ เล่ม 1",
-                "titleKana": "ปีศาจตัวน้อยในวันนั้นคือชายคลั่งรักในวันนี้1",
-                "uuid": "cd5e64c5-36ea-452c-9126-b37847e7196f",
-                "productId": 2083325,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4346d2ad61e849b8ab94e7ed481fa877.jpg",
-                "purchasedCount": 48
-            }
-        ]
-    },
-    {
         "seriesName": "อินฟินิต เดนโดรแกรม",
         "seriesId": 499928,
         "publisherId": 2779,
@@ -10854,32 +10673,6 @@
         ]
     },
     {
-        "seriesName": "แฟนหนุ่มของผมเป็นเน็ตไอดอล ภาคพิเศษ",
-        "seriesId": 499221,
-        "publisherId": 2861,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "แฟนหนุ่มของผมเป็นเน็ตไอดอล ภาคพิเศษ(1) ใช้ชีวิตอยู่ด้วยกัน",
-                "titleKana": "แฟนหนุ่มของผมเป็นเน็ตไอดอลภาคพิเศษ(1)ใช้ชีวิตอยู่ด้วยกัน",
-                "uuid": "e9d3128d-93d4-4d10-85b1-62ff845052b9",
-                "productId": 2437985,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_dd566d28cd744e06a2d9661c4ef924fd.jpg",
-                "purchasedCount": 3
-            },
-            {
-                "title": "แฟนหนุ่มของผมเป็นเน็ตไอดอล ภาคพิเศษ(2) วิกฤติในชีวิตแต่งงาน",
-                "titleKana": "แฟนหนุ่มของผมเป็นเน็ตไอดอลภาคพิเศษ(2)วิกฤติในชีวิตแต่งงาน",
-                "uuid": "f9bb2496-6f4e-4233-8001-1d3565c76e78",
-                "productId": 2437973,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_8432e055bbb94821a5b8a885b39d629d.jpg",
-                "purchasedCount": 4
-            }
-        ]
-    },
-    {
         "seriesName": "MORIARTY THE PATRIOT",
         "seriesId": 497465,
         "publisherId": 2541,
@@ -11976,7 +11769,7 @@
                 "productId": 1627588,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207112.jpg",
-                "purchasedCount": 158
+                "purchasedCount": 160
             }
         ]
     },
@@ -16634,50 +16427,6 @@
         ]
     },
     {
-        "seriesName": "แฟนผมเป็นคุณครู",
-        "seriesId": 423697,
-        "publisherId": 2545,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "แฟนผมเป็นคุณครู เล่ม 3",
-                "titleKana": "แฟนผมเป็นคุณครู3",
-                "uuid": "0eb5f44e-521c-48c6-bbbb-be20c411bd66",
-                "productId": 1727666,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6562338.jpg",
-                "purchasedCount": 8
-            },
-            {
-                "title": "แฟนผมเป็นคุณครู เล่ม 2",
-                "titleKana": "แฟนผมเป็นคุณครู2",
-                "uuid": "4a360303-47b7-4955-82d5-c9a838aea2de",
-                "productId": 1727651,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6562324.jpg",
-                "purchasedCount": 10
-            },
-            {
-                "title": "แฟนผมเป็นคุณครู เล่ม 1",
-                "titleKana": "แฟนผมเป็นคุณครู1",
-                "uuid": "730f6708-6b41-45ba-833d-cee8a7189d97",
-                "productId": 1727649,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6562316.jpg",
-                "purchasedCount": 22
-            },
-            {
-                "title": "แฟนผมเป็นคุณครู เล่ม 4",
-                "titleKana": "แฟนผมเป็นคุณครู4",
-                "uuid": "d3fbfbb2-31e7-4bd1-a158-f3aeb3ae97e6",
-                "productId": 1727647,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6562350.jpg",
-                "purchasedCount": 10
-            }
-        ]
-    },
-    {
         "seriesName": "เซียน NEET พิชิตต่างโลก",
         "seriesId": 423695,
         "publisherId": 2545,
@@ -18690,41 +18439,6 @@
         ]
     },
     {
-        "seriesName": "เอ็กซ์ตัสออนไลน์",
-        "seriesId": 411712,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "เอ็กซ์ตัสออนไลน์ เล่ม 3 จอมมารผู้ขับขานบทกวีกลางวังวนโหมดผู้ใหญ่และการใช้เงินจริง",
-                "titleKana": "เอ็กซ์ตัสออนไลน์3จอมมารผู้ขับขานบทกวีกลางวังวนโหมดผู้ใหญ่และการใช้เงินจริง",
-                "uuid": "75332932-8fa4-4905-9f61-76b310dc36f5",
-                "productId": 1652744,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6309562.jpg",
-                "purchasedCount": 18
-            },
-            {
-                "title": "เอ็กซ์ตัสออนไลน์ เล่ม 1 จอมมารผู้ไม่ยอมให้เคลียร์เกม",
-                "titleKana": "เอ็กซ์ตัสออนไลน์1จอมมารผู้ไม่ยอมให้เคลียร์เกม",
-                "uuid": "84fded84-bdab-4374-862b-03152f602253",
-                "productId": 1652742,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6309586.jpg",
-                "purchasedCount": 32
-            },
-            {
-                "title": "เอ็กซ์ตัสออนไลน์ เล่ม 2 ใครจะรอ Santa-X ไหวกัน",
-                "titleKana": "เอ็กซ์ตัสออนไลน์2ใครจะรอsanta-xไหวกัน",
-                "uuid": "64398bc1-27d7-4ba0-860a-4d673b672378",
-                "productId": 1652741,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6309568.jpg",
-                "purchasedCount": 18
-            }
-        ]
-    },
-    {
         "seriesName": "เมื่อแฟนสาวหน้าใสอยากเป็นนางเอกในเกมสยิวของผม",
         "seriesId": 411710,
         "publisherId": 2546,
@@ -19444,7 +19158,7 @@
                 "productId": 1642120,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6600504.jpg",
-                "purchasedCount": 60
+                "purchasedCount": 62
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน เล่ม 6",
@@ -20108,23 +19822,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6207180.jpg",
                 "purchasedCount": 6
-            }
-        ]
-    },
-    {
-        "seriesName": "รู้ตัวอีกทีก็ตกเป็นของผู้ชายอันดับ 1 ที่สาวๆอยากกอดไปซะแล้ว \"โรงเรียนสีมรกต\"",
-        "seriesId": 408218,
-        "publisherId": 2546,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "รู้ตัวอีกทีก็ตกเป็นของผู้ชายอันดับ 1 ที่สาวๆอยากกอดไปซะแล้ว \"โรงเรียนสีมรกต\"",
-                "titleKana": "รู้ตัวอีกทีก็ตกเป็นของผู้ชายอันดับ1ที่สาวๆอยากกอดไปซะแล้ว\"โรงเรียนสีมรกต\"",
-                "uuid": "ca28c443-fff8-4459-b73e-4e8fc59fa298",
-                "productId": 1627863,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6207668.jpg",
-                "purchasedCount": 26
             }
         ]
     },
@@ -21148,23 +20845,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6203506.jpg",
                 "purchasedCount": 2
-            }
-        ]
-    },
-    {
-        "seriesName": "กุหลาบทมิฬ",
-        "seriesId": 407776,
-        "publisherId": 2543,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "กุหลาบทมิฬ",
-                "titleKana": "กุหลาบทมิฬ",
-                "uuid": "ade4de7a-44e4-481b-8a70-5c78e502e786",
-                "productId": 1625999,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_6203510.jpg",
-                "purchasedCount": 1
             }
         ]
     },
