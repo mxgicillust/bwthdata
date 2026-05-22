@@ -1,5 +1,127 @@
 [
     {
+        "seriesName": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า",
+        "seriesId": 512110,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 4",
+                "titleKana": "มิตรสหายท่านหนึ่งในฉากหลังตำนานผู้กล้า4",
+                "uuid": "d516bd40-3bd4-459a-9844-85f72f144979",
+                "productId": 3340503,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_20f3ab88e1b542bd9b6c48eb73d593cd.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 3",
+                "titleKana": "มิตรสหายท่านหนึ่งในฉากหลังตำนานผู้กล้า3",
+                "uuid": "4b513f84-5347-4818-8b8b-18eb27d5d53d",
+                "productId": 2701874,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_4a59a1eca5374d41a22fcb7adf7d905b.jpg",
+                "purchasedCount": 23
+            },
+            {
+                "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 1",
+                "titleKana": "มิตรสหายท่านหนึ่งในฉากหลังตำนานผู้กล้า1",
+                "uuid": "fbb9e309-656e-47b9-907b-8da749a317d9",
+                "productId": 2581480,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_d2048d24d3684dadbee03a61a5d09f1f.jpg",
+                "purchasedCount": 16
+            },
+            {
+                "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 2",
+                "titleKana": "มิตรสหายท่านหนึ่งในฉากหลังตำนานผู้กล้า2",
+                "uuid": "b8d6d66e-20de-43d8-8073-f9abbe9201d9",
+                "productId": 2581472,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_218e6813553e4f7b910735bb8c57c5c0.jpg",
+                "purchasedCount": 17
+            }
+        ]
+    },
+    {
+        "seriesName": "จอมเวทหนุ่ม ถูกหยามว่ากระจอก แต่ขอบอกว่าสุดเทพ",
+        "seriesId": 523793,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "จอมเวทหนุ่ม ถูกหยามว่ากระจอก แต่ขอบอกว่าสุดเทพ เล่ม 2",
+                "titleKana": "จอมเวทหนุ่มถูกหยามว่ากระจอกแต่ขอบอกว่าสุดเทพ2",
+                "uuid": "9da92a54-5384-4dcd-94ae-fc0b0504b7f8",
+                "productId": 3340501,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_078b6516719643c6a0b50c6fd68b9edf.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "จอมเวทหนุ่ม ถูกหยามว่ากระจอก แต่ขอบอกว่าสุดเทพ เล่ม 1",
+                "titleKana": "จอมเวทหนุ่มถูกหยามว่ากระจอกแต่ขอบอกว่าสุดเทพ1",
+                "uuid": "ab988d57-d513-4f23-9962-674e634f96fe",
+                "productId": 2699924,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_dc79ff611a7d4629840c992796f10dd3.jpg",
+                "purchasedCount": 14
+            }
+        ]
+    },
+    {
+        "seriesName": "ไม่ได้เจอกันตั้ง 10 ปี เจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย",
+        "seriesId": 499599,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ไม่ได้เจอกันตั้ง 10 ปี เจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย เล่ม 2",
+                "titleKana": "ไม่ได้เจอกันตั้ง10ปีเจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย2",
+                "uuid": "98d11d12-243d-4681-9647-389fab2d68f0",
+                "productId": 3340499,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3a134a44cdba43a98cbe3a5078f9cf02.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ไม่ได้เจอกันตั้ง 10 ปี เจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย เล่ม 1",
+                "titleKana": "ไม่ได้เจอกันตั้ง10ปีเจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย1",
+                "uuid": "6cd9291f-84f7-4a83-85c2-3451838dac4f",
+                "productId": 2442695,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_577d973986d44feaacf5d1ab25763bf0.jpg",
+                "purchasedCount": 42
+            }
+        ]
+    },
+    {
+        "seriesName": "ดอกฟ้าผู้เดียวดายจากอังกฤษ สิ้นฤทธิ์เมื่อมาเป็นน้องสาว",
+        "seriesId": 523794,
+        "publisherId": 2548,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ดอกฟ้าผู้เดียวดายจากอังกฤษ สิ้นฤทธิ์เมื่อมาเป็นน้องสาว เล่ม 2",
+                "titleKana": "ดอกฟ้าผู้เดียวดายจากอังกฤษสิ้นฤทธิ์เมื่อมาเป็นน้องสาว2",
+                "uuid": "3ef91f50-20fa-4b88-8708-d6eb7ba2f1ff",
+                "productId": 3340498,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_b7d5bd9b9a5e45eab024f7a402d49aa0.jpg",
+                "purchasedCount": 0
+            },
+            {
+                "title": "ดอกฟ้าผู้เดียวดายจากอังกฤษ สิ้นฤทธิ์เมื่อมาเป็นน้องสาว เล่ม 1",
+                "titleKana": "ดอกฟ้าผู้เดียวดายจากอังกฤษสิ้นฤทธิ์เมื่อมาเป็นน้องสาว1",
+                "uuid": "4f45ddac-8ab8-4af6-808a-cb3678ec923c",
+                "productId": 2699923,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_024d96a9b7c9438e84df6c47ac4e1620.jpg",
+                "purchasedCount": 24
+            }
+        ]
+    },
+    {
         "seriesName": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย",
         "seriesId": 408152,
         "publisherId": 2546,
@@ -12,7 +134,7 @@
                 "productId": 3327133,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3e9c0d0dbf704ab0952e8a9e367040cf.jpg",
-                "purchasedCount": 118
+                "purchasedCount": 122
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เล่ม 10",
@@ -1101,7 +1223,7 @@
                 "productId": 3160505,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_d770434fa2b9459e9b306c8b72754848.jpg",
-                "purchasedCount": 6
+                "purchasedCount": 8
             },
             {
                 "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน เล่ม 6",
@@ -1270,7 +1392,7 @@
                 "productId": 3165055,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3b7044c1c7264195a3682df71cf8107c.jpg",
-                "purchasedCount": 15
+                "purchasedCount": 18
             },
             {
                 "title": "มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน ภาคพิเศษ Sword Oratoria เล่ม 5",
@@ -1446,7 +1568,7 @@
                 "productId": 3299794,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_acf847611a97428993a42f266bd2a000.jpg",
-                "purchasedCount": 22
+                "purchasedCount": 26
             },
             {
                 "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 22",
@@ -5493,7 +5615,7 @@
                 "productId": 3038218,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_1288b1522dfa422b972ec86cf84cfea1.jpg",
-                "purchasedCount": 120
+                "purchasedCount": 122
             },
             {
                 "title": "ใครฆ่าผู้กล้า เล่ม 2",
@@ -5502,7 +5624,7 @@
                 "productId": 2534638,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_4cd1b587334343a59947e937abdd2c0d.jpg",
-                "purchasedCount": 178
+                "purchasedCount": 180
             },
             {
                 "title": "ใครฆ่าผู้กล้า เล่ม 1",
@@ -5511,7 +5633,7 @@
                 "productId": 2306063,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_f0ebe951d6ab4c74a5df868e83cbed58.jpg",
-                "purchasedCount": 358
+                "purchasedCount": 360
             }
         ]
     },
@@ -7996,41 +8118,6 @@
         ]
     },
     {
-        "seriesName": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า",
-        "seriesId": 512110,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 3",
-                "titleKana": "มิตรสหายท่านหนึ่งในฉากหลังตำนานผู้กล้า3",
-                "uuid": "4b513f84-5347-4818-8b8b-18eb27d5d53d",
-                "productId": 2701874,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_4a59a1eca5374d41a22fcb7adf7d905b.jpg",
-                "purchasedCount": 23
-            },
-            {
-                "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 1",
-                "titleKana": "มิตรสหายท่านหนึ่งในฉากหลังตำนานผู้กล้า1",
-                "uuid": "fbb9e309-656e-47b9-907b-8da749a317d9",
-                "productId": 2581480,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_d2048d24d3684dadbee03a61a5d09f1f.jpg",
-                "purchasedCount": 16
-            },
-            {
-                "title": "มิตรสหายท่านหนึ่ง ในฉากหลังตำนานผู้กล้า เล่ม 2",
-                "titleKana": "มิตรสหายท่านหนึ่งในฉากหลังตำนานผู้กล้า2",
-                "uuid": "b8d6d66e-20de-43d8-8073-f9abbe9201d9",
-                "productId": 2581472,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_218e6813553e4f7b910735bb8c57c5c0.jpg",
-                "purchasedCount": 17
-            }
-        ]
-    },
-    {
         "seriesName": "ป๊ะป๋านักผจญภัยแรงค์ S จะเสร็จพวกลูกสาวหรือเปล่านะ",
         "seriesId": 512106,
         "publisherId": 2548,
@@ -8096,40 +8183,6 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_631252c6764247f0886ba631d177e0b6.jpg",
                 "purchasedCount": 30
-            }
-        ]
-    },
-    {
-        "seriesName": "จอมเวทหนุ่ม ถูกหยามว่ากระจอก แต่ขอบอกว่าสุดเทพ",
-        "seriesId": 523793,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "จอมเวทหนุ่ม ถูกหยามว่ากระจอก แต่ขอบอกว่าสุดเทพ เล่ม 1",
-                "titleKana": "จอมเวทหนุ่มถูกหยามว่ากระจอกแต่ขอบอกว่าสุดเทพ1",
-                "uuid": "ab988d57-d513-4f23-9962-674e634f96fe",
-                "productId": 2699924,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_dc79ff611a7d4629840c992796f10dd3.jpg",
-                "purchasedCount": 14
-            }
-        ]
-    },
-    {
-        "seriesName": "ดอกฟ้าผู้เดียวดายจากอังกฤษ สิ้นฤทธิ์เมื่อมาเป็นน้องสาว",
-        "seriesId": 523794,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ดอกฟ้าผู้เดียวดายจากอังกฤษ สิ้นฤทธิ์เมื่อมาเป็นน้องสาว เล่ม 1",
-                "titleKana": "ดอกฟ้าผู้เดียวดายจากอังกฤษสิ้นฤทธิ์เมื่อมาเป็นน้องสาว1",
-                "uuid": "4f45ddac-8ab8-4af6-808a-cb3678ec923c",
-                "productId": 2699923,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_024d96a9b7c9438e84df6c47ac4e1620.jpg",
-                "purchasedCount": 24
             }
         ]
     },
@@ -10534,23 +10587,6 @@
         ]
     },
     {
-        "seriesName": "ไม่ได้เจอกันตั้ง 10 ปี เจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย",
-        "seriesId": 499599,
-        "publisherId": 2548,
-        "publisherName": null,
-        "books": [
-            {
-                "title": "ไม่ได้เจอกันตั้ง 10 ปี เจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย เล่ม 1",
-                "titleKana": "ไม่ได้เจอกันตั้ง10ปีเจ้าเด็กแสบนี่ดันโตมาน่ารักเฉยเลย1",
-                "uuid": "6cd9291f-84f7-4a83-85c2-3451838dac4f",
-                "productId": 2442695,
-                "synopsis": "",
-                "coverFileName": "https://c.bookwalker.jp/coverImage_577d973986d44feaacf5d1ab25763bf0.jpg",
-                "purchasedCount": 42
-            }
-        ]
-    },
-    {
         "seriesName": "นักเจรจาสุดโฉดจะสร้างตำนานแคลนสุดแกร่ง",
         "seriesId": 499595,
         "publisherId": 2548,
@@ -11209,7 +11245,7 @@
                 "productId": 2355096,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_b2d3b217b13743a2acabb5fa73173ccc.jpg",
-                "purchasedCount": 18
+                "purchasedCount": 20
             }
         ]
     },
@@ -14447,7 +14483,7 @@
                 "productId": 1983318,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_90a2151d978c452bad0876ffc412c985.jpg",
-                "purchasedCount": 29
+                "purchasedCount": 30
             },
             {
                 "title": "ทำไงดีเกมนี้นางร้ายน่ารัก เล่ม 3",
@@ -14465,7 +14501,7 @@
                 "productId": 1815715,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6877740.jpg",
-                "purchasedCount": 29
+                "purchasedCount": 30
             },
             {
                 "title": "ทำไงดีเกมนี้นางร้ายน่ารัก เล่ม 2",
@@ -14526,7 +14562,7 @@
                 "productId": 1968842,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3840768bb7394eeeae77095bdd53a71a.jpg",
-                "purchasedCount": 32
+                "purchasedCount": 34
             },
             {
                 "title": "ลำนำรักผู้พิทักษ์ฤดูกาล ภาคคิมหันตลีลา เล่ม 1",
@@ -14535,7 +14571,7 @@
                 "productId": 1968826,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_62e75ad5dad546efb9cba9e0cdadf64c.jpg",
-                "purchasedCount": 42
+                "purchasedCount": 44
             }
         ]
     },
