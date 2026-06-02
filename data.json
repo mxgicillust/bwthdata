@@ -134,7 +134,7 @@
                 "productId": 3327133,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3e9c0d0dbf704ab0952e8a9e367040cf.jpg",
-                "purchasedCount": 148
+                "purchasedCount": 150
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เล่ม 10",
@@ -206,7 +206,7 @@
                 "productId": 1627782,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6541418.jpg",
-                "purchasedCount": 984
+                "purchasedCount": 986
             },
             {
                 "title": "คุณอาเรียโต๊ะข้างๆพูดรัสเซียหวานใส่ซะหัวใจจะวาย เล่ม 4",
@@ -625,7 +625,7 @@
                 "productId": 3323046,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_516a82adc03641cfbd2b0509bf586789.jpg",
-                "purchasedCount": 26
+                "purchasedCount": 28
             },
             {
                 "title": "จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ เล่ม 11",
@@ -1551,7 +1551,7 @@
                 "productId": 3294066,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_dca7f9fb3790476f87869e941e9705d3.jpg",
-                "purchasedCount": 4
+                "purchasedCount": 6
             }
         ]
     },
@@ -1604,7 +1604,7 @@
                 "productId": 2142690,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_0d641a0cefef47518f76ddcf954ca7c4.jpg",
-                "purchasedCount": 128
+                "purchasedCount": 130
             },
             {
                 "title": "เกิดชาตินี้พี่ต้องเทพ (ฉบับนิยาย) เล่ม 18",
@@ -3078,7 +3078,7 @@
                 "productId": 1869162,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7076796.jpg",
-                "purchasedCount": 84
+                "purchasedCount": 86
             },
             {
                 "title": "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว (ฉบับนิยาย) 5",
@@ -4345,7 +4345,7 @@
                 "productId": 1627728,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6588608.jpg",
-                "purchasedCount": 220
+                "purchasedCount": 224
             },
             {
                 "title": "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ปีสอง เล่ม 2",
@@ -4888,7 +4888,7 @@
                 "productId": 2534626,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3d5cc7e2249349098fdbf93bae45cef4.jpg",
-                "purchasedCount": 300
+                "purchasedCount": 302
             },
             {
                 "title": "เพื่อนคนแรกของผมคือสาวสวยอันดับสองของห้อง เล่ม 3",
@@ -5234,7 +5234,7 @@
                 "productId": 2437857,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_c40dc022ef1b436d8dd5eaaf07334af2.jpg",
-                "purchasedCount": 190
+                "purchasedCount": 192
             },
             {
                 "title": "ราชินีนักล่าค่าประสบการณ์ เล่ม 1",
@@ -7561,6 +7561,23 @@
         ]
     },
     {
+        "seriesName": "ปาฏิหาริย์รักซับเวย์",
+        "seriesId": 534314,
+        "publisherId": 2609,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "ปาฏิหาริย์รักซับเวย์",
+                "titleKana": "ปาฏิหาริย์รักซับเวย์",
+                "uuid": "fdda88ab-40de-4001-8b06-b4145705b0ff",
+                "productId": 2802768,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_1073b80d672c44f9b686bd62d60664c9.jpg",
+                "purchasedCount": 0
+            }
+        ]
+    },
+    {
         "seriesName": "ทำนองเพลงบรรเลงฝัน",
         "seriesId": 533261,
         "publisherId": 2779,
@@ -7636,6 +7653,23 @@
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_7288132.jpg",
                 "purchasedCount": 20
+            }
+        ]
+    },
+    {
+        "seriesName": "Traffic Jam การเดินทางระหว่างเรา",
+        "seriesId": 532991,
+        "publisherId": 2609,
+        "publisherName": null,
+        "books": [
+            {
+                "title": "Traffic Jam การเดินทางระหว่างเรา",
+                "titleKana": "trafficjamการเดินทางระหว่างเรา",
+                "uuid": "956341e2-ac4c-4e37-b383-3886b1e36011",
+                "productId": 2788891,
+                "synopsis": "",
+                "coverFileName": "https://c.bookwalker.jp/coverImage_3edd0f2428e14f798bbe3db4be5ff042.jpg",
+                "purchasedCount": 0
             }
         ]
     },
@@ -14562,7 +14596,7 @@
                 "productId": 1968842,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_3840768bb7394eeeae77095bdd53a71a.jpg",
-                "purchasedCount": 40
+                "purchasedCount": 42
             },
             {
                 "title": "ลำนำรักผู้พิทักษ์ฤดูกาล ภาคคิมหันตลีลา เล่ม 1",
@@ -17422,7 +17456,7 @@
                 "productId": 1691422,
                 "synopsis": "",
                 "coverFileName": "https://c.bookwalker.jp/coverImage_6436184.jpg",
-                "purchasedCount": 72
+                "purchasedCount": 36
             }
         ]
     },
